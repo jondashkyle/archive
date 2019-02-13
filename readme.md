@@ -1,5 +1,3 @@
 # Everything
 
-![](example.jpg)
-
-lol
+It all goes here.
