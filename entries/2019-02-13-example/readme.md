@@ -8,3 +8,5 @@ tags:
 # Example
 
 This is just a test.
+
+![image test](hey.jpg)
