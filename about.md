@@ -38,6 +38,11 @@ Los Angeles, California.
 - Processing Day, 2019
 - MozFest, 2018
 
+## Interviews
+
+- [Paprika!, Yale Architecture](https://yalepaprika.com/articles/skip-the-process-draw-the-pixels-a-conversation-with-jon-kyle-mohr)
+- [Between Broadcast and Community: The Design of Virtual Spaces](https://www.theatlantic.com/technology/archive/2013/09/between-broadcast-and-community-the-design-of-virtual-spaces/279763/?utm_source=feed), The Atlantic
+
 ## Performances
 
 - [MOCA](https://www.moca.org) (Los Angeles)
