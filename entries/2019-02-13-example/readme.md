@@ -9,4 +9,7 @@ tags:
 
 This is just a test.
 
+<section>
 ![image test](hey.jpg)
+![image test](hey.jpg)
+</section>
