@@ -7,16 +7,22 @@ tags:
 
 # Example
 
-This is just a test.
+side by side
 
-![image test](hey.jpg)
+![c:7/13](hey.jpg)
 
-![image test](hey.jpg)
+![c:1/7](hey.jpg)
 
 lol nice one!!
 
-really great
+full width
 
-![image test](hey.jpg)
+![c:1/-1](hey.jpg)
 
-k
+default
+
+![](hey.jpg)
+
+ratio
+
+![r:25](hey.jpg)
