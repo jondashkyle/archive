@@ -23,6 +23,12 @@ ratio
 
 ![r:25](hey.jpg)
 
-default
+this should show more below
 
-![](hey.jpg)
+<!-- more -->
+
+yeah this is extra content
+
+![c:4/-9 r:66.6](hey.jpg)
+
+cool
