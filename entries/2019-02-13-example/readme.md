@@ -9,9 +9,9 @@ tags:
 
 side by side
 
-![c:7/13](hey.jpg)
-
 ![c:1/7](hey.jpg)
+
+![c:7/13](hey.jpg)
 
 lol nice one!!
 
