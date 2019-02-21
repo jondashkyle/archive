@@ -21,7 +21,7 @@ We slept in a bit, ate breakfast, and broke down camp. The additional weight of 
 
 As planned, we stopped by Lone Pine Lake. The water was perfect, and we spent quite a bit of time both relaxing by it’s edge and wading around. The surface of the water constantly rippled due to the sheer number of trout swimming around. This area does not require a permit, and I’m certainly planning on visiting again to camp sometime this summer.
 
-![Blue all around](73-jg_75.jpg)
+![r:75](73-jg_75.jpg)
 
 The last few miles went quickly. Looking around me to take in the last moments of the trip the crumbling granite appeared in motion. What looked to be still was actually falling to the valley below, albeit on a geological timescale. 
 
