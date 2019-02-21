@@ -1,4 +1,4 @@
-# title: London Calling
+# London Calling
 
 My friends from [Code for Science and Society](https://codeforscience.org), who are behind the [Dat protocol](http://datproject.org), invited me to lead a workshop at MozFest 2018 in London. I’m an outsider[^1] at conferences, but learned MozFest isn’t very much like other technology conferences, the theme of this year being “your data and you.” There was noticeably less hype and self congratulation compared to similar things.
 
@@ -16,7 +16,7 @@ The workshop began with a quick intro by [Danielle Robinson](http://www.danielle
 
 I gave a quick talk looking at how large tech platforms use the language of urbanism in ambiguous terms, and looking at public parks as a way of contrasting their tendency to think of themselves as “global town squares”. This led into the workshop, and we collected contributions as they were made.
 
-![c:1/-1](posters-collage.jpg)
+![c:1/-1 r:56.25](posters-collage.jpg)
 
 The next day we printed the contributions and taped them up for display everywhere across the nine floors of the conference building. There were lots of other posters promoting talks and panels. Ours existed more as artifacts, asking the viewer to pause for a moment and consider shifting their perspective on the activity around them. 
 
