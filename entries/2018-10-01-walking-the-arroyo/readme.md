@@ -12,7 +12,7 @@ To better understand the relation between here and there for myself, I began to 
 
 When conceiving of any project involving sight I find myself sketching in the browser. Everything today ultimately becomes a two-dimensional image on a screen anyway—it makes for an obvious starting point when considering form, and I find programming the medium most conducive to capturing ideas.
 
-![c:1/7 r:177](linewalking_117.jpg)
+![c:1/7 r:117](linewalking_117.jpg)
 
 ![c:7/13 r:81](waitakere-ader-searchin_81.jpg)
 
