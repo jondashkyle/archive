@@ -1,3 +1,4 @@
+---
 visible: true
 index: 
   - Introduction

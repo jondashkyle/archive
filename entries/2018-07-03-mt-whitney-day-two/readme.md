@@ -1,3 +1,4 @@
+---
 visible: true
 index: 
   - [Introduction](/entries/2018-07-01-mt-whitney-day-intro)
