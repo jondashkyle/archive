@@ -108,7 +108,7 @@ We turned in early after dinner, both from exhaustion and as the winds were sign
 
 ![c:2/7 r:75](64-jg_75.jpg)
 
-![c:7/11 r:75](65-jk_75.jpg)
+![c:7/12 r:75](65-jk_75.jpg)
 
 ### Tips
 
