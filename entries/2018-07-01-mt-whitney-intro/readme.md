@@ -9,8 +9,6 @@ index:
 
 # Mount Whitney: Introduction
 
-This series recounts a trip out to the high Sierra to summit Mount Whitney.
-
 ![r:133](ZONE.jpg)
 
 Like most trips, there is an option for the drive between San Fransisco and Los Angeles: the scenic route or the fast route, depending upon your disposition.
