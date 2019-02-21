@@ -1,4 +1,1 @@
-entries/2018-07-01-mt-whitney-intro/*.jpg filter=lfs diff=lfs merge=lfs -text
-entries/2018-07-02-mt-whitney-day-one/*.jpg filter=lfs diff=lfs merge=lfs -text
-entries/2018-07-03-mt-whitney-day-two/*.jpg filter=lfs diff=lfs merge=lfs -text
-entries/2018-07-04-mt-whitney-day-three/*.jpg filter=lfs diff=lfs merge=lfs -text
+entries/**/*.jpg filter=lfs diff=lfs merge=lfs -text
