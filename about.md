@@ -1,6 +1,6 @@
 # About
 
-![](joshua-tree-portrait.jpg)
+![](jon-kyle.jpg)
 
 Los Angeles, California.  
 [contact@jon-kyle.com](mailto:contact@jon-kyle.com)
@@ -9,13 +9,13 @@ Los Angeles, California.
 
 ---
 
-## Ongoing
+### Ongoing
 
-- [Cargo Collective](https://cargocollective.com) v1, 2009–16
+- [Cargo Collective](https://cargocollective.com), 2009–16
 - [Peer-to-Peer Web](https://peer-to-peer-web.com), 2017–18
 - [Hardly Everything](https://hardly-everything.com), 2015–
 
-## Select projects
+### Select projects
 
 - [East of Borneo](https://eastofborneo.org), 2018*
 - [Lily Clark](https://lily-clark.com), 2018
@@ -28,24 +28,24 @@ Los Angeles, California.
 - Shattered Streams (RBMA), 2016
 - Morphosis Architects, 2016*
 - [Venue](https://v-e-n-u-e.com), 2015
-
-&ast; with [Folder Studio](https://folder.studio)
+- More work available upon request
+- &ast; with [Folder Studio](https://folder.studio)
 
 ---
 
-## Speaking
+### Speaking
 
-- Processing Community Day, 2019 (Los Angeles)
+- [Processing Day](https://processingfoundation.org), 2019 (Los Angeles)
 - MozFest, 2018 (London)
 - [Evening Class](https://evening-class.org), 2018 (London)
 - Peer-to-Peer Web / LA, 2017
 
-## Interviews
+### Interviews
 
 - [Paprika!](https://yalepaprika.com/articles/skip-the-process-draw-the-pixels-a-conversation-with-jon-kyle-mohr), Yale School of Architecture
 - [Between Broadcast and Community: The Design of Virtual Spaces](https://www.theatlantic.com/technology/archive/2013/09/between-broadcast-and-community-the-design-of-virtual-spaces/279763/?utm_source=feed), The Atlantic
 
-## Performances
+### Performances
 
 - [MOCA](https://www.moca.org) (Los Angeles)
 - [The Broad Museum](https://www.thebroad.org) (Los Angeles)
