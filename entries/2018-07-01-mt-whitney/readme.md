@@ -48,10 +48,6 @@ Our trip up The 14 took us past a number of geologically fascinating areas. Just
 
 Before too long we arrived in Lone Pine, a town located at the base of Mount Witney, and clearly centered around supporting the associated activity. We spotted an airstream trailer with the words “Ultralight Backpacking” on the rear. Sure enough, it was fully stocked with all the best equipment, including Altras. I grabbed a pair of Timps, merino toe socks (why the hell not?), and placed the pair from Dicks back in the box. Huge shout out to [2 Foot Adventures](https://2footadventures.com/)!
 
-![r:133](07-jk_133.jpg)
-
-![r:75](05-jk_75.jpg)
-
 ![r:75](06-jk_75.jpg)
 
 We met up with the rest of the group for dinner at Bonanza then headed up to Whitney Portal at 8,364ft. The plan was to acclimate to the elevation over the next two days leading up to summit to avoid acute mountain sickness. With camp setup we went to sleep without much fuss.
