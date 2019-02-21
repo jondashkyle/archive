@@ -1,0 +1,32 @@
+# Misidentified
+
+- [Now Instant](https://now-instant.la)
+- Yohji
+- Wim Wenders
+- Notebook On Cities And Clothes
+- Image
+- etc
+
+[Notebook On Cities And Clothes](http://jkm-library.s3.amazonaws.com/blocks/Notebook%20On%20Cities%20And%20Clothes.mp4)
+
+> We are creating an image of ourselves,  
+> we are attempting to resemble this image…. 
+> Is that what we call identity?  
+> The accord. 
+> between the image we have created. 
+> of ourselves. 
+> and … ourselves?  
+> Just who is that, “ourselves”?
+
+- why
+- rejecting solutionism
+
+- diffuse
+- soft
+- hardware has made us hardworn
+
+- i am “me”?
+- seeing faces as GANNS
+- http://thispersondoesnotexist.com
+- https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842
+- wenders on no originals, only copies
