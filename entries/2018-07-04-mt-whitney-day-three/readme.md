@@ -1,5 +1,6 @@
 ---
-visible: true
+tags:
+  - hiking
 index: 
   - "[Introduction](/entries/2018-07-01-mt-whitney-intro)"
   - "[Day One](/entries/2018-07-02-mt-whitney-day-one)"

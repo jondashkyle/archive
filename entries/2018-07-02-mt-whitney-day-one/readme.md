@@ -1,5 +1,6 @@
 ---
-visible: true
+tags:
+  - hiking
 index: 
   - "[Introduction](/entries/2018-07-01-mt-whitney-intro)"
   - Day One
