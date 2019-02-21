@@ -13,6 +13,8 @@ After an alright night of sleep the day began at 6:00am. Our packs were signific
 
 A quick break to double check the time, 7:20am, and we started up the first of ninety-nine switchbacks towards Trail Crest.
 
+<!-- more -->
+
 <div class="imgs-auto">
 
 ![Starting the switchbacks](33-jk_133.jpg)

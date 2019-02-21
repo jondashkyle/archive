@@ -11,6 +11,8 @@ index:
 
 We slept in a bit, ate breakfast, and broke down camp. The additional weight of the tent back in the pack didn’t feel great, but it was good to know the day was all downhill.
 
+<!-- more -->
+
 <div class="imgs-auto imgs-wide">
 
 ![Down past the meadow](71-jk_133.jpg)

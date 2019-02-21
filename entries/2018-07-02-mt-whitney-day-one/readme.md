@@ -11,29 +11,24 @@ index:
 
 The day began by breaking down camp and heading to the Whitney Portal Store for breakfast. Jon ordered a pancake the size of a medium pizza and about as thick as your fist. We made our way to the trailhead after securing the permits to our packs, gave them a weigh (I was 24lbs fully loaded w/ water) and started the 7 mile hike to trail camp.
 
-<div class="imgs-auto">
 
-![Not bad for last minute](08-jg_133.jpg)
+![c:1/4 r:133](08-jg_133.jpg)
 
-![Mornin muggin](09-jg_133.jpg)
+![c:4/7 r:133](09-jg_133.jpg)
 
-![Fuck’d](10-jg_133.jpg)
+![c:7/10 r:133](10-jg_133.jpg)
 
-![Waterfall near camp](10-jk_133.jpg)
+![c:10/13 r:133](10-jk_133.jpg)
 
-</div>
+<!-- more -->
 
 Things start off amongst the pines, still dense at this altitude. Streams of snowmelt from several-thousand feet above provide abundant water, and when mixed with the shade create extremely lush pockets of ferns and resident insects.
 
-<div class="imgs-auto">
+![c:1/5 r:133](11-jg_133.jpg)
 
-![One of the first switchbacks](11-jg_133.jpg)
+![c:5/9 r:133](12-jg_133.jpg)
 
-![Ferns](12-jg_133.jpg)
-
-![Evidence of snowmelt](12-jk_133.jpg)
-
-</div>
+![c:9/13 r:133](12-jk_133.jpg)
 
 As the sun continued rising so too did the heat. The base of the mountain is located in the desert where it was quickly approaching 100°F. Even with the altitude we were feeling it, especially as the treeline approached and the trees and shade thinned out.
 
