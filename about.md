@@ -17,6 +17,7 @@ Los Angeles, California.
 
 ### Select projects
 
+- [Dublab](https://dublab.com), 2019*
 - [East of Borneo](https://eastofborneo.org), 2018*
 - [Lily Clark](https://lily-clark.com), 2018
 - 2Pac.com (Folder Studio), 2017
