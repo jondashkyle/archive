@@ -12,13 +12,11 @@ To better understand the relation between here and there for myself, I began to 
 
 When conceiving of any project involving sight I find myself sketching in the browser. Everything today ultimately becomes a two-dimensional image on a screen anyway—it makes for an obvious starting point when considering form, and I find programming the medium most conducive to capturing ideas.
 
-<div class="imgs-auto">
+![c:1/7 r:177](linewalking_117.jpg)
 
-![“A Line Made by Walking”, Richard Long, 1967](linewalking_117.jpg)
+![c:7/13 r:81](waitakere-ader-searchin_81.jpg)
 
-![“In Search of the Miraculous (One night in Los Angeles)”, Bas Jan Ader, 1973](waitakere-ader-searchin_81.jpg)
-
-</div>
+(Above, “A Line Made by Walking”, Richard Long, 1967 and “In Search of the Miraculous (One night in Los Angeles)”, Bas Jan Ader, 1973)
 
 The work of Richard Long and Bas Jan Ader have been sources of continual interest, both of them having generated work involving walks. Although they were not directly incorporated into the process of considering my walk, it’s worth looking at them again here.
 
@@ -34,7 +32,9 @@ In addition to the goal of better understanding what generates the subjective pe
 
 The page began as a line indicating the intended path along the [Los Angeles river](https://en.wikipedia.org/wiki/Los_Angeles_River) and [Arroyo Seco](https://en.wikipedia.org/wiki/Arroyo_Seco_(Los_Angeles_County)), both channelized after a series of floods, the concrete snaking through the natural contours of the area and providing a clear route when freeway construction began. The path overlaid a tile layer of shaded relief, the rivers appearing as deep cuts through the sprawl.
 
-![Shaded relief of the confluence of the Los Angeles River and Arroyo Seco](arroyo-relief_56.png)
+![c: 1/1 r:56](arroyo-relief_56.png)
+
+(Above, Shaded relief of the confluence of the Los Angeles River and Arroyo Seco)
 
 At this point the page was heavy with features. The map would pan and zoom when new points were added. It began to feel like a poorly implemented mapping application, not a personal exploration in place. Also, a side-effect of having pin-point accuracy when sharing a location on a social network is the subsequent attention it draws. Areas once requiring effort to locate are now disclosed to whomever bothers to scroll, leading to crowds, increased erosion and other issues. “Digital leave no trace” is a popular phrase promoting geographic ambiguity when sharing a photo, and borrows from a term suggesting you leave a spot as you found it when camping. This is a complex issue requiring careful consideration regarding accessibility, conservation, and the specificity of a pin drop.
 
@@ -42,13 +42,9 @@ Considering this led to removing most of the functionality, the terrain map, and
 
 The page became blank, marked only by a red line indicating the intended path from here to there, devoid of meaning without depiction of surrounding urbanization. This meaning would be later assigned by an underlying feed of messages, their position on the page mapping to the path through the landscape, and giving form to the trail of metadata left behind in the concrete channels.
 
-<div class="imgs-auto imgs-wide imgs-transparent">
+![c:1/7 r:110](walk-1_110.png)
 
-[![](walk-1_110.png)](https://arroyo.jon-kyle.com)
-
-[![](walk-2_110.png)](https://arroyo.jon-kyle.com)
-
-</div>
+![c:7/13 r:110](walk-2_110.png)
 
 The walk began, and after a few minutes I changed my mind about the route. The markers began deviating from the line on the page, the difference between intention and realization. This difference became a theme and stayed in mind as I neared the confluence of the Arroyo Seco and Los Angeles River, an area also occupied by the intersection of the 110 and 5 freeways.
 
@@ -56,13 +52,9 @@ The 110, spanning the distance between Downtown and Pasadena, was originally con
 
 > Transportation efficiency and aesthetic delight were considered inseparable goals of parkway design, which in the early 20th century was described as “bioengineering”—a marriage of architecture, landscaping and civil engineering in a three dimensional design. These dual values which resulted in the design of a road as both a route and a place were carefully incorporated in the design of the Arroyo Seco Parkway.
 
-<div class="imgs-auto">
+![c:2/7 r:69](dayton-1_69.jpg)
 
-![Dayton Avenue Bridge, 1938](dayton-1_69.jpg)
-
-![The Riverside-Figueroa Bridge, 2015](dayton-2_69.jpg)
-
-</div>
+![c:7/12 r:69](dayton-2_69.jpg)
 
 The image above depicts the confluence of the rivers and the intersections of the freeways separated in time. An overpass in 1938 at what was Dayton Ave, only two years prior to the opening of the Arroyo Seco Parkway to the left, the Riverside-Figueroa bridge just prior to demolition[^3] to the right. Anecdotally, there was an effort to save the bridge from demolition for its historic value and the possibility of becoming [open green space](https://www.youtube.com/watch?v=ei1K9kz_2ns) [spanning the river](http://www.theeastsiderla.com/2013/09/is-it-too-late-to-save-the-riverside-figueroa-bridge/)—Los Angeles’ “[answer to New York’s High Line](http://laist.com/2014/06/03/sorry_la_wont_get_its_own_awesome_h.php),” an inaccurate and unfair comparison.
 
@@ -74,13 +66,11 @@ I’m uninterested in urban oddities and cute stories, nor am I trying to point 
 
 There are apparent parallels between the evolution of the parkway to the freeway, the web page to the web platform. I can only assume some of the key figures responsible for creating the internet would sympathize with those who advocated for a parkway, as seemed evident through brief encounters when attending the Decentralized Web Summit this summer.
 
-![Placing the Twitter feed within urban condition, jokingly](feed-freeway_56.jpg)
+![r:56](feed-freeway_56.jpg)
 
 My walk began with the intent to better understand the “here”, “there,” and how freeways and cars generate a perceptual separation between my everyday and the relative sublime of *not staring at a screen for a minute*. I arrived at a place of greater confusion, in the foothills, deep into the feeds. 🙃
 
 Not really a conclusion, but a continuation of a line of thought.
-
----
 
 - Visit the project at [arroyo.jon-kyle.com](https://arroyo.jon-kyle.com)
 - Complimentary Are.na [research channel](https://www.are.na/jon-kyle-mohr/walking-the-arroyo)
