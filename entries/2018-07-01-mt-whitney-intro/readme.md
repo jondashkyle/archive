@@ -61,22 +61,3 @@ We met up with the rest of the group for dinner at Bonanza then headed up to Whi
 2. Keep an eye out for the Mojave DWP building.
 3. Keep your pack weight down; every pound counts and you’ll be glad you did tomorrow.
 4. Don’t forget your shoes ffs.
-
-### Tips
-
-1. For sure stop by the Portal Store for breakfast. If the flapjacks tickle yr fancy consider splitting with a fellow hiker.
-2. Save Lone Pine Lake for the return trip—the move is to get camp setup sometime in the afternoon to afford a few hours to simply hang out.
-3. Trail camp can get busy, consider setting up at Consultation for a nice alternative which puts you perhaps 20min from the switchbacks in the morning.
-4. There were plenty of places to fill up on water along the way. Bring whatever you consider to be proper capacity for a full day tomorrow, but today simply filter as you go. Less weight yo.
-
-## Digest
-
-It was difficult to gauge how extensive Whitney is prior to leaving as there was a range of involvement described in trip reports leading up to our departure. People do get injured, and we said hello to a few people who did need to turn back because of complications with the altitude.
-
-In general, if the snow has melted, you’re doing greater than ten mile hikes semi-regularly, and can summit over two days, I doubt you’ll encounter any issues.
-
-This in mind, it was rather crowded. While the permit system does help to keep numbers down, I had an awareness of my own effects on the ecosystem around the trail. The feeling of appreciation for something you’re contributing to damaging (in aggregate) are complex to navigate. Everyone should spend time there, but if practical that would of course create irreversible harm as is already happening on a smaller scale. 
-
-No good answers there, apart from promoting best practices such as leave no trace, etc… and if you do check it out, be sure to stay on trail (or at least on granite) and pack out your wag bag ffs!
-
-Shoutout [Jon](https://jongacnik.com/) for contributing about half the photos!

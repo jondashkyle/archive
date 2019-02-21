@@ -75,3 +75,11 @@ The reflexive sense of sublimity when zoning out at landscape around us subsided
 ![c:9/13 r:133](29-jk_133.jpg)
 
 We turned in early to thoroughly rest up before departing for the switchbacks at 6am the next morning.
+
+
+## Tips
+
+1. For sure stop by the Portal Store for breakfast. If the flapjacks tickle yr fancy consider splitting with a fellow hiker.
+2. Save Lone Pine Lake for the return trip—the move is to get camp setup sometime in the afternoon to afford a few hours to simply hang out.
+3. Trail camp can get busy, consider setting up at Consultation for a nice alternative which puts you perhaps 20min from the switchbacks in the morning.
+4. There were plenty of places to fill up on water along the way. Bring whatever you consider to be proper capacity for a full day tomorrow, but today simply filter as you go. Less weight yo.
