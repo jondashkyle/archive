@@ -15,9 +15,9 @@ We slept in a bit, ate breakfast, and broke down camp. The additional weight of 
 
 <!-- more -->
 
-![c:2/7 r:133](71-jk_133.jpg)
+![c:3/7 r:133](71-jk_133.jpg)
 
-![c:7/12 r:133](72-jg_133.jpg)
+![c:7/11 r:133](72-jg_133.jpg)
 
 As planned, we stopped by Lone Pine Lake. The water was perfect, and we spent quite a bit of time both relaxing by it’s edge and wading around. The surface of the water constantly rippled due to the sheer number of trout swimming around. This area does not require a permit, and I’m certainly planning on visiting again to camp sometime this summer.
 
