@@ -27,9 +27,9 @@ After the worst of it things start to level off, and we were pleasantly surprise
 
 ![c:1/5 r:133](29-jon_133.jpg)
 
-![c:5/10 r:133](30-jk_133.jpg)
+![c:5/9 r:133](30-jk_133.jpg)
 
-![c:10/13 r:133](31-trail_133.jpg)
+![c:9/13 r:133](31-trail_133.jpg)
 
 A few miles pass and you’re up there. [Stony Peak](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DY3012) is the second highest point on the west side of the island, the first being Silver Peak. This was such a welcome break form the climb up, and we hung out in the clouds for a while. Good thing considering how intense the trail down to Parsons was about to be.
 

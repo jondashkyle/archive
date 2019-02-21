@@ -52,9 +52,9 @@ Ok, a quick rundown of what was brought. While in New York I started to research
 
 ![c:4/7 r:133](48-pack_133.jpg)
 
-![c:7/11 r:133](49-pack_133.jpg)
+![c:7/10 r:133](49-pack_133.jpg)
 
-![c:11/13 r:133](50-pack_133.jpg)
+![c:10/13 r:133](50-pack_133.jpg)
 
 For $70 they ship all the material and expertly crafted instructions on how to assemble the pack. Amazingly it weights only 9.5 ounces once complete. Having never touched a sowing machine before, this was a great first project to learn from.
 

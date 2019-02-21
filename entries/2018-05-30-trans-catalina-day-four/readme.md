@@ -31,9 +31,9 @@ It was impossible to comprehend the scale of the landscape there, all collapsing
 
 ![c:1/5 r:133](44-cove_133.jpg)
 
-![c:5/10 r:133](45-fox_133.jpg)
+![c:5/9 r:133](45-fox_133.jpg)
 
-![c:10/13 r:133](46-mile_133.jpg)
+![c:9/13 r:133](46-mile_133.jpg)
 
 There isn’t a sign commemorating the end of the TCT, you just end up back in Two Harbors, which feels a little funny. Overall, super satisfying to have completed the trail, and we celebrated with more food and drinks at the single restaurant. One drink which stood out was the “Bison Milk.” You’ll have to experience it for yourself. The patrons we had seen last time were now staffing the bar, and the staff were now patrons.
 

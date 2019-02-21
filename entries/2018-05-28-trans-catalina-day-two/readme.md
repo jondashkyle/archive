@@ -29,9 +29,9 @@ After properly smashing the burger it was time to put the boots (or trail-runner
 
 ![c:1/5 r:133](14-jk_133.jpg)
 
-![c:5/10 r:133](15-jon_133.jpg)
+![c:5/9 r:133](15-jon_133.jpg)
 
-![c:11/13 r:133](16-little-harbor_133.jpg)
+![c:9/13 r:133](16-little-harbor_133.jpg)
 
 Little Harbor was pretty amazing; a secluded pair of coves with particularly calm waters. We kicked it for around 30 minutes, wanting to hop in, but knowing we needed to stay on schedule for the day. Ended up skipping stones most of the time. Tbh could spend the rest of my life just skipping stones.
 
@@ -51,9 +51,9 @@ As we approached cloud-base it *really* began to feel otherworldly, or at least 
 
 ![c:1/5 r:133](22-up_133.jpg)
 
-![c:5/10 r:133](23-jk_133.jpg)
+![c:5/9 r:133](23-jk_133.jpg)
 
-![c:10/13 r:133](24-jon_133.jpg)
+![c:9/13 r:133](24-jon_133.jpg)
 
 Beginning the descent into Two Harbors, the naming became clear when the vantage point provided a view of the narrow strip of land separating two harbors upon which the small town sits.
 
