@@ -32,7 +32,7 @@ In addition to the goal of better understanding what generates the subjective pe
 
 The page began as a line indicating the intended path along the [Los Angeles river](https://en.wikipedia.org/wiki/Los_Angeles_River) and [Arroyo Seco](https://en.wikipedia.org/wiki/Arroyo_Seco_(Los_Angeles_County)), both channelized after a series of floods, the concrete snaking through the natural contours of the area and providing a clear route when freeway construction began. The path overlaid a tile layer of shaded relief, the rivers appearing as deep cuts through the sprawl.
 
-![c:1/1 r:56](arroyo-relief_56.png)
+![c:1/-1 r:56](arroyo-relief_56.png)
 
 (Above, Shaded relief of the confluence of the Los Angeles River and Arroyo Seco)
 
