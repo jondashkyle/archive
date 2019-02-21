@@ -1,4 +1,6 @@
 
+# Mount Whitney
+
 Like most trips, there is an option for the drive between San Fransisco and Los Angeles: the scenic route or the fast route, depending upon your disposition.
 
 The former takes you meandering along what is often labeled “the most scenic stretch of highway” in North America, assuming of course the road hasn’t collapsed into the Pacific during one of the frequent landslides, creating a state of seemingly perpetual repair.
@@ -38,25 +40,17 @@ A quick search led to a Dick’s Sporting Goods, the only viable option provided
 
 Our trip up The 14 took us past a number of geologically fascinating areas. Just a week before I had caught a lecture at [Mount Wilson Observatory](https://www.mtwilson.edu/) by accomplished geologist [Tanya Atwater](http://emvc.geol.ucsb.edu/1_DownloadPage/Download_Page.html), who has contributed immensely to research on plate tectonics, specifically around southern California and the San Andreas fault. She mentioned often taking fellow geologists to the northern terminus of The 14—just off the highway are seemingly frozen snapshots of [undersea fissures](https://en.wikipedia.org/wiki/Submarine_volcano) bubbling up out of the desert floor.
 
-<div class="imgs-auto">
+![c:1/7 r:75](01-jk_75.jpg)
 
-![Undersea?](01-jk_75.jpg)
-
-![Nah, just the 14](02-jk_75.jpg)
-
-</div>
+![c:7/13 r:75](02-jk_75.jpg)
 
 Before too long we arrived in Lone Pine, a town located at the base of Mount Witney, and clearly centered around supporting the associated activity. We spotted an airstream trailer with the words “Ultralight Backpacking” on the rear. Sure enough, it was fully stocked with all the best equipment, including Altras. I grabbed a pair of Timps, merino toe socks (why the hell not?), and placed the pair from Dicks back in the box. Huge shout out to [2 Foot Adventures](https://2footadventures.com/)!
 
-<div class="imgs-auto">
+![r:133](07-jk_133.jpg)
 
-![Distant crags](07-jk_133.jpg)
+![r:75](05-jk_75.jpg)
 
-![Left](05-jk_75.jpg)
-
-![Right](06-jk_75.jpg)
-
-</div>
+![r:75](06-jk_75.jpg)
 
 We met up with the rest of the group for dinner at Bonanza then headed up to Whitney Portal at 8,364ft. The plan was to acclimate to the elevation over the next two days leading up to summit to avoid acute mountain sickness. With camp setup we went to sleep without much fuss.
 
