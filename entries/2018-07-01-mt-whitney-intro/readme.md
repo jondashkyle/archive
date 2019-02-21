@@ -1,4 +1,3 @@
----
 visible: true
 index: 
   - '**Introduction**'
