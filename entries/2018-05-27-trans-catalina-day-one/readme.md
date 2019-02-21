@@ -23,9 +23,9 @@ It quickly became clear that most of this first day is simply escaping the infra
 
 Before too long we were crossing our first bison gate. Oh yeah, there is a generously sized bison population on Catalina, introduced to the island during the [20s for a silent Western film shoot](https://en.wikipedia.org/wiki/Catalina_Island_bison_herd).
 
-![A weather station managed by LAFD](02-jk-weather_133.jpg)
+![c:2/7 r:133](02-jk-weather_133.jpg)
 
-![“Here be bisons”](03-jk-fence_133.jpg)
+![c:7/12 r:133](03-jk-fence_133.jpg)
 
 Not much time passed before spotting it; our first bison, relaxing near the edge of a pond, maybe 40 feet from the trail. It’s suggested you stay at least 75 feet away from bison to prevent spooking them.
 
@@ -35,9 +35,9 @@ This gives the TCT an entirely unique angle. When approaching a blind corner of 
 
 Not long after our first encounter, while approaching a blind corner, I caught what appeared to be a glimmer of bison rear-end making it’s way in our direction… We scrambled up the hill, and sure enough, there it was.
 
-![The access road we avoided scrambling down to](05-trail_133.jpg)
+![c:1/7 r:133](05-trail_133.jpg)
 
-![“o u want to pass? lol”](05-bison_133.jpg)
+![c:7/13 r:133](05-bison_133.jpg)
 
 This ensured we were properly paranoid for the rest of the trip whenever approaching blind corners. It was like hiking in Jurrasic Park, but instead of velociraptors there were lumbering furballs with horns.
 
@@ -47,7 +47,7 @@ Forward was the way to go.
 
 Cresting the hill, we realized the three or four bison was more like twenty-five or thirty. A few were even laying *directly on the trail*. These things live to fuck with hikers.
 
-![“Yeah let’s just chill here lol”](06-bison_75.jpg)
+![r:75](06-bison_75.jpg)
 
 The next few miles were super hot. After having started at around 8:30am we had done seven-ish miles and it was about noon, putting us square in the middle of the island at the bottom of a valley with very little air circulation.
 
@@ -55,19 +55,15 @@ We made it up the last little bit of trail and got to camp. Ate some cold-soaked
 
 After a minute it became clear there was a *lot* of bison shit around camp, which got me a little anxious about waking up in the middle of the night to a stampede. I digress. 
 
-![Roasting](07-jon_133.jpg)
+![c:2/7 r:133](07-jon_133.jpg)
 
-![Campsite #1 at Blackjack](07-camp_133.jpg)
+![c:7/12 r:133](07-camp_133.jpg)
 
 With sunset approaching, a quick walk before dinner sounded good. Following the path out of camp we’d take tomorrow morning led to an expansive view. Looking to our right we noticed a small structure which seemed to have *the best* view.
 
 Upon approaching the structure we were greeted by, yeah, you guessed it, another bison giving guard. Fuck! We headed back to camp as the fog rolled in. In the next life I want to come back as a bison on Catalina.
 
-![“Yo check out this vista lol jk”](08-bison_133.jpg)
-
-![Sunsplosion](10-sunset_133.jpg)
-
-![“ViBez”](09-fog_75.jpg)
+![r:75](09-fog_75.jpg)
 
 After getting a fire going I finished setting up camp. This was the first time I pitched the self-made tarp, which uses two trekking poles and tension from tie-outs to stay taught. Was happy to find it worked. Aside from the satisfaction of making something, the possibility to modify and improve a project from knowing the construction makes it worth the time investment. There were already a few small adjustments to make once home.
 

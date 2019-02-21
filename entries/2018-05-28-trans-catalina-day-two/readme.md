@@ -23,45 +23,43 @@ We grabbed the last few things off the table as we were casually chased out of c
 
 The first two miles of day two takes you down a canyon where a currently dry stream sometimes runs, providing a water source for the densest foliage we had yet encountered. A quick jaunt back up through fields of cactus brings you to The Airport in the Sky, infamous for it’s bison burger. I guess there has to be a payoff for flying into the airport, and that’s entirely condensed into (arguably) one of the best burgers I’ve ever had—the ultimate [$100 hamburger](https://en.wikipedia.org/wiki/$100_hamburger).
 
-![Down and up to the airport](12-jon_133.jpg)
-
-![Hanger walk](13-airport_75.jpg)
+![r:75](13-airport_75.jpg)
 
 After properly smashing the burger it was time to put the boots (or trail-runners) back on the trail. Soon a fire road gave way to some welcome single-lane trail. Little Harbor came into view before too long, and speculation began flying about where the trail continued after that. Spotting a shade structure perched high above the valley, peaking in and out of cloud cover created by the sea-breeze rushing over the cliffs, it looked, as they say, “hella steep.”
 
-![“Oh shit look at this thing up ahead just out of frame”](14-jk_133.jpg)
+![c:1/5 r:133](14-jk_133.jpg)
 
-![Walking walking walking](15-jon_133.jpg)
+![c:5/10 r:133](15-jon_133.jpg)
 
-![Winding down towards Little Harbor](16-little-harbor_133.jpg)
+![c:11/13 r:133](16-little-harbor_133.jpg)
 
 Little Harbor was pretty amazing; a secluded pair of coves with particularly calm waters. We kicked it for around 30 minutes, wanting to hop in, but knowing we needed to stay on schedule for the day. Ended up skipping stones most of the time. Tbh could spend the rest of my life just skipping stones.
 
-![At this point ready for a break](17-jk_133.jpg)
+![c:1/7 r:133](17-jk_133.jpg)
 
-![We were the only ones there on a Thursday afternoon](18-little-harbor_133.jpg)
+![c:7/13 r:133](18-little-harbor_133.jpg)
 
 After our siesta we headed off towards what appeared to be a considerable climb. Turns out it was. When hiking the TCT you experience a bit over 10,000ft of aggregate elevation change. This checks out considering the amount of ups and downs. The climb took us past areas of massive erosion, the Pacific swallowing up the coastline as huge chunks of cliff collapse, some taking sections of trail along with them.
 
-![Crumbling catci](19-forward_133.jpg)
+![c:2/7 r:133](19-forward_133.jpg)
 
-![Do not hike with your eyes closed](20-jon_133.jpg)
+![c:7/12 r:133](20-jon_133.jpg)
 
-![“Oh shit look at this thing up ahead again”](21-jk_75.jpg)
+![c:2/12 r:75](21-jk_75.jpg)
 
 As we approached cloud-base it *really* began to feel otherworldly, or at least no longer like a short ferry ride away from every day life in Los Angeles. Up ahead was the shade structure spotted earlier, where we gladly caught our breath and snacked as the clouds rushed past and threw undulating patterns of sunlight on the valley below.
 
-![Very up](22-up_133.jpg)
+![c:1/5 r:133](22-up_133.jpg)
 
-![Hitting cloud base](23-jk_133.jpg)
+![c:5/10 r:133](23-jk_133.jpg)
 
-![Shade structure ahoy](24-jon_133.jpg)
+![c:10/13 r:133](24-jon_133.jpg)
 
 Beginning the descent into Two Harbors, the naming became clear when the vantage point provided a view of the narrow strip of land separating two harbors upon which the small town sits.
 
-![Almost to Two Harbors](25-two-harbors_75.jpg)
+![c:1/7 r:75](25-two-harbors_75.jpg)
 
-![Camp for the evening](26-camp_75.jpg)
+![c:7/13 r:75](26-camp_75.jpg)
 
 We ate and drank at the single restaurant open on weekdays. Most overheard conversations revolved around how long the year-round residents and staff of the bar have lived on-island. After eating 10x our capacities the half-mile walk back to camp felt longer than the climb earlier.
 

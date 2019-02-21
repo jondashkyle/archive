@@ -31,8 +31,6 @@ Between those long walks and doing healthy day hikes while living in Los Angeles
 
 Normally there is a two night minimum stay for campgrounds. To bypass this, simply call the Two Harbors visitor services to book your campsites. Tell them you’re doing the Trans-Cat. They’ll walk you through campsite selection. Talking to someone for 15 minutes is much more enjoyable than clicking around the site’s interface.
 
-![](tct.svg)
-
 We departed on May 8th to complete the trail in three nights / four days. [Blackjack](https://www.visitcatalinaisland.com/camping-boating/primitive-camping/blackjack), [Two Harbors](https://www.visitcatalinaisland.com/camping-and-boating/two-harbors-camping/two-harbors-campground), and [Parsons Landing](https://www.visitcatalinaisland.com/camping-boating/primitive-camping/parsons-landing) are the standard camps for the TCT. With it being our first go prevailing wisdom won out.
 
 Both Blackjack and Two Harbors have potable water on site. For Parsons Landing you’ll want to reserve a locker with 2 gallons of water and firewood. You can do that at the Guest Services building in Two Harbors. Between booking the campsites and the ferry tickets, it was somewhat expensive compared to a typical trip. Definitely worth it, though.
@@ -50,19 +48,19 @@ Also, to be comfortable, keep your pack weight down. I was just a little shy of 
 
 Ok, a quick rundown of what was brought. While in New York I started to research ultralight gear. I got very into it. What really got me going was the Make Your Own Gear (MYOG) community. My first project was a [Ray-Way backpack kit](http://www.rayjardine.com/ray-way/Backpack-Kit/index.htm).
 
-![Drawing and cutting out the patterns](47-pack_133.jpg)
+![c:1/4 r:133](47-pack_133.jpg)
 
-![Making the straps and back](48-pack_133.jpg)
+![c:4/7 r:133](48-pack_133.jpg)
 
-![The front pockets assemblies](49-pack_133.jpg)
+![c:7/11 r:133](49-pack_133.jpg)
 
-![The bottom corners, terrifying but ok](50-pack_133.jpg)
+![c:11/13 r:133](50-pack_133.jpg)
 
 For $70 they ship all the material and expertly crafted instructions on how to assemble the pack. Amazingly it weights only 9.5 ounces once complete. Having never touched a sowing machine before, this was a great first project to learn from.
 
-![Completed pack](52-pack_133.jpg)
+![c:2/7 r:133](52-pack_133.jpg)
 
-![The back (v proud of the straps)](53-pack_133.jpg)
+![c:7/12 r:133](53-pack_133.jpg)
 
 Sure, it took around 20 hours to make considering my novice experience, but it provided the confidence to then sow the [Yama net-tent kit](https://www.yamamountaingear.com/net-tent-kit/). That was quite simple, although it made apparent how clear the Ray-Way instructions were, as these were lacking somewhat. Still, nothing was unsolvable without a few moments to consider what was happening structurally.
 
