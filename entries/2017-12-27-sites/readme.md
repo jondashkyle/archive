@@ -16,8 +16,6 @@ In thinking about this, I began working on a hosted version of Enoki, complete w
 
 Around this time I decided to pause and take a step back.
 
----
-
 Since then the [Beaker Browser](https://beakerbrowser.com/) team has continued to make substantial progress on their experimental peer-to-peer browser. [Brave Browser](https://www.brave.com/) has also announced intentions for Dat integration, which the Beaker team is using as opportunity to modularize some core functionality, making it possible to use the Dat web protocols within Electron apps.
 
 I organized [Peer-to-Peer Web / Los Angeles](https://peer-to-peer-web.com/los-angeles), which in addition to developers saw a relatively large attendance by people with artistic or publishing practices.
@@ -28,8 +26,6 @@ Not only are there interesting projects creating a functional peer-to-peer and l
 
 I’m optimistic that in time this will create demand for peer-to-peer networking and local-first projects.
 
----
-
 With all this in mind, the past few months have been a refocusing for Enoki. Instead of continuing work on something growing increasingly large and complex, I shelved the idea of creating a hosted service for now.
 
 Instead, I’ve been drawing better boundaries around specific functionality within Enoki and creating modules. This not only makes it easier to iterate, but also sets the ideas free for others to use within their tools.
@@ -38,7 +34,7 @@ The first two modules to spin out of Enoki are [Smarkt](https://github.com/jonda
 
 It was important to me that Hypha works sync/async to be useful in Browserify builds where you must statically incline streams, and Beaker Browser which provides an async Web API for reading Dat Archives.
 
-[![](example.jpg)](https://beaker-hypha-jkm.hashbase.io/)
+![r:177](example.jpg)
 
 As a proof of concept, I created an example site which runs inside Beaker Browser. A bundled javascript application reads a `/content` directory to generate a site on the fly, letting you manage your content without needing to rebuild the source. The site is essentially a file browser.
 
