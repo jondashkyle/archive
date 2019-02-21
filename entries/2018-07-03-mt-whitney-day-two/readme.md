@@ -1,7 +1,7 @@
 ---
 visible: true
 index: 
-  - "[Introduction](/entries/2018-07-01-mt-whitney-day-intro)"
+  - "[Introduction](/entries/2018-07-01-mt-whitney-intro)"
   - "[Day One](/entries/2018-07-02-mt-whitney-day-one)"
   - Day Two
   - "[Day Three](/entries/2018-07-04-mt-whitney-day-three)"
