@@ -9,6 +9,8 @@ The latter provides an expedited corridor via Interstate 5—colloquially “The
 
 My trance when driving this stretch only subsides while passing the Sierras, distant, but their peaks in view for a while to the east. This was as close as I had gone, although I found my head wandering there when reading up on the John Muir Trail as a source of frequent afternoon escapism.
 
+<!-- more -->
+
 You can imagine my excitement, after returning from the [Trans-Catalina Trail](/entries/2018-05-26-trans-catalina), when a trip began to form around summiting Mount Whitney. At 14,505ft not only the tallest peak in the Sierras, but the entire contiguous States. My anticipation stemmed not from it being “the highest”, but simply an excuse to finally visit those mountains regardless of the superlatives.
 
 ## Index
