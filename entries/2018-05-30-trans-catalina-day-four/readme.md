@@ -20,6 +20,8 @@ Technically, the terminus of the TCT is at Parsons, but this is a recent revisio
 
 The hike out was super pleasant and a bit overcast, making things cool off. A very mellow last day. Approaching Starlight the trail makes a rapid descent. We decided against that and continued along to an unmarked side-trail heading towards the very tip of the island.
 
+<!-- more -->
+
 ![“Oh shit it’s the end”](41-lands-end_133.jpg)
 
 ![Variegated moss along the cliffs](43-moss_133.jpg)

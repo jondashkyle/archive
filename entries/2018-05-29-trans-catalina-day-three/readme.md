@@ -16,6 +16,8 @@ Breakfast came and went quickly, followed by a stop at Island Services to pick u
 
 You start the trail on day three back-tracking briefly down a road the first mile past a small port at the other harbor. Our timing coincided with a barge bringing supplies to town, and several trucks drove past, throwing dirt into the air. The industry, though modest, was such a contrast to the previous morning.
 
+<!-- more -->
+
 ![The “welcome to hell” part of the hike](27-hell-hike_133.jpg)
 
 ![Fire road, but level fire road](28-trail_133.jpg)

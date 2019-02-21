@@ -17,6 +17,8 @@ It takes around an hour and a half to traverse the San Pedro channel. Once arriv
 
 ![r:75](01-climbing-out_75.jpg)
 
+<!-- more -->
+
 It quickly became clear that most of this first day is simply escaping the infrastructure surrounding Avalon. The up is very up at the start, and it’s mostly on fire road. Approaching a small shade structure around mile 3 we saw some kids, and when saying hello they asked “Did you know you can smoke sage?” Sick.
 
 Before too long we were crossing our first bison gate. Oh yeah, there is a generously sized bison population on Catalina, introduced to the island during the [20s for a silent Western film shoot](https://en.wikipedia.org/wiki/Catalina_Island_bison_herd).

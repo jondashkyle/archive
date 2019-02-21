@@ -14,11 +14,13 @@ index:
 
 The day started with Jon tapping on my tent. “Not to freak you out, but there is a bison right next to the campsite.”
 
-![“o u want to sleep? lol”](11-bison-camp_75.jpg)
+![r:75](11-bison-camp_75.jpg)
 
 It kept distance for a while until disappearing. I wandered around the campsite—it couldn’t be found, but after several minutes there was a loud “HRUMPH.” It had wandered behind the tree in our campsite (pictured above), and started walking towards us, conveniently oblivious (as bison usually are) to the fact that we weren’t ready to leave.
 
 We grabbed the last few things off the table as we were casually chased out of camp.
+
+<!-- more -->
 
 The first two miles of day two takes you down a canyon where a currently dry stream sometimes runs, providing a water source for the densest foliage we had yet encountered. A quick jaunt back up through fields of cactus brings you to The Airport in the Sky, infamous for it’s bison burger. I guess there has to be a payoff for flying into the airport, and that’s entirely condensed into (arguably) one of the best burgers I’ve ever had—the ultimate [$100 hamburger](https://en.wikipedia.org/wiki/$100_hamburger).
 
