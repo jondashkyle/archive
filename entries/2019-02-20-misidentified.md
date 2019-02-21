@@ -10,11 +10,11 @@
 [Notebook On Cities And Clothes](http://jkm-library.s3.amazonaws.com/blocks/Notebook%20On%20Cities%20And%20Clothes.mp4)
 
 > We are creating an image of ourselves,  
-> we are attempting to resemble this image…. 
+> we are attempting to resemble this image…  
 > Is that what we call identity?  
-> The accord. 
-> between the image we have created. 
-> of ourselves. 
+> The accord  
+> between the image we have created  
+> of ourselves  
 > and … ourselves?  
 > Just who is that, “ourselves”?
 
