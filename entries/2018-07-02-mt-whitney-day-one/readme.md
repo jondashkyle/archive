@@ -1,10 +1,9 @@
----
 visible: true
 index: 
-	- [Introduction](/entries/2018-07-01-mt-whitney-day-intro)
-	- ‘**Day One**’
-	- [Day Two](/entries/2018-07-03-mt-whitney-day-two)
-	- [Day Three](/entries/2018-07-04-mt-whitney-day-three)
+  - [Introduction](/entries/2018-07-01-mt-whitney-day-intro)
+  - Day One
+  - [Day Two](/entries/2018-07-03-mt-whitney-day-two)
+  - [Day Three](/entries/2018-07-04-mt-whitney-day-three)
 ---
 
 # Mount Whitney: Day One
