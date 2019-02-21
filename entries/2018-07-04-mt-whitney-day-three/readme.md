@@ -11,43 +11,27 @@ index:
 
 We slept in a bit, ate breakfast, and broke down camp. The additional weight of the tent back in the pack didn’t feel great, but it was good to know the day was all downhill.
 
+![r:75](70-jg_75.jpg)
+
 <!-- more -->
 
-<div class="imgs-auto imgs-wide">
+![c:2/7 r:133](71-jk_133.jpg)
 
-![Down past the meadow](71-jk_133.jpg)
-
-![Towards Lone Pine Lake](72-jg_133.jpg)
-
-![Sunrise](69-jg_75.jpg)
-
-![Apenglow](70-jg_75.jpg)
-
-</div>
+![c:2/12 r:133](72-jg_133.jpg)
 
 As planned, we stopped by Lone Pine Lake. The water was perfect, and we spent quite a bit of time both relaxing by it’s edge and wading around. The surface of the water constantly rippled due to the sheer number of trout swimming around. This area does not require a permit, and I’m certainly planning on visiting again to camp sometime this summer.
 
-<div class="imgs-auto">
-
-![Lone Pine Lake](74-jg_133.jpg)
-
 ![Blue all around](73-jg_75.jpg)
-
-</div>
 
 The last few miles went quickly. Looking around me to take in the last moments of the trip the crumbling granite appeared in motion. What looked to be still was actually falling to the valley below, albeit on a geological timescale. 
 
 After finishing the hike and reaching Lone Pine we stopped at Merry-Go-Round, a Chinese spot located in a wood-paneled octagonal structure with a central column clad in mirrors and a $10 afternoon buffet that I absolutely wrecked myself on. 5/5 stars.
 
-<div class="imgs-auto">
+![c:1/5 r:133](75-jk_133.jpg)
 
-![Last bit of trail](75-jk_133.jpg)
+![c:5/9 r:133](76-jg_133.jpg)
 
-![Merry-Go-Round](76-jg_133.jpg)
-
-![Straight to LA](77-jg_133.jpg)
-
-</div>
+![c:9/13 r:133](77-jg_133.jpg)
 
 Following the aqueduct back to Los Angeles I thought about how the time had passed simultaneously slowly and quickly. What had been a three day trip felt like both *three weeks* and *three minutes*, and continued to make me want to better understand my own sense of time passing.
 
