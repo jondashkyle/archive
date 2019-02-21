@@ -35,8 +35,10 @@ Los Angeles, California.
 
 ## Speaking
 
-- Processing Day, 2019
-- MozFest, 2018
+- Processing Community Day, 2019 (Los Angeles)
+- MozFest, 2018 (London)
+- [Evening Class](https://evening-class.org), 2018 (London)
+- Peer-to-Peer Web / LA, 2017
 
 ## Interviews
 
