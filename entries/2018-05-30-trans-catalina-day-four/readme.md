@@ -21,19 +21,19 @@ The hike out was super pleasant and a bit overcast, making things cool off. A ve
 
 <!-- more -->
 
-![“Oh shit it’s the end”](41-lands-end_133.jpg)
+![c:2/7 r:133](41-lands-end_133.jpg)
 
-![Variegated moss along the cliffs](43-moss_133.jpg)
+![c:7/12 r:133](43-moss_133.jpg)
 
-![A bald eagle reservation prevents you from going further](42-lands-end_75.jpg)
+![c:2/12 r:75](42-lands-end_75.jpg)
 
 It was impossible to comprehend the scale of the landscape there, all collapsing into the water. After hanging for a while we hiked the 4 miles back to camp, picked up our packs, and continued on the additional 8 miles of dirt road to Two Harbors, where we’d catch the 9:30 ferry back to San Pedro. It’s a deceivingly long 8 miles, as two harbors always appears quite close, however the coves send you in and out a few times, making it seem to take forever. The drizzle turned into rain. It was a nice way to end the trip.
 
-![One of many coves on the way back](44-cove_133.jpg)
+![c:1/5 r:133](44-cove_133.jpg)
 
-![Catalina Fox](45-fox_133.jpg)
+![c:5/10 r:133](45-fox_133.jpg)
 
-![The final mile marker](46-mile_133.jpg)
+![c:10/13 r:133](46-mile_133.jpg)
 
 There isn’t a sign commemorating the end of the TCT, you just end up back in Two Harbors, which feels a little funny. Overall, super satisfying to have completed the trail, and we celebrated with more food and drinks at the single restaurant. One drink which stood out was the “Bison Milk.” You’ll have to experience it for yourself. The patrons we had seen last time were now staffing the bar, and the staff were now patrons.
 

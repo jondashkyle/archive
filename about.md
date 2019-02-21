@@ -29,8 +29,9 @@ Los Angeles, California.
 - Shattered Streams (RBMA), 2016
 - Morphosis Architects, 2016*
 - [Venue](https://v-e-n-u-e.com), 2015
-- More work available upon request
-- &ast; with [Folder Studio](https://folder.studio)
+
+More work available upon request  
+&ast; with [Folder Studio](https://folder.studio)
 
 ---
 
