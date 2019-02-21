@@ -13,6 +13,8 @@ side by side
 
 ![c:7/12 r:66.6](hey.jpg)
 
+<!-- more -->
+
 lol nice one!!
 
 full width
@@ -24,8 +26,6 @@ ratio
 ![r:25](hey.jpg)
 
 this should show more below
-
-<!-- more -->
 
 yeah this is extra content
 

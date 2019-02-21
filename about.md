@@ -40,7 +40,7 @@ Los Angeles, California.
 
 ## Interviews
 
-- [Paprika!, Yale Architecture](https://yalepaprika.com/articles/skip-the-process-draw-the-pixels-a-conversation-with-jon-kyle-mohr)
+- [Paprika!](https://yalepaprika.com/articles/skip-the-process-draw-the-pixels-a-conversation-with-jon-kyle-mohr), Yale School of Architecture
 - [Between Broadcast and Community: The Design of Virtual Spaces](https://www.theatlantic.com/technology/archive/2013/09/between-broadcast-and-community-the-design-of-virtual-spaces/279763/?utm_source=feed), The Atlantic
 
 ## Performances
