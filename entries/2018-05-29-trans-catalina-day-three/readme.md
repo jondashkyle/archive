@@ -53,9 +53,9 @@ This got me thinking about the internet as landscape, or open space within netwo
 
 We got into Parsons. The verdict? Totally amazing. Our campsite was on the sand, maybe 10ft from the Pacific’s edge. Each site is denoted by small rock structures to assist in the persistent against the wind. I pitched my tarp low and we spent the rest of the day relaxing intensely.
 
-![c:1/7 r:133](37-beach_75.jpg)
+![c:1/7 r:75](37-beach_75.jpg)
 
-![c:7/13 r:133](38-yo_75.jpg)
+![c:7/13 r:75](38-yo_75.jpg)
 
 The fire turned out great despite the breezy conditions. Eight dogs and tomato paste down. We turned in after finishing the whiskey and hoped for the best come morning.
 
