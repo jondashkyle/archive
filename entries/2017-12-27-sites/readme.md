@@ -34,7 +34,7 @@ The first two modules to spin out of Enoki are [Smarkt](https://github.com/jonda
 
 It was important to me that Hypha works sync/async to be useful in Browserify builds where you must statically incline streams, and Beaker Browser which provides an async Web API for reading Dat Archives.
 
-![r:177](example.jpg)
+![r:56.26](example.jpg)
 
 As a proof of concept, I created an example site which runs inside Beaker Browser. A bundled javascript application reads a `/content` directory to generate a site on the fly, letting you manage your content without needing to rebuild the source. The site is essentially a file browser.
 

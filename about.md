@@ -7,8 +7,6 @@ Los Angeles, California.
 
 [Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)
 
-This site is set in Lars by [Bold Decisions](https://bold-decisions.biz)
-
 ---
 
 ### Ongoing
@@ -61,9 +59,3 @@ More work available upon request
 - Kantine am Berghain (Berlin)
 - [Madeiradig](http://digitalinberlin.eu/) (Madeira)
 - [RBMA Fest](http://www.redbullmusicacademy.com/about/projects/festival-new-york-2014) (NYC)
-
----
-
-### Suggested destinations
-
-[Jon Gacnik](https://jongacnik.com), [Folder Studio](https://folder.studio), [Folkert Gorter](https://superfamous), [Now Instant](https://now-instant.la), [Lady White](https://ladywhiteco.com)

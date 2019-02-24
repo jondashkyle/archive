@@ -46,7 +46,7 @@ Just down the hall were [Laurel Schwulst](http://laurelschwulst.com/) and [Kyle
 
 Afterwards I wandered down to the basement of the bank. Tucked into one of the vaults was Distributed Gardens[^3], a site-specific installation designed to exhibit the technical and creative output of the summit. It also functioned as a critical breath of fresh air, as the room was mostly occupied by fellow misfits.
 
-My day rounded off by catching a surreal interview of [Ted Nelson](http://www.hyperland.com) by Arena co-founder [Charles Broskoski](http://charlesbroskoski.com), which began with Ted theatrically checking his mic by reciting a full several minutes of Hamlet from memory. Charles asked about Ted's Xanadu project, the perpetually-in-progress [origin of hypertext](https://www.are.na/blog/are.na%2520influences/2017/08/01/visions-of-connection.html){.c2}]{.c10} and precursor to Hypertext Markup Language (HTML). One question that stood out was that of being burdened by a good idea. There is a certain weight in feeling the responsibility to execute. To solve problems.
+My day rounded off by catching a surreal interview of [Ted Nelson](http://www.hyperland.com) by Arena co-founder [Charles Broskoski](http://charlesbroskoski.com), which began with Ted theatrically checking his mic by reciting a full several minutes of Hamlet from memory. Charles asked about Ted's Xanadu project, the perpetually-in-progress [origin of hypertext](https://www.are.na/blog/are.na%2520influences/2017/08/01/visions-of-connection.html) and precursor to Hypertext Markup Language (HTML). One question that stood out was that of being burdened by a good idea. There is a certain weight in feeling the responsibility to execute. To solve problems.
 
 Next was a lively conversation between hypertext researcher [Cathy Marshall](https://en.wikipedia.org/wiki/Cathy_Marshall_(hypertext_developer)) and the musician and journalist [Claire Evans](https://clairelevans.com), during which they reminisced about early hypertext culture and non-linear poetry; the social stigma attributed to contracting for the CIA; and other [memories of Cathy's time at Xerox PARC](https://www.are.na/blog/case%2520study/2018/06/12/women-in-hypertext.html). At the end Cathy quipped on what her mother's reaction would be to her speaking in front of an audience with unbrushed hair. “But it’s important to be authentic.”
 
@@ -114,7 +114,7 @@ We continued our drive south towards Los Angeles, the fog thickening during suns
 
 ---
 
-This written for publication on the [Are.na Blog](https://www.are.na/blog/scene%20report/2018/08/13/decentralized-web-summit.html) as a scene report. Shoutout [Meg Miller](https://twitter.com/megilllah?lang=en) for her patience while editing. I’ll be reading this and having a quick dialog during a [hang session](/hangs) on August 15th.
+This was written for publication on the [Are.na Blog](https://www.are.na/blog/scene%20report/2018/08/13/decentralized-web-summit.html) as a scene report. Shoutout [Meg Miller](https://twitter.com/megilllah?lang=en) for her patience while editing.
 
 [^1]: The Urban Outfitters of crypto elite.
 [^2]: dat://p2p2p2p.p2pforever.org

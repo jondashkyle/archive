@@ -55,8 +55,9 @@ Generally speaking:
 3. Don’t bring more than two days worth of food, as you can eat at the airport the morning of day two and resupply that night (or the next morning) at the grocer in Two Harbors.
 4. If you want to do a two-day version, take the ferry from San Pedro to Two Harbors. Hike Two Harbors to Little Harbor and camp there, then do the return hike the next morning. A ton of climbing, but it’s the best stretch.
 
+
+![c:1/7 r:133](54-griffith_133.jpg)
+
+![c:7/13 r:133](55-dissapointment_133.jpg)
+
 Having seen Catalina from Los Angeles for so long, I’m glad to have gotten out there, even if it took a while. A good reminder to simply go for it and then begin figuring out the details.
-
-![Catalina (behind Palos Verdes) from Griffith Park](54-griffith_133.jpg)
-
-![Catalina from Mt. Disappointment in the San Gabriels](55-dissapointment_133.jpg)

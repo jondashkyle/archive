@@ -30,7 +30,7 @@ The response to releasing this, though modest, was [unanticipated and appreciate
 
 To make it more widely usable, I created a full webapp providing you an interface for managing your offline library. It runs in [Beaker Browser](beakerbrowser.com) and saves your data to a Dat Archive, which remain as static files on your machine.
 
-![](dropout-beaker.png)
+![c:1/13 r:56.25](dropout-beaker.png)
 
 To give it a try, simply navigate to [dropout.jon-kyle.com](https://dropout.jon-kyle.com). Additional documentation is waiting for you [in the repository](https://github.com/jondashkyle/dropout-app).
 
