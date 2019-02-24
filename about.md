@@ -7,6 +7,8 @@ Los Angeles, California.
 
 [Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)
 
+This site is set in Lars by [Bold Decisions](https://bold-decisions.biz)
+
 ---
 
 ### Ongoing
@@ -20,7 +22,7 @@ Los Angeles, California.
 - [Dublab](https://dublab.com), 2019*
 - [East of Borneo](https://eastofborneo.org), 2018*
 - [Lily Clark](https://lily-clark.com), 2018
-- 2Pac.com (Folder Studio), 2017
+- 2Pac.com, 2017*
 - [The Ether Thief](https://www.bloomberg.com/features/2017-the-ether-thief/) (Bloomberg), 2017
 - [Nicholas Cope](http://nicholascope.com), 2017
 - [Endless 80’s NYC](http://labels.redbullmusicacademy.com/) (RBMA), 2016
@@ -59,3 +61,9 @@ More work available upon request
 - Kantine am Berghain (Berlin)
 - [Madeiradig](http://digitalinberlin.eu/) (Madeira)
 - [RBMA Fest](http://www.redbullmusicacademy.com/about/projects/festival-new-york-2014) (NYC)
+
+---
+
+### Suggested destinations
+
+[Jon Gacnik](https://jongacnik.com), [Folder Studio](https://folder.studio), [Folkert Gorter](https://superfamous), [Now Instant](https://now-instant.la), [Lady White](https://ladywhiteco.com)

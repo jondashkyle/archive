@@ -2,7 +2,9 @@
 
 For those of us who grew up connected to the Internet, to say the neighborhood looks a little different now is an understatement. There has been unabated progress. Explosive development. Things are a little broken. The possibility of a future techno-pastoralism continues along the cliché of an epic edenic narrative... but perhaps not?
 
-![Photo via the [Internet Archive](https://twitter.com/internetarchive/status/1024498706022719489)](image7_56.jpg)
+![r:56](image7_56.jpg)
+
+(Above, photo via the [Internet Archive](https://twitter.com/internetarchive/status/1024498706022719489))
 
 The Internet Archive is a church, both figuratively and literally. Founded by a ragtag group of custodians to the preservation of an earlier web, it's a retrofitted place of worship whose facade is perhaps most recognizable as the white-columned favicon of [Archive.org](https://archive.org). It's located on sacred ground in San Francisco, halfway between The Golden Gate Bridge and its namesake park. Here you won't find any future billionaires rich off an IPO outfitted in [Acronym](https://acrnm.com)[^1] and rolling up in Teslas. Instead, the archive is run by volunteers preoccupied with a history of people using technology to connect to each other, regardless of individual ideology or belief.
 
@@ -22,7 +24,7 @@ Interstate 5 (“The 5”) connects Los Angeles[ to San Francisco by cutting th
 
 “Food Grows Where Water Flows!!!”
 
-![Vegative arrays](image3_66.jpg)
+![c:2/12 r:66](image3_66.jpg)
 
 The opening party was held at The Archive, and upon arrival, that particular type of anxiety produced by seeing a sea of faces a little too much like your own began to set in. The reaction is twofold; it's unsettling to realize both how generic you are, and how homogeneous the people involved in the discourse continue to be.
 
@@ -48,7 +50,9 @@ My day rounded off by catching a surreal interview of [Ted Nelson](http://www.hy
 
 Next was a lively conversation between hypertext researcher [Cathy Marshall](https://en.wikipedia.org/wiki/Cathy_Marshall_(hypertext_developer)) and the musician and journalist [Claire Evans](https://clairelevans.com), during which they reminisced about early hypertext culture and non-linear poetry; the social stigma attributed to contracting for the CIA; and other [memories of Cathy's time at Xerox PARC](https://www.are.na/blog/case%2520study/2018/06/12/women-in-hypertext.html). At the end Cathy quipped on what her mother's reaction would be to her speaking in front of an audience with unbrushed hair. “But it’s important to be authentic.”
 
-![Ted Nelson and Charles Broskoski](image4_66.jpg)
+![r:66](image4_66.jpg)
+
+(Above, Ted Nelson and Charles Broskoski)
 
 My day ended back down in the garden basement with many others from the creative track, a portion of programming that grounded decentralization in creative thinking. Co-organized by [Mindy Seu](http://www.mindyseu.com) and [Sam Hart](http://hxrts.com), it involved many familiar faces from the Arena community. The number of talks, panels, and workshops at first appeared overwhelming, but ensured everyone had some way of fitting in—something I was thankful for.
 
@@ -62,15 +66,11 @@ Organized by a group[^4] of students and teachers from MIT's Media Lab and Arch
 
 Network as environment. This has been on my mind a lot, as it has many others. Is it possible to set aside digital areas as open space, similar to public parks surrounding urbanism?
 
-<div class="imgs-auto">
+![c:1/5 r:133](city-1_133.jpg)
 
-![](city-1_133.jpg)
+![c:5/9 r:133](city-2_133.jpg)
 
-![](city-2_133.jpg)
-
-![](city-3_133.jpg)
-
-</div>
+![c:9/13 r:133](city-3_133.jpg)
 
 The workshop involved three exercises, the last of which required the use of a few hundred cardboard boxes of varying shapes, colors, and sizes—all having been laser-cut at MIT and flat-packed in luggage to the summit.
 
@@ -84,7 +84,7 @@ The mood was jovial—it was play—but ultimately the cities took a very centra
 
 ”Your task is to now decentralize the cities.”
 
-![“Internet as a City” participants](image2_66.jpg)
+![r:66](image2_66.jpg)
 
 Some cities began talking to each other in attempts to broker agreements amongst themselves. Others went straight to the panopticon tower to set up remote locations in an effort to reduce the height of the tallest structure. One began investing in missiles.
 
@@ -108,7 +108,7 @@ Members of the Are.na team and I have had conversations for some time about ways
 
 Ultimately the realities of these questions are slowly revealed only through active engagement. At a moment overwhelmed by speculation, a thoughtful gesture goes a long way. That is to say, progressively gaining understanding through experience.
 
-![Heading south](image1_66.jpg)
+![r:66](image1_66.jpg)
 
 We continued our drive south towards Los Angeles, the fog thickening during sunset. When considering the seemingly infinite variables affecting the peer-to-peer/decentralized/distributed movement within the environment at large, the summit appears to me as an atmospheric condition. A high pressure system pushing through an upper level low.
 
