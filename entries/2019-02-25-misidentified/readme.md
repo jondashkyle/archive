@@ -1,4 +1,5 @@
-- [Now Instant](https://now-instant.la)
+The other day I caught a screening of Wilm Wenders’ *Notebook On Cities And Clothes* at [Now Instant](https://now-instant.la)[^1]. The film follows Yohji Yamamoto as he prepares for an upcoming show.
+
 - Yohji
 - Wim Wenders
 - Notebook On Cities And Clothes
@@ -27,4 +28,6 @@
 - seeing faces as GANNS
 - http://thispersondoesnotexist.com
 - https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842
-- wenders on no originals, only copies
+- wenders on no originals, only copies20
+
+[^1]: Very glad Now Instant exists. Their programming is consistently good.

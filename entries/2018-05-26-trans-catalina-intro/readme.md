@@ -1,6 +1,6 @@
 ---
 tags:
-  - hiking
+  - walking
 index: 
   - Introduction
   - "[Day One](/entries/2018-05-27-trans-catalina-day-one)"

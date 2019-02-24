@@ -1,3 +1,9 @@
+---
+visible: true
+tags:
+  - walking
+---
+
 # Walking the Arroyo
 
 It’s late afternoon in Los Angeles, and my sight has been focused on a screen for a few hours. The same was likely true of yesterday, a choice to manipulate bits of material acting as memory distributed across oceans. Within an environment so abstract there is sometimes difficulty placing oneself within it, both in time (*where did it go?*) and space (*where is here?*) It’s hard to pull yourself away. It goes against the use-case.
