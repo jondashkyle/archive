@@ -1,3 +1,8 @@
+---
+visible: true
+image: http://jkm-library.s3.amazonaws.com/blocks/Notebook%20On%20Cities%20And%20Clothes.jpg
+---
+
 The other day I caught a screening of Wilm Wenders’ *Notebook On Cities And Clothes* at [Now Instant](https://now-instant.la). The film follows Yohji Yamamoto as he prepares for an upcoming show and begins with Wilm commenting on image and identity.
 
 [Notebook On Cities And Clothes](http://jkm-library.s3.amazonaws.com/blocks/Notebook%20On%20Cities%20And%20Clothes.mp4)
