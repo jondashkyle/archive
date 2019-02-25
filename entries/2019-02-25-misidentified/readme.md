@@ -21,7 +21,7 @@ It is difficult to not become an ad when the platforms we use to connect are ad 
 
 A nice thing about websites dying off is they’re no longer effective forms of advertisement. There’s no built in audience. A shout into the void when it seems like we’re all shouting at each other.
 
-[Peer-to-Peer Web](https://peer-to-peer-web.com) series had ran its course. A few false starts with other projects have briefly followed. Most circling around questions of identity.
+By the end of last year the [Peer-to-Peer Web](https://peer-to-peer-web.com) series had ran its course. A few false starts with other projects have briefly followed. Most circling around questions of identity.
 
 Instead of giving it unnecessary importance Wilm’s remarks summarize my conclusion:
 
