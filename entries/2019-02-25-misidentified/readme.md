@@ -15,9 +15,7 @@ The other day I caught a screening of Wilm Wenders’ *Notebook On Cities And Cl
 > of ourselves  
 > and … ourselves?
 
-Released in 1989, right as we began to go online en masse, the observation has crystalized over time. Life on the screen, life of the screen, life in the screen…
-
-Who are you but a representation of who you imagine yourself to be?
+Released in 1989, right as we began to go online en masse, the observation has crystalized over time. Life on the screen, life of the screen, life in the screen… Who are you but a representation of who you imagine yourself to be?
 
 It is difficult to not become an ad when the platforms we use to connect are ad networks. Going against the algorithm creates friction. Think about it too much and the temperature rises. I really don’t want to be an ad.
 
