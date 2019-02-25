@@ -15,9 +15,10 @@ Los Angeles, California.
 - [Peer-to-Peer Web](https://peer-to-peer-web.com), 2017–18
 - [Hardly Everything](https://hardly-everything.com), 2015–
 
-### Select projects
+### Select Projects
 
 - [Dublab](https://dublab.com), 2019*
+- [Machine Project](https://machineproject.org), 2018*
 - [East of Borneo](https://eastofborneo.org), 2018*
 - [Lily Clark](https://lily-clark.com), 2018
 - 2Pac.com, 2017*
@@ -25,7 +26,6 @@ Los Angeles, California.
 - [Nicholas Cope](http://nicholascope.com), 2017
 - [Endless 80’s NYC](http://labels.redbullmusicacademy.com/) (RBMA), 2016
 - [Hassan Rahim](https://hassanrahim.com), 2016
-- [Machine Project](https://machineproject.org), 2016*
 - Shattered Streams (RBMA), 2016
 - Morphosis Architects, 2016*
 - [Venue](https://v-e-n-u-e.com), 2015
@@ -47,7 +47,7 @@ More work available upon request
 - [Paprika!](https://yalepaprika.com/articles/skip-the-process-draw-the-pixels-a-conversation-with-jon-kyle-mohr), Yale School of Architecture
 - [Between Broadcast and Community: The Design of Virtual Spaces](https://www.theatlantic.com/technology/archive/2013/09/between-broadcast-and-community-the-design-of-virtual-spaces/279763/?utm_source=feed), The Atlantic
 
-### Performances
+### Select Performances
 
 - [MOCA](https://www.moca.org) (Los Angeles)
 - [The Broad Museum](https://www.thebroad.org) (Los Angeles)
@@ -59,3 +59,8 @@ More work available upon request
 - Kantine am Berghain (Berlin)
 - [Madeiradig](http://digitalinberlin.eu/) (Madeira)
 - [RBMA Fest](http://www.redbullmusicacademy.com/about/projects/festival-new-york-2014) (NYC)
+
+### Recordings
+
+- [Slow Day on Brilliant Drive](https://geographicnorth.bandcamp.com/album/slow-day-on-brilliant-drive), Nick Malkin, Geographic North, 2018
+- [Petrol](https://anenon.bandcamp.com/album/petrol), Anenon, Friends of Friends, 2016
