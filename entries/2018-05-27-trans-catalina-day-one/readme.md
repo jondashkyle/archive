@@ -1,6 +1,6 @@
 ---
 tags:
-  - walking
+  - #walking
 index: 
   - "[Introduction](/entries/2018-05-26-trans-catalina-intro)"
   - Day One
