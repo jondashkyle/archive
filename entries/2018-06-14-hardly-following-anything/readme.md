@@ -12,13 +12,13 @@ Who would consciously disable that connection, you know?
 
 Makes me ask, can a tool be actively *enabling* in it’s approach to navigating constant connection, not restrictive or limiting?
 
-[![Hardly Everything](hardly-a-screenshot_56.24.png)](https://hardlyeverything.com)
+![r:56.24](hardly-a-screenshot_56.24.png)
 
 About this time a year ago I released a project called [Hardly Everything](https://hardlyeverything.com). It introduces a simple change to a familiar interface; the passing of time to the Feed. It essentially allows you to follow anything you can link to at your own pace.
 
 When following a link you prioritize it by choosing how often you want remember it. Important to you? Once every 3 or 4 days perhaps. Unimportant but don’t want to forget forever? Maybe once every 3 or 4 months. I’m sort of strict, and after visiting a link I do not return until it reappears in my feed, although there is nothing preventing you from simply visiting the url. This is *not* about creating a dependency on a tool, but establishing cadence for how your mind craves content.
 
-![Following a new link](hardly-a-screenshot-two_56.24.png)
+![r:56.24](hardly-a-screenshot-two_56.24.png)
 
 The passing of time is a subjective experience; pleasant moments are gone as soon as they arrive, while the unpleasant seem to linger. When following links, rarely did something appear important enough to view more than once a week, although just seven days is an eon relative to the pace of the Feed.
 
@@ -38,13 +38,14 @@ To avoid outages in the future Hardly Everything is now deployed with [Dat](http
 
 There is also a [blog](https://hardlyeverything.com/blog) collecting lists of links from contributors covering what they visit each day, week, month, and year. Visit whenever, but not too often. If you’d like to contribute your own list, feel free to do so via the [Are.na channel](https://www.are.na/jon-kyle-mohr/hardly-everything-lists).
 
-{imgs-auto}
+![c:1/7 r:100](hardly-a-screenshot-three_100.png)
 
-![Ume Mincho, #000000, #FFFFFF](hardly-a-screenshot-three_100.png)
+![c:7/13 r:100](hardly-a-screenshot-four_100.png)
 
-![UniFraktur, #D1FF00, #000000](hardly-a-screenshot-four_100.png)
+Above:
 
-{/imgs-auto}
+- Ume Mincho, #000000, #FFFFFF
+- UniFraktur, #D1FF00, #000000
 
 That’s about it. With the whole Twitter thing, for many of you, instead of linking directly to your Twitter profile I link to your personal homepage. I like sites and the context they provide.
 
