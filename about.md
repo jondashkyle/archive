@@ -2,7 +2,7 @@
 
 ![](jon-kyle.jpg)
 
-Los Angeles, California.  
+Los Angeles, California  
 [contact@jon-kyle.com](mailto:contact@jon-kyle.com)
 
 [Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)
