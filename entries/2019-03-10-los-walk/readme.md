@@ -4,7 +4,7 @@ tags:
   - 'walking'
 ---
 
-# Los Walk
+# Los (Walk)
 
 This video documents another walk across Los Angeles, starting on March 16th (2019) at my front door in Silverlake and ending at Palos Verdes. It lasted 11.2 hours and covered an improvised path of 34.3 miles.
 
