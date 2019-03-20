@@ -33,7 +33,7 @@ This line of walking led to thinking of the premise for  [*Machine Landscapes: A
 
 > The most significant architectural spaces in the world are now entirely empty of people. The data centres, telecommunications networks, distribution warehouses, unmanned ports and industrialised agriculture that define the very nature of who we are today are at the same time places we can never visit. Instead they are occupied by server stacks and hard drives, logistics bots and mobile shelving units, autonomous cranes and container ships, robot vacuum cleaners and internet-connected toasters, driverless tractors and taxis.
 
-The area I found myself in surrounding LAX has the infrastructure for walking—sidewalks enforced by building code—but clearly it was never intended for anyone to actually *walk* this particular stretch of the city.
+The area I found myself in surrounding LAX has the infrastructure for walking—sidewalks enforced by building code—but clearly it was never intended for anyone to actually *walk* this particular stretch of the city. A human exclusion zone as made evident by the complete lack of other people for miles.
 
 In this sense it is possible to view Los Angeles as a proto-machine landscape. A landscape not absent of humans, but absent of humans unaided by machines. A point within the gradation from life in the city to life in the cloud.
 
