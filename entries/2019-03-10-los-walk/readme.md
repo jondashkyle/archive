@@ -39,4 +39,4 @@ In this sense it is possible to view Los Angeles as a proto-machine landscape. A
 
 The frame of the phone is meant to approximate my view in that moment—looking at the screen, looking at the camera, looking at the landscape. The transition is intended to pull you through the frame and is directly inspired by [Alex Tyson’s](http://alextyson.net) *Divieto 2*.
 
-The title *Los (Walk)* is an homage to James Benning’s [*Los*](https://www.youtube.com/watch?v=SXffOiDPNO0). The concept of “landscape as a function of time” and his emphasis on looking and listening are constant sources of inspiration.
+The title *Los (Walk)* is an homage to James Benning’s [*Los*](https://www.youtube.com/watch?v=SXffOiDPNO0). The concept of “landscape as a function of time” and his emphasis on looking and listening are constant sources of inspiration. In the back of my mind was an image of Benning creating Instagram stories instead of films if he began his practice today.
