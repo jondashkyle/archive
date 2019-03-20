@@ -37,4 +37,6 @@ The area I found myself in surrounding LAX has the infrastructure for walking—
 
 In this sense it is possible to view Los Angeles as a proto-machine landscape. A landscape not absent of humans, but absent of humans unaided by machines. A point within the gradation from life in the city to life in the cloud.
 
+The frame of the phone is meant to approximate my view in that moment—looking at the screen, looking at the camera, looking at the landscape. The transition is intended to pull you through the frame and is directly inspired by [Alex Tyson’s](http://alextyson.net) *Divieto 2*.
+
 The title *Los (Walk)* is an homage to James Benning’s [*Los*](https://www.youtube.com/watch?v=SXffOiDPNO0). The concept of “landscape as a function of time” and his emphasis on looking and listening are constant sources of inspiration.
