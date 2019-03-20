@@ -1,5 +1,6 @@
 ---
 visible: true
+image: https://tesla.s3.amazonaws.com/2019/los-hd-compressed.jpg
 tags:
   - 'walking'
 ---
