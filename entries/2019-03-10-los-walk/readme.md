@@ -41,18 +41,18 @@ In this sense it is possible to view Los Angeles as a proto-machine landscape. A
 
 A few moments of note:
 
-- `0:10` Mount Baldy apenglow
-- `2:07` La Brea tarpipts
-- `2:55` Packard oil well’s windowless [false facade](https://www.theatlantic.com/photo/2014/08/the-urban-oil-fields-of-los-angeles/100799/#img18)
-- `4:00` Long abandoned Texaco station
-- `4:25` Baldwin stairs
-- `4:35` [Inglewood oil field](https://en.wikipedia.org/wiki/Inglewood_Oil_Field)
-- `6:53` Church and oil, steeple designed by Frank Ehrenthal, student of Neutra
-- `7:33` World record knobbing
-- `7:50` Aviation walk of fame
-- `8:02` LAX In-n-Out
-- `8:18` Emirates A380
-- `8:42` Aviation Blvd
+- `00:10` Mount Baldy apenglow
+- `02:07` La Brea tarpipts
+- `02:55` Packard oil well’s windowless [false facade](https://www.theatlantic.com/photo/2014/08/the-urban-oil-fields-of-los-angeles/100799/#img18)
+- `04:00` Long abandoned Texaco station
+- `04:25` Baldwin stairs
+- `04:35` [Inglewood oil field](https://en.wikipedia.org/wiki/Inglewood_Oil_Field)
+- `06:53` Church and oil, steeple designed by Frank Ehrenthal, student of Neutra
+- `07:33` World record knobbing
+- `07:50` Aviation walk of fame
+- `08:02` LAX In-n-Out
+- `08:18` Emirates A380
+- `08:42` Aviation Blvd
 - `10:30` Slug boy
 - `11:20` Sunclipse
 
