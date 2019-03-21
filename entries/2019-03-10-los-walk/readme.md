@@ -11,7 +11,7 @@ This video documents another walk across Los Angeles, starting on March 16th (20
 
 [Los Walk](https://tesla.s3.amazonaws.com/2019/los-hd-compressed.mp4)
 
-While reading the accounts of a few people who have walked the Pacific Crest Trail it stood out that most of them covered about 30 miles a day. As these walks take place in areas perceived as wilderness, places of immense scale, it was difficult to grok. I wanted to substitute the geologic with the urban to relate the distance to something more familiar. Not just as a line on a map, but to spatialize it by placing it within a familiar environment.
+While reading the accounts of a few people who have walked the Pacific Crest Trail it stood out that most of them covered about 30 miles a day. As these walks take place in areas perceived as wilderness, places of immense scale, it was difficult to grok the length. I wanted to substitute the geologic with the urban to relate the distance to something more familiar. Not just as a line on a map, but to spatialize it by placing it within a familiar environment.
 
 <!-- more -->
 
