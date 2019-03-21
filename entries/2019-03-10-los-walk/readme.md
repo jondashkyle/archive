@@ -46,7 +46,7 @@ A few moments of note:
 - `2:55` Packard oil well’s windowless [false facade](https://www.theatlantic.com/photo/2014/08/the-urban-oil-fields-of-los-angeles/100799/#img18)
 - `4:00` Long abandoned Texaco station
 - `4:25` Baldwin stairs
-- `4:35` [Inglewood oil field](https://en.wikipedia.org/wiki/Inglewood_Oil_Field
+- `4:35` [Inglewood oil field](https://en.wikipedia.org/wiki/Inglewood_Oil_Field)
 - `6:53` Church and oil, steeple designed by Frank Ehrenthal, student of Neutra
 - `7:33` World record knobbing
 - `7:50` Aviation walk of fame
