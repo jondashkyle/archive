@@ -37,6 +37,27 @@ The area I found myself in surrounding LAX has the infrastructure for walking—
 
 In this sense it is possible to view Los Angeles as a proto-machine landscape. A landscape not absent of humans, but absent of humans unaided by machines. A point within the gradation from life in the city to life in the cloud.
 
+---
+
+A few moments of note:
+
+- `0:10` Mount Baldy apenglow
+- `2:07` La Brea tarpipts
+- `2:55` Packard oil well’s windowless [false facade](https://www.theatlantic.com/photo/2014/08/the-urban-oil-fields-of-los-angeles/100799/#img18)
+- `4:00` Long abandoned Texaco station
+- `4:25` Baldwin stairs
+- `4:35` [Inglewood oil field](https://en.wikipedia.org/wiki/Inglewood_Oil_Field
+- `6:53` Church and oil, steeple designed by Frank Ehrenthal, student of Neutra
+- `7:33` World record knobbing
+- `7:50` Aviation walk of fame
+- `8:02` LAX In-n-Out
+- `8:18` Emirates A380
+- `8:42` Aviation Blvd
+- `10:30` Slug boy
+- `11:20` Sunclipse
+
+---
+
 The frame of the phone is meant to approximate my view in that moment—looking at the screen, looking at the camera, looking at the landscape. The transition is intended to pull you through the frame and is directly inspired by [Alex Tyson’s](http://alextyson.net) *Divieto 2*.
 
 The title *Los (Walk)* is an homage to James Benning’s [*Los*](https://www.youtube.com/watch?v=SXffOiDPNO0). The concept of “landscape as a function of time” and his emphasis on looking and listening are constant sources of inspiration. In the back of my mind was an image of Benning creating Instagram stories instead of films if he began his practice today.
