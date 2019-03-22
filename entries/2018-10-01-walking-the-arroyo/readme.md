@@ -1,7 +1,7 @@
 ---
 visible: true
 tags:
-  - #walking
+  - ' #walking '
 ---
 
 # Walking the Arroyo
