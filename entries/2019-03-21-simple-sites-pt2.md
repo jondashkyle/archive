@@ -6,9 +6,13 @@ I’ll quickly elaborate on the what, and then get into the why.
 
 This site is deployed with [**Netlify**](https://www.netlify.com/) (frontend). It’s built with [**Vue**](https://vuejs.org/). The repositories are hosted with [**Github**](https://github.com).
 
-Compared to last time, this stack appears sort of normie, but reflects a focusing on a set of goals. Those being archivability, portability, and understandability. Perhaps we can add immediacy too, a choice based on avoiding certain types of friction, but could be blamed on impatience.
+Compared to the last stack, this appears sort of normie, but shares the same set of goals. Those being archivability, portability, and understandability. Perhaps we can add immediacy too, a choice based on avoiding certain types of friction, and could be blamed on my own impatience.
 
 ### Deployment
+
+- Netlify, CDN abstraction
+- Dat (tooling)
+- Dat (protocol)
 
 ### Development
 
