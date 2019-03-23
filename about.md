@@ -29,7 +29,7 @@ social: '[Are.na](https://are.na/jon-kyle-mohr), [Instagram](https://www.instagr
 More work available upon request  
 &ast; with [Folder Studio](https://folder.studio)
 
-## Select Projects
+### Select Projects
 
 - [Walking the Arroyo](https://arroyo.jon-kyle.com), 2018
 - [Walking Beverly](https://walking.jon-kyle.com), 2018
