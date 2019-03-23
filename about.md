@@ -2,7 +2,7 @@
 image: jon-kyle.jpg
 location: Los Angeles, California
 contact: '[contact@jon-kyle.com](mailto:contact@jon-kyle.com)'
-social: '[Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)'
+social: '[Are.na](https://are.na/jon-kyle-mohr), [Instagram](https://www.instagram.com/jondashkyle/), [Github](https://github.com/jondashkyle), [Twitter](https://twitter.com/jondashkyle)'
 ---
 
 ### Ongoing
@@ -28,6 +28,14 @@ social: '[Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/j
 
 More work available upon request  
 &ast; with [Folder Studio](https://folder.studio)
+
+## Select Projects
+
+- [Walking the Arroyo](https://arroyo.jon-kyle.com), 2018
+- [Walking Beverly](https://walking.jon-kyle.com), 2018
+- [Enoki](https://enoki.site), 2017
+- [a-line-moving-across-a-window-once-every-year.com](https://a-line-moving-across-a-window-once-every-year.com/)
+- [bgcolor-fading-from-black-to-white-every-century.com](https://bgcolor-fading-from-black-to-white-every-century.com)
 
 ### Speaking
 

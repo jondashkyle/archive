@@ -46,7 +46,7 @@ I rarely used the Enoki editor to manage content. in favor of editing files dire
 
 ---
 
-Let’s put it all together. There are two repositories. One for the site, and the other for the content. The site is deployed with Netlify, and the content remains on Github.
+Let’s put it all together. There are two repositories. One for [the site](https://github.com/jondashkyle/jon-kyle.com), and the other for [the content](https://github.com/jondashkyle/archive). The site is deployed with Netlify, and the content remains on Github.
 
 Alongside the single page application for the site is a [Lambda function](https://www.netlify.com/features/functions/). [This function](https://github.com/jondashkyle/jon-kyle.com/blob/master/src/lambda/contentstate.js) connects to the Github API and reads the directory into JSON following the simple content state[^1] specification. I guess this is serverless?
 
@@ -54,7 +54,7 @@ When visiting the site, we make a request to the lamda containing the current lo
 
 When pushing to the content repository, Github sends a web hook to the lamda invalidating the cache stored in memory. This leads to super quick responses.
 
-Ultimately I’m pretty happy with this, and see it lasting for quite a while. I like the notion of a knowledge repository. A single versioned space containing all of my writing is very future proof. If Github goes to hell I can simple clone the repository elsewhere and write another function using whatever tools available to read the directory into `json` using the content state specification.
+Ultimately I’m pretty happy with this, and see it lasting for quite a while. I like the notion of a knowledge repository. A single versioned space containing all of my writing is very future proof. If Github goes to hell I can just clone the repository elsewhere and write another function using whatever tools available to read the directory into `json` using the content state specification.
 
 ---
 
