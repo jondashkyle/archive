@@ -6,7 +6,7 @@ I’ll quickly elaborate on the what, and then get into the why.
 
 <!-- more -->
 
-This site is built with [**Vue**](https://vuejs.org/) and deployed with [**Netlify**](https://www.netlify.com/) (frontend). The content is hosted with [**Github**](https://github.com).
+This site is built with [*Vue*](https://vuejs.org/) and deployed with [*Netlify*](https://www.netlify.com/) (frontend). The content is hosted with [*Github*](https://github.com).
 
 Compared to the last stack this appears uninteresting, but shares the same two goals: archivability and portability.
 
