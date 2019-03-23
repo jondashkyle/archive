@@ -1,8 +1,8 @@
 ---
 image: jon-kyle.jpg
 location: Los Angeles, California
-contact: [contact@jon-kyle.com](mailto:contact@jon-kyle.com)
-social: [Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)
+contact: '[contact@jon-kyle.com](mailto:contact@jon-kyle.com)'
+social: '[Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)'
 ---
 
 ### Ongoing
