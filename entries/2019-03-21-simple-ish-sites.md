@@ -2,9 +2,9 @@
 
 Never one to leave well enough alone, I’ve made some changes to my personal infrastructure since [last time](/entries/2017-12-27-sites) around. As always, it’s not the technology itself, but what it affords which is important. These affordances are not constants, and as the tech has changed over time so too has my position.
 
-I’ll quickly elaborate on the what, and then get into the why.
+I’ll quickly explain the what, and then elaborate on the why.
 
-This site is built with [*Vue*](https://vuejs.org/) and deployed with [*Netlify*](https://www.netlify.com/) (frontend). The content is hosted with [*Github*](https://github.com). Compared to the last stack this appears uninteresting, but shares the same two goals: archivability and portability.
+This site is built with [*Vue*](https://vuejs.org/) and deployed with [*Netlify*](https://www.netlify.com/) (frontend). The content is hosted with [*Github*](https://github.com). Different than the last stack, but shares a common focus on archivability and portability.
 
 <!-- more --> 
 
