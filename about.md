@@ -1,12 +1,8 @@
-# About
-
-![](jon-kyle.jpg)
-
-Los Angeles, California  
-[contact@jon-kyle.com](mailto:contact@jon-kyle.com)
-
-[Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)
-
+---
+image: jon-kyle.jpg
+location: Los Angeles, California
+contact: [contact@jon-kyle.com](mailto:contact@jon-kyle.com)
+social: [Are.na](https://are.na/jon-kyle-mohr), [Twitter](https://twitter.com/jondashkyle), [Github](https://github.com/jondashkyle)
 ---
 
 ### Ongoing
@@ -44,8 +40,6 @@ More work available upon request
 
 - [Paprika!](https://yalepaprika.com/articles/skip-the-process-draw-the-pixels-a-conversation-with-jon-kyle-mohr), Yale School of Architecture
 - [Between Broadcast and Community: The Design of Virtual Spaces](https://www.theatlantic.com/technology/archive/2013/09/between-broadcast-and-community-the-design-of-virtual-spaces/279763/?utm_source=feed), The Atlantic
-
----
 
 ### Writing
 

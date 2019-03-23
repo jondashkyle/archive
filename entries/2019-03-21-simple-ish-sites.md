@@ -1,12 +1,12 @@
 # Simple-ish Sites
 
-Never one to leave well enough alone, I’ve made some changes to my personal infrastructure since [last time](/entries/2017-12-27-sites). As always, it’s not the technology itself, but what it affords which is important. These affordances are not constants, and as the tech has changed over time so too has my position.
+Never one to leave well enough alone, I’ve made some changes to my personal infrastructure since [last time](/entries/2017-12-27-sites) around. As always, it’s not the technology itself, but what it affords which is important. These affordances are not constants, and as the tech has changed over time so too has my position.
 
 I’ll quickly elaborate on the what, and then get into the why.
 
 This site is built with [*Vue*](https://vuejs.org/) and deployed with [*Netlify*](https://www.netlify.com/) (frontend). The content is hosted with [*Github*](https://github.com). Compared to the last stack this appears uninteresting, but shares the same two goals: archivability and portability.
 
-<!-- more -->
+<!-- more --> 
 
 ## Deployment
 
@@ -48,7 +48,7 @@ I rarely used the Enoki editor to manage content. in favor of editing files dire
 
 Let’s put it all together. There are two repositories. One for the site, and the other for the content. The site is deployed with Netlify, and the content remains on Github.
 
-Alongside the single page application for the site is a [Lambda function](https://www.netlify.com/features/functions/). This function connects to the Github API and reads the directory into JSON following the simple content state[^1] specification. I guess this is serverless?
+Alongside the single page application for the site is a [Lambda function](https://www.netlify.com/features/functions/). [This function](https://github.com/jondashkyle/jon-kyle.com/blob/master/src/lambda/contentstate.js) connects to the Github API and reads the directory into JSON following the simple content state[^1] specification. I guess this is serverless?
 
 When visiting the site, we make a request to the lamda containing the current location. It looks something like this: `fetch('/contentstate?url=/entries)`. We then merge the response into our content state.
 
@@ -62,4 +62,4 @@ Many of the frustrations I had which led me to my previous stack remain today. T
 
 Of course we want a better internet. How we get there is an open question.
 
-[^1]: Content state is a simple specification for formatting state intended to map to pages on a websites. The two formalities are ① The object is flat. ② Parent keys are urls. For example: `{ '/': { title: 'Home' }, { '/about': { title: 'About' } }`
+[^1]: Content state is a simple specification for formatting state intended to map to pages on a websites. The two formalities are ① The object is flat. ② Parent keys are urls. For example: `{ '/': { title: 'Home' }, '/about': { title: 'About' } }`
