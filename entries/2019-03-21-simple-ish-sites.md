@@ -4,7 +4,7 @@ Never one to leave well enough alone, I’ve made some changes to my personal in
 
 I’ll quickly explain the what, and then elaborate on the why.
 
-This site is built with [*Vue*](https://vuejs.org/) and deployed with [*Netlify*](https://www.netlify.com/) (frontend). The content is hosted with [*Github*](https://github.com). Different than the last stack, but shares a common focus on archivability and portability.
+This site is built with [*Vue*](https://vuejs.org/) and deployed with [*Netlify*](https://www.netlify.com/) (frontend). The content is hosted with [*Github*](https://github.com). Different than the last stack, but shares a focus on archivability and portability.
 
 <!-- more --> 
 
@@ -55,6 +55,8 @@ When visiting the site, we make a request to the lamda containing the current lo
 When pushing to the content repository, Github sends a web hook to the lamda invalidating the cache stored in memory. This leads to super quick responses.
 
 Ultimately I’m pretty happy with this, and see it lasting for quite a while. I like the notion of a knowledge repository. A single versioned space containing all of my writing is very future proof. If Github goes to hell I can just clone the repository elsewhere and write another function using whatever tools available to read the directory into `json` using the content state specification.
+
+Of course this stack is unique to my personal site. It’s a sandbox. For client projects I still prefer Netlify and Vue, but the CMS of choice remains Kirby. It’s also databaseless, using static files and folders to structure content. The new Kirby 3 is incredibly solid, solving many of the lingering issues. The panel is also built with Vue—nicely cohesive.
 
 ---
 
