@@ -1,3 +1,10 @@
+---
+image: simple-ish-sites.jpg
+tags:
+  - development
+---
+
+
 # Simple-ish Sites
 
 Never one to leave well enough alone, I’ve made some changes to my personal infrastructure since [last time](/entries/2017-12-27-sites) around. As always, it’s not the technology itself, but what it affords which is important. These affordances are not constants, and as the tech has changed over time so too has my position.
