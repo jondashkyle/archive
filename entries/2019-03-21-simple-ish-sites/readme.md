@@ -49,7 +49,7 @@ The last version of my site used [Enoki](https://enoki.site), an experimental CM
 
 With archivability and portability in mind, the static directory structure as the source of truth covers both of these of these priorities. Because static files enable easy portability I’m not so concerned about where that directory exists as it can easily go elsewhere.
 
-I rarely used the Enoki editor to manage content. in favor of editing files directly with [iA Writer](https://ia.net/writer). The ability to manage content on my phone while offline became became a priority. Fortunately writer has a solid iOS app which supports the Files application for syncing content. Turns out there is another iOS app, [Working Copy](https://workingcopyapp.com), for working with Git repositories and also supports Files. This enables you to edit files in Git repositories with iA Writer, plus all the benefits of Git. I decided to create a repository for all of the content, not a big deal when using [Git Large File Storage](https://git-lfs.github.com). 
+I rarely used the Enoki editor to manage content. in favor of editing files directly with [iA Writer](https://ia.net/writer). I wanted the ability to manage content on my phone while offline. Fortunately Writer has a solid iOS app which supports the iOS Files app for syncing content. Turns out there is another iOS app, [Working Copy](https://workingcopyapp.com), for working with Git repositories and also supports Files. This enables you to edit files in Git repositories with iA Writer, plus all the benefits of Git. I decided to create a repository for all of the content, not a big deal when using [Git Large File Storage](https://git-lfs.github.com). 
 
 ---
 
