@@ -9,7 +9,7 @@ social: '[Are.na](https://are.na/jon-kyle-mohr), [Instagram](https://www.instagr
 
 - [Cargo Collective](https://cargocollective.com), 2009–16
 - [Peer-to-Peer Web](https://peer-to-peer-web.com), 2017–18
-- [Hardly Everything](https://hardly-everything.com), 2015–
+- [Hardly Everything](https://hardlyeverything.com), 2015–
 
 ### Select Work
 
