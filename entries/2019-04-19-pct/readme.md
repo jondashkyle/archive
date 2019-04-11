@@ -11,9 +11,7 @@ I’m going on a walk of the Pacific Crest Trail, a 2650mi path beginning at the
 
 Along the way I’ll be logging brief entries, which can be viewed on [this dedicated page](/pct) created for friends and family to track progress. I plan for most days to be limited to a single photo and paragraph.
 
-{SCREENSHOT}
-
-
+![r:56.25](preview.jpg)
 
 ---
 
