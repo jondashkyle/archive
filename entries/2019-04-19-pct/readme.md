@@ -27,7 +27,7 @@ Along the way I’ll be logging brief entries, which can be viewed on [this dedi
 
 Keeping your pack weight light is key to an enjoyable walk, and has been proven over the past year of walking where its been a consideration.
 
-This is often associated with a high price tag, but my starting setup is very simple. The big three being a Ray Jardine “[Rayway](http://www.rayjardine.com/ray-way/Backpack-Kit/index.htm)” pack I sowed myself for $82, a used [Lunar Solo](https://www.sixmoondesigns.com/products/lunar-solo?variant=13424931602474) tent I found for $100, and a [UGC quilt](https://ugqoutdoor.com/top-quilts/bandit/) for $180.
+This is often associated with a high price tag, but my starting setup is very simple. The big three being a Ray Jardine [Rayway](http://www.rayjardine.com/ray-way/Backpack-Kit/index.htm) pack I sowed myself for $82, a used [Lunar Solo](https://www.sixmoondesigns.com/products/lunar-solo?variant=13424931602474) tent I found for $100, and a [UGC quilt](https://ugqoutdoor.com/top-quilts/bandit/) for $180.
 
 ## Log
 
