@@ -61,4 +61,6 @@ Mile 52.5
 - Watching the clouds develop and can see some virga falling which moves my direction and becomes a refreshing sun-shower.
 - A large downhill section follows, and now the shin really starts acting up. Very slow going.
 - This is followed by a modest section of extremely up, which is a relief as the stress is on there when arching my foot downwards.
-- 
+- Coyotes as the sun set
+
+- didn’t realize another tent had been set up next time me during the rain, and the owner turned out to snore like a bear, which was a real surprise.
