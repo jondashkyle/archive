@@ -61,6 +61,33 @@ Mile 52.5
 - Watching the clouds develop and can see some virga falling which moves my direction and becomes a refreshing sun-shower.
 - A large downhill section follows, and now the shin really starts acting up. Very slow going.
 - This is followed by a modest section of extremely up, which is a relief as the stress is on there when arching my foot downwards.
-- Coyotes as the sun set
+- 10% chance of rain turns into 100%
+- See cloud to ground lightning
+- Run back to camp sites and set up in the rain
+- Dry our
+- Coyotes as the sun set howlunf
 
 - didn’t realize another tent had been set up next time me during the rain, and the owner turned out to snore like a bear, which was a real surprise.
+
+Mile 66
+Miles 13.5
+Lat 33.0266
+Lang 116.5165
+
+23
+
+- easy downhill from camp
+- Super hot on the desert floor
+- to go into town or not
+- First hitch
+- Food delivery app driver from San Diego
+- Free pie and calzon
+- Hutch back
+- Start up
+- Rattle snake
+- Good convo and bed
+
+Mile 80.6
+Miles 15.6
+Lat 33.1149
+Lng -116.4820
