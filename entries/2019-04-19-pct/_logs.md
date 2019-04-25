@@ -15,8 +15,8 @@ _logs
 - Good conversations, drummer etc
 - Loud crew but try to sleep
 
-33.77653
-116.446625
+33.3
+116.8
 Miles 15.5
 Mile 32
 
@@ -91,3 +91,19 @@ Mile 80.6
 Miles 15.6
 Lat 33.1149
 Lng -116.4820
+
+24
+
+- easy start
+- Lots of up
+- Long water cart
+- Get to water cache at 11
+- Super hot
+- Wait to leave until 3
+- Pass 100 miles
+- Scissors crossing
+
+Mile 101.1
+Miles 20.5
+33.2155
+-116.5580
