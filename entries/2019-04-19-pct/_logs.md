@@ -15,8 +15,8 @@ _logs
 - Good conversations, drummer etc
 - Loud crew but try to sleep
 
-33.3
--116.8
+32.777
+-116.44788
 Miles 15.5
 Mile 32
 
@@ -107,3 +107,19 @@ Mile 101.1
 Miles 20.5
 33.2155
 -116.5580
+
+25
+
+- wake up to firefighters
+- Walk thru meadows
+- Staring at a point and engaging peripheral vision
+- Eagle rock and surrounding area
+- Community center
+- Food at country club, local vineyards and wine
+- Hang in eve
+- Neo air
+
+Mile 109.5
+Miles 8.4
+33.2747
+-116.64552
