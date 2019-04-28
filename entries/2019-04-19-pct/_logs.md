@@ -152,3 +152,8 @@ Lng 33.41519
 - hot 8 miles
 - has a burger and shake, so big couldn’t finish it
 - went back the trail head to set up camp 
+
+mile 151.8
+Miles 20.8
+-116.57733
+33.56192
