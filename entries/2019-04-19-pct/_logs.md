@@ -89,7 +89,7 @@ Lang 116.5165
 
 Mile 80.6
 Miles 15.6
-Lat 33.1149
+Lat 33.1149s
 Lng -116.4820
 
 24
@@ -115,7 +115,7 @@ Miles 20.5
 - Staring at a point and engaging peripheral vision
 - Eagle rock and surrounding area
 - Community center
-- Food at country club, local vineyards and wine
+- Food at country club, local vineyards and wine (thanks Chloe)
 - Hang in eve
 - Neo air
 
@@ -123,3 +123,32 @@ Mile 109.5
 Miles 8.4
 33.2747
 -116.64552
+
+26
+
+- left late as to resupply from the hiker box
+- Brought three liters to avoid filtering with sawyer
+- 18 miles up
+- Didn’t drink enough
+- Hiked thru noon
+- Mistakes were made
+- Mikes place
+- Pizza and natty lite
+- hike another 5
+
+Mile 131
+Miles 21.5
+Lat -116.60770
+Lng 33.41519
+
+27
+
+- windy night, site was mostly sand
+- wake up with the sun
+- 12 miles by 10
+- surprise water cache
+- waited out the heat at mary’s 
+- pushes onward to food at paradise valley cafe
+- hot 8 miles
+- has a burger and shake, so big couldn’t finish it
+- went back the trail head to set up camp 
