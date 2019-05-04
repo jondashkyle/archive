@@ -286,3 +286,23 @@ Mile 232.1
 Miles 18.7
 -116.67916
 34.09714
+
+3
+
+- great night of sleep, actually overslept by around 20 min
+- Immediately got off trail back in the wash and had to backtrack
+- Lots of up
+- Gorgornio looming overhead
+- Lots of burn areas
+- 18 mile water carry
+- Perfect conditions. Sunny, cool mountain air, big pine trees, and compact single lane trail
+- Great siesta. Met older hiker “elusive” who has done a bunch of awesome trips
+- Past closes private zoo
+- Huge slog coming down hill, ran into trail magic. Had a few beers and watermelon.
+- Rolled into camp and set up
+
+Mile 256.2
+Miles 24.1
+N 34.215160°  W 116.740103°
+
+
