@@ -219,7 +219,7 @@ Miles 12.5
 
 At one of the streams channeling snow melt from the summit I stopped to fill a bottle of water. The sun was ahead of me, and granite downstream from me broke the course of the water, throwing droplets of water into the air and refracting the sun. The water seemed excited or glad to be flowing.
 
-- forester pass
+- fuller ridge
 - Steep
 - Guy slipped
 - bought microspikes
@@ -304,5 +304,21 @@ Miles 18.7
 Mile 256.2
 Miles 24.1
 N 34.215160°  W 116.740103°
+
+4
+
+- plan was for an easy 10 miles to the 18 to hitch into town
+- Perfect trail
+- Soda
+- Stay at a spot for hikers
+- Himilayan
+- Relax
+- Karaoke at Murray’s
+- Roll in late
+
+Miles 10
+Mile 266.1
+N 34.242978°  W 116.909552°
+
 
 
