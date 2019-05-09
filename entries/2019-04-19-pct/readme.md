@@ -2,7 +2,7 @@
 visible: false
 image: 2019-04-08.jpg
 total: 2650
-mile: 187.8
+mile: 213.4
 ---
 
 # Pacific Crest Trail, 2019
