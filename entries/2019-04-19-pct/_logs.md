@@ -266,6 +266,7 @@ Miles 25.6
 Btm 1340
 Top 8566
 
+
 2
 
 - coffee and donuts in the office
@@ -316,9 +317,90 @@ N 34.215160°  W 116.740103°
 - Karaoke at Murray’s
 - Roll in late
 
+Talking with Vic about the linearity if the trail. Memory palaces. Memory in landscape. Position. Remembering sequence but not when in time. This then that.
+
 Miles 10
 Mile 266.1
 N 34.242978°  W 116.909552°
 
+5
 
+- zero with Z
+- Colorado cabins
+- Walk along the planks
+- New socks (holes in old)
+- Watch a couple episodes of Barry
+- Speculate on weather
+- amenities, etc
+- Thai
+- So good to see z
 
+Miles 0
+Mile 266.1
+
+6
+
+- slept in
+- woke up to blue skies, but poor forecast
+- Tempted to stay another day, but had a good feeling about getting back on trail
+- Breakfast, pack and cleanup
+- On trail at noon
+- Very hard to say goodbye for a bit
+- goal was to hit 20
+- clouds building already
+- Feeling good, but heavy pack full with 5 days of food
+- 10 miles by 3pm
+- real cold temps and no sun made it easy to keep moving, where on sunny days have to stop
+- Accidentally went half a mile down Cougar Crest trail, whoops
+- Clouds getting darker, then… snow!
+- Would take dry flurries over wet drizzle any day
+- Trail began trending downward to the desert
+- My hopes had come true; the rain seemed to be hanging to the west side of the mountain, and now that I was on the east there was no precipitation
+- Crazy mine and what type of rock? Pic too. post apocalyptic w/ burned trees and clouds.
+- Infrknt of me the clouds began to part, illuminating the valley and trail ahead, while back behind the storm continued to build
+- A good omen for being back on trail!
+
+Mile 285.6
+Miles 19.5
+34.301338,-116.977592
+
+7
+
+- woke up to a lot of condensation inside the tent. Outside the condensation had froze. Stayed warm all night tho
+- Started off. Super nice trail. Lots of stream crossings.
+- Left hip was super sure. Probably pushed too hard to try to stay ahead of the rain yesterday.
+- Stopped to let the tent dry out and have a snack next to a stream
+- Quickly warming up. Crazy to go from snow to a burning hot afternoon sun in a desert climate in a few hours
+- Stopped at deep creek. Snacks. Nap in the sand.
+- Hip feeling way better now!
+- Mile 300
+- Pushing as the grail follows deep creek
+- Started talking to a kid on trail about the internet. The trail as a linear page scroll.
+- Slipped the hot springs as there was a naked guy slacklining. No prejudiced against being naked, mostly slacklining
+- Decided to push for the stretch goal of Mojave Forks dam
+- Incredible sunset walk along the canyon
+- Round the ridge to see the huge dam, the clouds covering Los Angeles moving out into the desert and dissipating when hitting the hot air
+- Watched the sunset then set up camp in the area behind the dam
+- Most miles in a day yet
+
+Mile 313.4
+Miles 28.1
+N 34.341907°  W 117.234393°
+
+8
+
+- woke up and crossed the shallow forks of Deep Creek and West Fork Mojave River.
+- hip felt a little tender
+- Scarce water but lovely morning walk. Feels like a stroll starting early, fresh each time
+- A little road walk past Ceder Springs Dam. Cool spillway.
+- Walk along Silverwood Lake for a few miles, the resivour. Forebay of the California Aqueduct. Flooded a town in the canyon.
+- A sign for trail magic
+- Trail magic are often well intentioned people, but are a little overwhelming to me. My appetite is intense but my stomach is not huge. Also, this group put a camera in my face immediately and asked for my name and where I’m from. I get it, but I just want to rest for a minute. Still, it was appreciated.
+- a bit of a slog out of there, but cool winds from the clouds slipping over the ridge kept me moving. It’s been cloudy in the Los Angeles area the past two days.
+- Very few tent sites between here and the 15. Found something flat along a creek and called it a day.
+- Read Geoff’s bit on walker lane fault https://www.wired.com/story/walker-lane-move-over-san-andreas-fault/ QUOTATION
+- Growing up on the internet. Being in geology and looking at past time scales to try to intuit that of the future
+
+Mile 335.5
+Miles 22.1
+N 34.312249°  W 117.407212°
