@@ -406,3 +406,36 @@ N 34.341907°  W 117.234393°
 Mile 335.5
 Miles 22.1
 N 34.312249°  W 117.407212°
+
+9
+
+- condensation
+- Fog, bad forecast
+- No shadow
+- High voltage transmission lines buzzing 
+- Train sounds, plane sounds
+- Trail going right under lines
+- Wind picks up and suddenly staring over the edge of a cliff, the fog obscuring the bottom.
+- Tall grass whipping
+- Has this all been a dream and I just woke up?
+- Tarkovsky stalkers 
+- Cresting the hill I can hear the interstate somewhere off in the distance.
+- Sandstone
+- Follow the original freeway ?
+- Trail sign showing McDonald’s 0.4 miles
+- Some countries have pilgrimage routes to temples. In neoliberal America under late-stage capitalism we walk hundreds of miles through the desert to have a McDouble.
+- Ate breakfast, stayed long enough to get lunch too.
+- Ate a ton
+- Caveman’s birthday, bought him a Twinkie at the gas station next door and pulled up a gif of birthday candles
+- Got going. Tunnel under the 15. Followed a train as it ran along the pass and through huge rocks (find out kind) along the San Andreas fault
+- Began a big uphill section and get possessed by the McDonald’s. Was flying up it.
+- Was still in thick fog, but looking up saw some blue sky peeking through
+- Eventually reached a ridge and bust through seeing all the clouds developing around us
+- Continued up to a fireroad, found a covered spot and set up camp
+- Insane sunset
+
+
+
+
+
+364
