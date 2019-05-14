@@ -417,7 +417,7 @@ N 34.312249°  W 117.407212°
 - Trail going right under lines
 - Wind picks up and suddenly staring over the edge of a cliff, the fog obscuring the bottom.
 - Tall grass whipping
-- Has this all been a dream and I just woke up?
+- with the fog limiting line of sight, it feels as though landscape is procedurally generated continually just outside of that scope
 - Tarkovsky stalkers 
 - Cresting the hill I can hear the interstate somewhere off in the distance.
 - Sandstone
@@ -435,6 +435,24 @@ N 34.312249°  W 117.407212°
 - Insane sunset
 
 
+10 (Nero)
+
+- waking up in the fog
+- really enjoy these sorts of foggy cold mornings. like a cold shower.
+- broke out into an open area with a view of snow on baldy
+- back up into the clouds. reached a junction with an offshoot down to wrightwood, but decided to continue onward to inspiration point.
+- talking to people planning to double zero on saturday and sunday to let this storm system pass. 90% chance of lightning on saturday and a lingering threat on sunday.
+- looked into spots to stay in wrightwood. none of them are interesting. almost like storage for furniture no one wants. considering waiting out the storm at home as I’m only 90 minutes from home by car.
+- passed the sign for angeles national forest, my home range! (364)
+- got to a water source and was talking to someone else walking about feeling as though spending the weekend at home is cheating. “if you’re having fun there is no cheating.”
+- decide to do that and coordinate with Z.
+- just after that it starts to snow, and as i descend it turns to freezing rain.
+- meet up at inspiration point and drive some others into town. stop by grizzly cafe for a free coffee and run into some familiar faces.
+
+mi 369.3
+miles 12.1
+34.372551
+-117.709457
 
 
 
@@ -478,3 +496,9 @@ N 34.312249°  W 117.407212°
 Mile 384
 Miles 10
 N 34.347146°  W 117.830808°
+- Falling asleep to lightning in the distant high desert
+
+Mile 357.2
+Miles 21.7
+34.3190
+-117.5875
