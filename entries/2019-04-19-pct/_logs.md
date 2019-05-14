@@ -439,3 +439,42 @@ N 34.312249°  W 117.407212°
 
 
 364
+
+11
+
+- woke up to scattered clouds out the window
+- Walked to coffee, ran into friends, “aren’t you on the pct right now?”
+- Cumulus popping over the mountains in the afternoon
+- Decided to go to a few spots, driving on the 101s through traffic
+- That building on the 110s being a big hole in the ground, Los Angeles regurgitates history. Quick to tear down.
+
+12
+
+- low key Mother’s Day
+- Etc
+
+13
+
+- left at 10am
+- Doing it with Jon 
+- Brunch at grizzly cafe
+- Cinnamon roll
+- Skilled 4 miles
+- Started at Vincent gap at 12:30
+- Felt like just a day hike after the weekend and it being one often done
+- Clear and easy starting off
+- Some snow patches
+- Microspikes needed
+- Straight up, no regard for the trail or switchbacks
+- Summit
+- Head back to the saddle
+- Jon started back down, I went along the pct 
+- Ridge w/ ups and down
+- Heavy will full bag
+- Views of Los Angeles and mt Wilson
+- Headed down into little jimmy
+- Set yo and saw some familiar faces 
+
+Mile 384
+Miles 10
+N 34.347146°  W 117.830808°
