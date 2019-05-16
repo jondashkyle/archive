@@ -517,6 +517,7 @@ N 34.347146°  W 117.830808°
 - started talking to this guy. We were both unhappy with sites
 - He is a computer scientist who works with google on training robotic arms how to operate using machine learning and (affirmative confirmation or whatever. Also had a theater background and is headed to MIT for his PhD after the trail. Was born and raised near the the gorges dam on the Yangtze
 - Found a spot. Super windy evening. Somewhat covered, getting thrown around.
+- Lenticulars. Mountain waves. Gliding.
 
 Mile 415
 Miles 31
@@ -535,3 +536,8 @@ N 34.395916°  W 118.054134°
 - Huge shout out
 - Walked the ridge down off the mountain and made camp next to a stream at Mattox Canyon Creek.
 - Winds predicted to be up around 40 tonight. This area has good coverage.
+
+16
+
+- good nights sleep. Some rain starting early morning. Poor tent geometry. Looking forward to duplex.
+- Misty walk to KOA. Views!
