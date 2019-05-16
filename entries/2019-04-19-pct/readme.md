@@ -6,7 +6,7 @@ mile: 285.6
 
 # Pacific Crest Trail, 2019
 
-I’m going on a walk of the Pacific Crest Trail, a 2650mi path beginning at the Mexican border and ending at the Canadian border and running through California, Oregon, and Washington.
+I’m going on a walk of the Pacific Crest Trail, a 2650mi path beginning at the Mexican border, ending at the Canadian border, and running through California, Oregon, and Washington.
 
 [![r:100](preview.png)](/pct)
 
@@ -14,7 +14,7 @@ Along the way I’ll be logging brief entries, which can be viewed on [this dedi
 
 <!-- more -->
 
-There is no specific reason for the walk, or particular insight I’m looking to gain, but I do like to walk, and the timing lined up. Of course there are topics on my mind which is present in some of my recent work, and I’ll carry those ideas with me along the way.
+There is no specific reason for the walk, or particular insight I’m looking to gain, but I do like to walk, and the timing lined up. Of course there are topics on my mind which are present in some of my recent work, and I’ll carry those ideas with me along the way.
 
 In doing research for the trip I’ve seen so much imagery, and much of it is the same. While wanting to document my walk for myself, I have no interest in sharing it with an “audience.” This page simply formats notes I’m making for myself and nothing more. I plan for most days to be limited to a single photo and paragraph. There are plenty of people continuously photographing and filming the trail if that’s what you’re looking for.
 
