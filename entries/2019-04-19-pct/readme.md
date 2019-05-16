@@ -1,5 +1,4 @@
 ---
-visible: false
 image: 2019-04-08.jpg
 total: 2650
 mile: 285.6
