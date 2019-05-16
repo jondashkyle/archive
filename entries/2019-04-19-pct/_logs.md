@@ -287,7 +287,7 @@ Top 8566
 
 Mile 232.1
 Miles 18.7
--116.67916
+-116.67916 
 34.09714
 
 3
@@ -306,7 +306,7 @@ Miles 18.7
 
 Mile 256.2
 Miles 24.1
-N 34.215160°  W 116.740103°
+N 34.215160°  W 116.740103
 
 4
 
@@ -364,7 +364,7 @@ Mile 266.1
 
 Mile 285.6
 Miles 19.5
-34.301338,-116.977592
+34.301z338,-116.977592
 
 7
 
@@ -448,13 +448,12 @@ N 34.312249°  W 117.407212°
 - decide to do that and coordinate with Z.
 - just after that it starts to snow, and as i descend it turns to freezing rain.
 - meet up at inspiration point and drive some others into town. stop by grizzly cafe for a free coffee and run into some familiar faces.
+- Falling asleep to lightning in the distant high desert
 
-mi 369.3
-miles 12.1
-34.372551
--117.709457
-
-
+Mile 357.2
+Miles 21.7
+34.3190
+-117.5875
 
 364
 
@@ -465,6 +464,11 @@ miles 12.1
 - Cumulus popping over the mountains in the afternoon
 - Decided to go to a few spots, driving on the 101s through traffic
 - That building on the 110s being a big hole in the ground, Los Angeles regurgitates history. Quick to tear down.
+
+mi 369.3
+miles 12.1
+34.372551
+-117.709457
 
 12
 
@@ -496,9 +500,38 @@ miles 12.1
 Mile 384
 Miles 10
 N 34.347146°  W 117.830808°
-- Falling asleep to lightning in the distant high desert
 
-Mile 357.2
-Miles 21.7
-34.3190
--117.5875
+14
+
+- wake up
+- Some snow patches
+- Mount Williamson uphill, relentless then down
+- very pleasant day
+- Endagered frog diversion
+- Walking to 2. If I kept going I’d end up basically at home. 3 miles, but missed the turn to buckhorn, so just continued along the additional mile to where the pct intersected
+- camp glenwood hangs for lunch
+- Passed mile 400
+- smoke on the horizon. Looked like a control burn. Guess it was. Went through a decent amount of smoke
+- Water and familiar faces
+- Continue up to find camp
+- started talking to this guy. We were both unhappy with sites
+- He is a computer scientist who works with google on training robotic arms how to operate using machine learning and (affirmative confirmation or whatever. Also had a theater background and is headed to MIT for his PhD after the trail. Was born and raised near the the gorges dam on the Yangtze
+- Found a spot. Super windy evening. Somewhat covered, getting thrown around.
+
+Mile 415
+Miles 31
+N 34.395916°  W 118.054134°
+
+15
+
+- overcast morning, super windy night, poor sleep
+- Really nice trail, very mild grade
+- Towards afternoon nice to have the sun sort of blocked
+- Stopped by the North Fork ranger station. After being decommissioned a caretaker has been living there.
+- He was originally living in the actual ranger station, but later turned one of the auxiliary units into a house
+- Has been there for 30 years
+- Commissioned by the forest service to make all of the signage in Angeles National Forest
+- Hand made and routes all of the type
+- Huge shout out
+- Walked the ridge down off the mountain and made camp next to a stream at Mattox Canyon Creek.
+- Winds predicted to be up around 40 tonight. This area has good coverage.
