@@ -537,7 +537,32 @@ N 34.395916°  W 118.054134°
 - Walked the ridge down off the mountain and made camp next to a stream at Mattox Canyon Creek.
 - Winds predicted to be up around 40 tonight. This area has good coverage.
 
+Mile 440.3
+Miles 25.3
+N 34.406725°  W 118.245209°
+
 16
 
 - good nights sleep. Some rain starting early morning. Poor tent geometry. Looking forward to duplex.
 - Misty walk to KOA. Views!
+- About to leave Koa after ice cream but then it started to hail
+- Sunny again 15 minutes later 
+- Take a landscape and put a highway through it and it totally changes your relation to scale
+- Star Trek fan trying to identify the exact rock in a scene
+- Break for snack and dry the tent out
+- Looked like it May rain, so found shelter, but decided to continue as it looked to be clearing up
+- As I was heading out of the park to continue a road walk it started to drizzle
+- I decided to pause at the structure for the Vasquez Rocks Interpretive Center with its modern steel cantilevered roof and have a look at radar
+- I was right on the edge of a storm cell which had popped up over the past 30 minutes, and looked to be strengthening
+- Since it was still drizzling, and I appeared to skirt the worst of it, I decided to head out in the light rain for the last mile of walking before hitting town, and a Mexican resteraunt. The prospect of waiting this out over a burrito and margarita was enticing
+- After 5 minutes of walking it started to dump rain. Hard. I made the decision to head back, full on sprinting as the rain increased
+- I ducked under the roof of the interpretive center for shelter. This was surely an interpretive moment.
+- No sooner did I sit down did what can only be described as *clearly* a model and photographer/stylist carrying multiple wardrobes came running out of the rocks. “ITS STARTING TO HAIL, THIS SERIOUSLY HURTS!”
+- It continued to pour, then a few kids and their father walked past the center, drenched to the core. He sees me and asks, “Are you on that hike?” “Yeah!” He asked a few questions. “All the way to Canada? That’s amazing!” he said looking at his kids, who at this point were both impatient and confused. I would be too! “I hope you had a fun day here” I said. “We did!”
+- A few minutes later two of the kids ran back with. “We wanted to give you this.” A package containing two huge (heavy) ponchos. “Oh geeze, that’s amazing, but I have everything I need with me. Huge thanks though!”
+- Trail turned into a swamp horse looking at me like what the fuck shoulder of the road super muddy pocket of sunshine following along
+- Shout Ryan for the drinks—had two margaritas at Maria Bonita in Agua Dulce 
+
+17
+
+- aqua dulce wine, flight, Bordeaux blend, Karen buying our flights 
