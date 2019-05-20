@@ -16,3 +16,13 @@ Post-human landscapes.
 - Puritan pursuits
 - Supporting infrastructure
 - Using the phone to navigate
+
+----
+
+Technological sublime.
+
+----
+
+Doing the PCT as “field research” for what’s next.
+
+----
