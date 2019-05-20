@@ -541,3 +541,7 @@ N 34.395916°  W 118.054134°
 
 - good nights sleep. Some rain starting early morning. Poor tent geometry. Looking forward to duplex.
 - Misty walk to KOA. Views!
+
+17
+
+- https://www.americanthinker.com/blog/2019/05/california_monster_el_nio_storm_to_bring_up_to_three_feet_of_snow.html
