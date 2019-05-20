@@ -376,7 +376,7 @@ Miles 19.5
 - Stopped at deep creek. Snacks. Nap in the sand.
 - Hip feeling way better now!
 - Mile 300
-- Pushing as the grail follows deep creek
+- Pushing as the trail follows deep creek
 - Started talking to a kid on trail about the internet. The trail as a linear page scroll.
 - Slipped the hot springs as there was a naked guy slacklining. No prejudiced against being naked, mostly slacklining
 - Decided to push for the stretch goal of Mojave Forks dam
@@ -566,3 +566,7 @@ N 34.406725°  W 118.245209°
 17
 
 - aqua dulce wine, flight, Bordeaux blend, Karen buying our flights 
+
+17
+
+- https://www.americanthinker.com/blog/2019/05/california_monster_el_nio_storm_to_bring_up_to_three_feet_of_snow.html
