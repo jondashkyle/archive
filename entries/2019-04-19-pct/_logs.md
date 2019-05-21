@@ -453,7 +453,6 @@ Miles 21.2
 - decide to do that and coordinate with Z.
 - just after that it starts to snow, and as i descend it turns to freezing rain.
 - meet up at inspiration point and drive some others into town. stop by grizzly cafe for a free coffee and run into some familiar faces.
-- Falling asleep to lightning in the distant high desert
 
 Mile 357.2
 Miles 21.7
