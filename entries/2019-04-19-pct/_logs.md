@@ -453,11 +453,12 @@ Miles 21.2
 - decide to do that and coordinate with Z.
 - just after that it starts to snow, and as i descend it turns to freezing rain.
 - meet up at inspiration point and drive some others into town. stop by grizzly cafe for a free coffee and run into some familiar faces.
+- Drive home, etc
 
-Mile 357.2
-Miles 21.7
-34.3190
--117.5875
+mi 369.3
+miles 12.1
+34.372551
+-117.709457
 
 364
 
@@ -468,11 +469,6 @@ Miles 21.7
 - Cumulus popping over the mountains in the afternoon
 - Decided to go to a few spots, driving on the 101s through traffic
 - That building on the 110s being a big hole in the ground, Los Angeles regurgitates history. Quick to tear down.
-
-mi 369.3
-miles 12.1
-34.372551
--117.709457
 
 12
 
