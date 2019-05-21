@@ -434,6 +434,11 @@ N 34.312249°  W 117.407212°
 - Continued up to a fireroad, found a covered spot and set up camp
 - Insane sunset
 
+Mile 356.7
+Miles 21.2
+34.308712
+117.583981
+
 
 10 (Nero)
 
