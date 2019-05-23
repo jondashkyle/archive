@@ -570,3 +570,9 @@ N 34.406725°  W 118.245209°
 17
 
 - https://www.americanthinker.com/blog/2019/05/california_monster_el_nio_storm_to_bring_up_to_three_feet_of_snow.html
+
+- Watching people flip around to different places
+- Huge winds during the next stretch
+- Not about how much snow is on the ground, but about the weather systems. Caught in an atmospheric river right now.
+- A few weeks later in the season may make a big difference in temperature.
+- Tent and new pack will be shipped within the next week.
