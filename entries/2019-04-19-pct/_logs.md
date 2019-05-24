@@ -563,6 +563,11 @@ N 34.406725°  W 118.245209°
 - Trail turned into a swamp horse looking at me like what the fuck shoulder of the road super muddy pocket of sunshine following along
 - Shout Ryan for the drinks—had two margaritas at Maria Bonita in Agua Dulce 
 
+Mile 454.5
+Miles 14.2
+N 34.496681°  W 118.348546°
+
+
 17
 
 - aqua dulce wine, flight, Bordeaux blend, Karen buying our flights 

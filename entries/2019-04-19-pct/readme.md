@@ -20,7 +20,7 @@ In doing research for the trip I’ve seen so much imagery, and much of it is th
 
 The map updates live each day with fresh aerial imagery from the [VIIRS](https://ncc.nesdis.noaa.gov/VIIRS/) satellite, displaying the current snowpack and weather. Zooming in far enough switches to a shaded relief tile. Markers are positioned to indicate the campsites for each day, the most recent being filled. The path is marked by a single dashed line. There are no borders or other points of reference to identify position or scale.
 
-Although there is an entry for each day, they will be uploaded in batches while when in town to resupply, somewhere between ever 4–5 days.
+Although there is an entry for each day, they will be uploaded in batches while when in town to resupply, somewhere between ever 4–5 days. The majority are written on my phone, so please excuse grammatical errors.
 
 If you’re appreciative of the effort, feel free to buy me a drink or coffee for when I’m in town, either via Venmo (jondashkyle) or Cash ($jondashkyle).
 
