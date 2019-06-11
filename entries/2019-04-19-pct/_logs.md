@@ -581,3 +581,90 @@ N 34.496681°  W 118.348546°
 - Not about how much snow is on the ground, but about the weather systems. Caught in an atmospheric river right now.
 - A few weeks later in the season may make a big difference in temperature.
 - Tent and new pack will be shipped within the next week.
+
+----
+
+7
+
+- got the pack
+- Stop at the diner
+- REI
+- Resupply
+- Super hot, but forecast is to be 10 degrees hotter in two days. Waited around until 1:15 to start to let some heat pass.
+- One of the biggest differences with being back on the trail versus being at home is how you go from staring at things a foot in front of you at home versus looking miles into the distance on the trail and how that affects your perception of environmen
+- Pack feels good, things a little sore from the break. Also got a super huge resupply and way too much water to simulate being in the Sierra with this pack.
+- Decided not to push too hard, so started shopping for sites around 6:30
+- Set up camp in a dry sandy secluded spot off the trail. All to myself.
+- Feels good to be back out here
+- Plan is to wake up very early to beat the heat
+
+Mile 466
+Miles 11.5
+N 34.587646°  W 118.321779°
+
+8
+
+- woke up at 5
+- Got moving uphill
+- Feeling great, getting the bag dialed in. Removable hip belt works perfectly. Prob could’ve done the 40L
+- Super lush
+- Cruise down to a valley, lake on the horizon
+- Casa de Luna
+- Unsure about stopping, but figured wait out the heat in the shade and if I got a hitch I would stop by
+- No sooner did I step off the trail did a car pull up beside me and offer a ride, neighbors of the hosts
+- Had a local brew called “the gathering” which had a label containing Vasquez Rocks and a mountain lion
+- Was planning to head out at 3, but then heard rumors of a taco salad dinner
+- Decided to stay for the evening. Although I’m not super interested in the culture, I’m never going to be back through here, and these sorts of places thin out by the time you finish the desert. Also, an extra half day here is an extra half day of snow melt up north
+
+Mile 478.5
+Miles 12.4
+N 34.620080°  W 118.409977°
+
+9
+
+- my alarm went off at 5am and I snoozed the plan to head out in favor of more pancakes
+- Most people were getting back on trail at 9am, to do otherwise would require a road walk
+- At 9 you only get maybe two good hours in before you’re almost at peak heat for the day
+- Waited, snacked, etc
+- Left at 5pm
+- First good view of the section of the Mojave I’d be walking through
+- Really fun being up in this part of Angeles National Forest. I spend a lot of time there, but never in this part
+- Climbed up past old gold mines
+- Amazing sunset
+- Was considering night hiking, but decided to make camp just off a fire road and start early the next day
+- 11.5 not bad for all the elevation walking between 5-8pm
+
+Mile 490
+Miles 11.5
+N 34.679873°  W 118.493367°
+
+10
+
+- last night felt like I may almost have a mild head cold. Nose issues and a cough. Took a while to get to sleep
+- got going at 4:30am. glad for first full day back on trail.
+- Amazing sunrise
+- Really interesting trail following rolling sandstone
+- The first several miles followed the north face and had dense foliage overhead
+- quickly began warming up
+- Filling up on water, jerry rigging the trekking pole 
+- Decided to pause at an area with tall pines and a great view for a siesta around 10:30am
+- left around 1:30pm
+- trail crosses to the south face and quickly turned into brush. super hot.
+- Passed mile 500!
+- This was the first day where the bugs were really bad.
+- Attempted to fill up on water again. One cistern had a decomosing bear in it. Another was guarded by a swarm of bees. Finally there was a camp with a stream near by, but it was a 300 yard scramble down, and wanting to keep moving I passed.
+- However, there was a small stream indicated as only another 3 miles ahead, and I had around 1L left.
+- Got there and the stream was now a trickle, again guarded by bees.
+- I got maybe half a liter and decided enough is enough.
+- The next stretch took you into private property, a winter hunting club.
+- This was the most difficult section of trail yet. The path nonsensically meanders for eight miles a distance which should only take 1.5 miles.
+- This is to avoid the trail running through their property.
+- At times the trail is extremely steep for not apparent reason
+- My conclusion is that they allow the pct to go through the property, but made the path so miserable as to guarantee only thru hikers will ever be there.
+- Because I was down to almost no water I pushed into “hiker town”, another one of these scrappy hiker accommodations. I wanted to avoid this, but the water made it nessecarry to stay, as what follows is a 20mi dry stretch along the desert floor.
+- Camped behind some of the small structures with the sounds of the highway annoyingly close
+- Difficult day all in all; looking forward to taking it easy and mapping tomorrow afternoon I preparation for beginning the aguqduct in the late evening tomorrow.
+
+Mile 517.6
+Miles 27.6
+N 34.776518°  W 118.605621°
