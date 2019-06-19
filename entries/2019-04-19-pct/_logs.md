@@ -668,3 +668,152 @@ N 34.679873°  W 118.493367°
 Mile 517.6
 Miles 27.6
 N 34.776518°  W 118.605621°
+
+11
+
+- woke up to the sun turning my tent into a solar oven
+- Washed off my clothes and myself the best I could
+- Headed to a market called Neenatch to eat and nap in the air conditioner all afternoon
+- Super hot by noon, 102
+- Napping hard
+- Air conditioning, koolhaus junkspace
+- Walking the aqueduct, totally flat and straight, scale, seeing people 5 miles away on the same path you’re on
+- Sun began to set, but with the moon owner head we didn’t need to use headlamps
+- Windmills on the horizon with their blinking red dots
+- They’re so large, and in the dark distance and scale becomes difficult to gauge
+- reached the bridge and daway and I decided to continue pushing through the night with the goal of making it to Willow Springs road
+- Music for the first time on trail
+- Cruising up through rolling hills, two primary peaks ahead of us
+- Reach the first one and head down to a spring below as the sun comes up
+- We begin heading up the next larger peak
+- I’m moving a bit faster after having had another instant coffee and carnation breakfast blend
+- I hit the steepest section as the sun begins climb above the ridge and heat everything up
+- Although the sunrise was a big motivator, it’s now a bit oppressive as the tiredness starts to kick in
+- After the big push up in stopped for a break. Sure enough daway catches up after around 20 minutes and we continue up to the very peak
+- A fire road runs near here, and someone had bothered to bring some big red umbrellas, chairs, and a lot of water to the top. We took a nice 15 minute break here, relived that it was all downhill from here 
+- major slog, two big ants fightint
+- Big winding downhill section to the road, lots of switchbacks and very little shade heading into the windmills
+- Arrive At 2:30pm and daway follows after a few minutes
+- Head to the road and manage to hitch into town from someone meeting up with another hiker, Can of soda in the car
+- Get a room in a hotel, shower up, grab a pizza and a beer, and get to sleep by 6:00
+
+Mile 558.5
+Miles 41.2
+35.052120 118.359100
+
+12
+
+- hotel etc
+- Hitch out w dick
+- Wiiiiiind blowing me off trail
+- Jon and cars hitch
+- Head up a few miles in to a site on a ridge
+- This area is notoriously windy, so I find a site which appears to have good coverage
+- No sooner did I make camp did the wind shift with the setting sun and now it’s unbearable
+- I take down my tent and use it as a ground sheet to cowboy camp in a group of Joshua trees
+- Looking up and seeing the stars, the city in the distance
+- The gusting wind made it impossible to sleep as I kept shifting me around and hitting my face
+- Decided this is no longer sleep and is instead just a relaxing break
+
+Mile 569.4
+Miles 11
+N 35.114688°  W 118.258018°
+
+13
+
+- no sleep
+- left at 4:15
+- Uphill
+- Wind, blown off trail
+- Feeling great regardless
+- Big water carry
+- 14.5 miles by 10:45am
+- One hour lunch (leftover pizza from town) and nap
+- Feeling much better
+- Another climb leads to a beautiful grassy valley
+- Really starting to feel like the Sierra is right around the corner
+- Stop by a fallen radio tower to call Lily
+- Continue a few more miles through dense pine trees to a great area with good wind coverage
+- Looking forward to quality sleep!
+
+Mile 569.4
+Miles 27.1
+N 35.336639°  W 118.285784°
+
+14
+
+- slept in till 8, felt amazing
+- started with a brief climb and continued into even denser pines. 
+- filled up at a water source after 5 miles
+- A few miles later a super lush canyon in the distance revealed a stream with great flow, the first such one in many many miles
+- After passing a few I noticed a rock with the perfect incline adjacent a small pool of water in the stream
+- Stopped and did some foot maintence and dipped my toes in. Freezing!
+- Static Stopped by and I asked him about his name. He did the entire PCT in 2015 and carried an am radio with him. He’d walk by people and it’s sometimes just be static. Amazing.
+- Continued on and the pines eventually returned to chaperel
+- On the hot downhill section off the mountain I listed to an episode of the brain science podcast about again well. After 45 minutes the guest goes on to say, “honestly the  best thing for against thing is walking.” Got a good laugh out of me.
+- Arrived at the critical water cache and forgot my trekking pole, had to backtrack maybe 150 yards to get it
+- This is the most desert-like part of the entire trail. Super dry, incredibly desolate. Got up to 104 degrees down here today.
+- I was surprised to have not seen anyone for during this next few miles, as usually late in the day you’ll pass people setting up camp
+- I kept pushing on to see if I’d run into anyone, and noticed some cow pies on the ground, a feature of the past hundred miles. I thought about how odd it was I hadn’t seen any cattle.
+- No sooner did I note that did maybe 15 cows appear ahead of me directly on trail. They all turned to look as I rounded the corner.
+- I had to go off trail to go around them, ironically enough following cow trails through the brush.
+- Over the next few miles I still didn’t come across anyone, and at this point there are no man-made features around, other than the trail
+- I begin to feel super isolated out here
+- I push to a marked campsite and sure enough, no one was there. At this point it was almost entirely dark, although the moon was full and just peeking above the horizon
+- I noticed a report on the camp sites that there is cell service at the top of the hill, so I keep pushing and notice a few camp sites, too, however the coverage is somewhat poor and it’s very windy on the ridge
+- I make camp and try calling, but reception is very spotty and the call keeps dropping
+
+Mile 623.6
+Miles 27.1
+N 35.481723°  W 118.145215°
+
+15
+
+- water cache help
+- Big slog up
+- Incredible view of the Sierra
+- Back into some pines
+- Big thunderheads forming
+- difficult day
+- Thinking about making it a section
+- All sorts of doubt
+- Listening to the Stanford biology of human social behavior, maybe not the best for walking the desert alone
+- Got to walker pass and the plan was to continue to Kennedy Meadows, camp just past the trailhead
+- Instead, I was feeling pretty mentally exhausted. Someone there had just dropped off a group and offered to drive me into Kernville
+- I impulsively took him up on the offer
+- He was born in onyx and worked for 35 years for the forest service marking forest sales
+- Got a drink with him at the kern brewery
+- Awesome guy
+- Walked next door to the kern lodge and got a great room with a hiker discount
+- Already Feeling much better
+
+16
+
+- I woke up and got breakfast at Cheryl’s diner.
+- Still a lot of thoughts going through my head about making this a section hike
+- Called someone who I was pacing with for a while who was section hiking but forced to get off trail due to shin splints
+- He gave me a lot of wisdom
+- Decided I’ll push at least to Kennedy Meadows before deciding
+- Considered leaving this afternoon, but more thunderheads were forming
+- Decided to get lunch and see how I felt about staying another night for a full zero
+- Got lunch at Ewing’s on the Kern. Awesome view from the patio of storms forming. Saw lightning on the ridge while eating salmon.
+- got to talking to a couple
+- Decided to stay an extra night, even though the bus to the trailhead left super early at 5am
+- Great day and feeling recharged
+
+17
+
+- My alarm went off at 4am and I began packing up, but then a premonition of the bus for some reason not arriving, and me having no way back to the hotel came to my mind. I later found out I was right as the bus doesn’t run on Tuesday!
+- I decided to get my money’s worth and sleep in
+- Woke up and checked out around 10am, got breakfast at the Cracked Egg. Honestly some of the best pancakes of my life. Perfect texture and sponginess.
+- My ride to the trail fell through at noon
+- Ran into daway who I did the aqueduct with.
+- Ended up catching up and decided to split a room
+- Lazy evenjng
+
+18
+
+- woke up and organized a ride to the trail
+- Had a good breakfast
+- milkshake 
+

@@ -26,3 +26,5 @@ Technological sublime.
 Doing the PCT as “field research” for what’s next.
 
 ----
+
+Trail name static and how he carried in a.m. Radio with him on his through hike so as he walked he would hear whatever was in the air
