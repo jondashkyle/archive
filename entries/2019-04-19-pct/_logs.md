@@ -787,6 +787,10 @@ N 35.481723°  W 118.145215°
 - Walked next door to the kern lodge and got a great room with a hiker discount
 - Already Feeling much better
 
+Mile 651.3
+Miles 
+N 35.664442°  W 118.034837°
+
 16
 
 - I woke up and got breakfast at Cheryl’s diner.
@@ -811,9 +815,255 @@ N 35.481723°  W 118.145215°
 - Ended up catching up and decided to split a room
 - Lazy evenjng
 
-18
+19
 
 - woke up and organized a ride to the trail
 - Had a good breakfast
-- milkshake 
+- milkshake
+- Got to the trail at 2:30
+- started the 2500ft climb
+- Totally amazing
+- Hot but after 4 miles some cover
+- Huge granite ridgelines
+- Really starting to look like the Sierra
+- Took a break at a great stone chair
+- Kept pushing
+- Came around a granite corner at the peak and got a huge blast of wind
+- Walked a few feet into the wind and saw someone laying against the granite on trail
+- He was an older man with white hair, larger build. He looked up at me and seemed somewhat confused.
+- I started talking to him, “windy up here!” he sort of nodded.
+- Then he said, “I’m all out of water. Some people gave me some, but I think my water bladder leaks.”
+- I looked at his empty bladder and told him we’d give him 2L
+- he said his hands were getting sunburnt too
+- He seemed to get his wits again a bit after having a drink. I ask him where he is from, just some small talk to gauge his current state.
+- I told him we’d help him get up.
+- It took some trying, as his pack was still on him and super heavy
+- He almost fell forward and I had to catch him
+- We reminded him how far till water, and suggested he stop there for the day
+- We said goodbye and continued up a hundred yards, but I knew this was clearly not an ok discussion
+- We Walked through an uneven field of large rocks, then turned around to see how he did
+- We stood there for maybe 10 minutes as he did not appear
+- I said that we needed to go back and offer helping him down and to the water source
+- We went back and he was standing just before the rocks, leaning against a boulder
+- I told him, “are you ok with us helping you move on?” He said, “I never say no to help!”
+- I told him the next rocky section was difficult with unbalanced loose large rocks, and to take his time.
+- He placed his trekking poles infrobt of him and made a big step, then another, then lost his balance and fell backwards.
+- Luckily his huge 70L fully stuffed pack prevented him from hitting his head
+- He laid there clearly embarrassed, but I told him it happens and that gravity is a bitch. He laughed.
+- We unbuckled his hip belt and got the pack off him. He got up and almost fell forward again.
+- I had a feeling it was not good for him to carry his pack.
+- “How would you feel if we take your tent and sleeping bag, put them in Daway’s pack, you carry my light pack, and I’ll carry yours?
+- “Ok, lets try it”
+- He put on my pack and I put on his. It must have weighed at least 50lbd, without the bag and tent m, and totally empty of water
+- We began walking and it was an improvement
+- We continued along for a while and he mentioned having been up since 3:00am and started at 5:30am
+- We asked his plan for his hike. “From here to bridge of the gods” that’s the border of Washington and Oregon. There was some silence.
+- We reached a pass and took a break. He mentioned having fallen a few other times too.
+- We started up again and reached a fallen tree. It was impassable without walking uphill several feet and throwing your leg over the log.
+- He began attempting to knock out branches hanging under the log. “I’ll go under it” he said, but it quickly became clear that would not work.
+- I told him to take off my bag and give it a try going uphill
+- It took some careful balancing but he made it over.
+- I grabbed my pack and threw it on frontwards on my stomach, my shoulder straps overlapping his.
+- My pack weighed around 20 pounds, with the 2L of water we gave him on it
+- Total I must have had 90lbs on me
+- I went over the log without issue, and we continued forward to another small log passing
+- We pushes on, but even without a pack on his walking was inconsitiant and unambanced. He mentioned having two surgeries on his knee, the last one to have fully replaced it. He cracked a joke about being the bionic man.
+- We continued to a pass and took a break. 2 miles down, 2 to go, and it was getting dark.
+- He was very sharp, and said his next birthday was 70. He had been in the marines for 4 years and a nurse for 35. “It’s the most satisfying moment when someone comes in on a stretcher and leaves with a cane.”
+- We Decided to push on. He began almost falling forward, shuffling his feet quick to try catching up.
+- My shoulders began to strain and my knees felt terrible as we descended.
+- Every few minutes we’d stop as he would be thirsty. He’d come over to me and put the tube for the water bladder in his Mouth from his pack.
+- As we progressed the trips got more frequent. “Between 1-10, how do you feel?” “7” “how about back there where we met you?” “4”.
+- After more switchbacks we finally hear voices as we near the water source.
+- They see Carl and shout excitedly. They see me carrying his bag and they begin to look worried.
+- “do you need some help” they ask?
+- We go get water and try to apply mosquito detierrent
+- Some from the other group take his tent and begin setting it up
+- Some others begin filtering us water
+- Some others help locate his stove and begin cooking
+- We explain the situation and everyone is concerned
+- Turns out this is a college-level group of scoentists doing field work
+- We locate a camp site and begin setting up for the evening as they help Carl
+- One campsite, uneven
+- Throw up the duplex
+- Professor for the group comes over, “honestly, someone probably would have found him laying up there on the trail in the morning and had to press sos had you not done that.”
 
+Mile 663.4
+Miles 
+
+
+20
+
+- woke up and went over to Carl’s tent, he was already up
+- “im glad the sun came up” he said
+- I asked him how he felt, right now, and about yesterday. “I did not expect it to almost kill me.”
+- I said it would be good to come up with a plan. “There’s no way I’m going back there” he said.
+- I asked him if he’d want to take a look at the map together. “Sure.”
+- I sat down next to him in his tent and pulled up the elevation profile. “This was yesterday” I said, pointing at a line tracing the upper edges of a triangle indicating roughly 1600ft of elevation gain and loss.
+- Then i scrolled over to show the profile between here and Kennedy Meadows, his next planned stop, or exit point.
+- “There’s four more of those over fourth miles, and one is 2x that.” “Oh” he said. “I think I have a decision to make.”
+- We sat there for a bit and I asked him why he did the trail. “My own little challenge.”
+- I had heard from someone who had helped that he had briefly had reception earlier yesterday and called his wife. I asked him about her. After a while I asked, “so what do you think about for a plan?” “I need to go back and head home” he said. “That’s a difficult and very smart decision” I said.
+- Now the question was how to get him back. We came up with three options.
+- 1) he rests up today and attempts heading back tomorrow, knowing he will run into hikers all day incase something happens. 2) I stay with him today to rest up, then assist him out. 3) we call emergency services and have them extract him.
+- Considering he seemed in good spirits, and in a much better place than yesterday, to do 3 right now seemed overreacting.
+- Number 2 would ensure he had moral support, and some help with splitting the load from his pack, but substantially effects my plans.
+- We Decided to continue on, and I called his wife to fill her in.
+- She was very appreciative. Forest service said they could not do anything, and if it became an emergency to call 911.
+- We began hiking the slog up, and were feeling great
+- We stopped for a Siesta, and i briefly heard a helicopter from the general direction we came from. Of course, helicopters serve a variety of purposes out here, but…
+- We started up again, and after a few miles hit a saddle with a little cell reception. I pulled up the Facebook page for people who volunteer for hikers in the area, and the post i made there.
+- His wife had posted that she had just spoken to him, and that he had stopped some hikers and had them call 911 to get an air lift out.
+- He began feeling worse as the day progressed, and did not believe he could safely hike out.
+- Glad that he was in good hands, we continued along. We had picked an area we wanted to hit by 10pm.
+- The push was big, and total elevation for the day was 6500ft.
+- The left two miles were cold and extremely windy. I set up camp and immediately went to sleep, exhausted mentally and physically.
+
+Mile 687.2
+Miles 23.3
+N 35.890862°  W 118.084993°
+
+21
+
+- woke up sort of late. because we night hiked for a few hours I have no real idea where we are
+- Open the vestibule doors, stand up, and boom; a huge view of the snow covered high Sierra and Whitney.
+- Plan was an easy 12 mile cruise into Kennedy Meadows
+- Real fun first few miles down a canyon, could see the trail ahead for miles and great views of the Sierra.
+- Stopped for a brief siesta at the stream. Got going again at 11:30
+- Super hot out, but soon the trail began to parrellel the south fork of the Kern river.
+- The last few miles going into town are always slow, your mind anticipating warm food and cold drinks.
+- Made it to the Kennedy Meadows General Store and got a round of applause for finishing then 700 miles of the desert.
+- Grabbed pint of ice cream, salmon burger, and beer
+- Lots of familiar faces and talk of plans for the Sierra
+- Seems like most plan to push in.
+- Set up camp and they plan to screen a movie tonight
+- Major sleep
+
+Mile 702.2
+Miles 15
+N 36.019035°  W 118.123354°
+
+22
+
+- breakfast
+- Talk yo information officer from forest service
+- Stopped by triple crown to pick up bear can and ice axe
+- Managed to cram everything inside my 35L pack
+- Head out at 2:00
+- Felt great to be headed into the Sierra and the Inyo National forest
+- Walk along the kern for a bit to a car camp ground
+- Rangers were there checking for bear cans and permits. First check!
+- After a few miles we crossed a bridge over the kern near some cascades. Really beautiful.
+- Started walking up through a heavy burn area
+- Still Feeling very different than anywhere else as we continue gaining altitude
+- Following a stream and incredibly lush Meadows
+- Textures on the rocks
+- Grade becomes rather steam with lots of down trees as we cross through the pass beside Crag Peak.
+- The burn area ends, and dense pines fill in. After a mile or so all the sudden the pines give way to a sprawling and incredibly green meadow, framed by mountains, the snowy peaks in the not so far distance
+- It was like flipping a switch, THIS is the Sierra! Honestly got chills at the fact my feet got me here.
+- The light was incredible with the puffy cumulus clouds.
+- Some climbing as the sun set
+- Passed through a meadow and down some switchbacks
+- Incredible terraced bush camp area
+- Set up camp and joined maybe 10 others, all familiar faces.
+- Ate pizza I took to go from town
+- Really amazing time.
+
+Mile 716.5
+Miles 14.3
+N 36.181827°  W 118.129179°
+
+23
+
+- was up early before many others in the group. Very foggy, sunlight cAsting rays.
+- Got going around 6:30
+- Really beautiful following streams
+- After around 5 miles hit first patch of snow
+- Continued pushing up the mild grade
+- Nearing the top there was more and more snow
+- Saw a clearing and a rock scramble to the left. Went over there to eat lunch thinking it’d be a good view
+- Decided to be very true! Incredible view of Mt Langley and Mt Whitney. Huge views of a number of passes.
+- got going and started the descent to Gomez meadow
+- reached the bottom and the meadow was insanely beautiful
+- Small patchy clouds began, providing nice bits of shade
+- Ran into a group near a stream and hung out for a bit.
+- Before long I left to begin the second climb of the day
+- Huge twisted pine trees and massive weathered rock formations
+- Hyper-real
+- Some sloggy sections
+- Reached the top and had massive views of the Owens valley below. Remarkable. Hung out a bit and began to descend again.
+- Because I relaxed for a while at the peak I ran into the group from lunch again. They decided to set up camp a couple miles short from where I had intended, but I decided to go ahead and join.
+- Walked down to near the creek and setup
+- Ate dinner together. Made pasta and mashed potatoes with the stove. It’s a bit of the pain cooking inside the pot. Much prefer meals where you just pour hot water in. Cleanup was also a pain.
+- Finished making camp and got into bed. Began researching resupply plans. Pretty sure I have enough food to make it to an exit after Lone Pine, but hard to saw how slow going the snow will be. Also really want to find a group to do the snow traverses with.
+
+Mile 738.3
+Miles 21.8
+36.383739 -118.154808
+
+24
+
+- got a terrible night of sleep, so slept in
+- Was trying to figure out if I should push to kersarge with 4 days of food or go into lone pine to resupply. would probably be able to make it to kersargw, but would have no margin, and with it being the first snow passes on trail I was very unsure
+- Caught up with the crew from the night before, glad to see them. They were going into lone pine, and although I didn’t absolutely have to, I decided to in order to play it safe and stay with this group, as it’s been on the back of my mind to try to find a few solid people to push into the Sierra with for safety
+- Hike down trail pass was beautiful. Horshoe Meadows was incredible.
+- One is the things I was worried about last night was getting a hitch into lone pine. On a weekend it is doable, but this was Monday, and there would be far less people up here.
+- Of course, after 5 minutes someone dropping off a group of hikers was headed back down to Alabama hills, much closer to lone pine than we were now.
+- Four of us went with her, while the three others waited back to see if they could score something else
+- Our ride was a science teacher at the school in lone pine, having just moved there with her husband who works with LADWP in the Owens valley.
+- Turns out she decided to just fill up on gas in town, and goes ahead and drives us just to where we wanted—amazing!!
+- We do a re-supply and all buy way too much food with no idea how to fit it into our bear cans.
+- Stop by Elevation, the outfitter, and buy some small nail clippers. The tiny things make a big difference.
+- Ate food at the Mount Whitney Restersunt. Had the “Alabama Hills” burger, fries, and a scoop of ice cream. While there we ran into the two Ausies and Zach, who managed a hitch in with no problem.
+- Called Lily and caught up. So good to hear her voice. She told me about her plans to stop by a lavender farm which I had seen on the way down into town.
+- We Decided to hitch back to trail for a 5 mile / 1800ft climb to chicken spring lake.
+- First group of four pays for a ride from one of the people at the hardware store
+- The two ausies and I grab a hitch almost immediately, but just up maybe 2 miles. Still, better than nothing.
+- A few cars pass us there and then a truck with a PCT sticker pulls over. Score!!
+- The driver had stopped here in 2017 because of snow and decided to just move here, amazing.
+- Their dog is infamous for following a hiker into the Sierra way early in the season for 6 full days!! She was the seeetert, and let me sit in her seat in the car.
+- Turns out they help manage the property for the lavender farm lily mentioned/emailed, and they live there! Insane.
+- They offer to let us stay there and take us up in the morning, and sit at the road for a bit to try hitching, as anyone this far out is for sure going to horshoe meadow.
+- We day thanks so much, and before we are done getting our gear out of the truck a van approaches and stops!!
+- The driver is devilish! We recognize each other and I tell him, “last time I saw you you said I better not hope to see you again, but boy am I glad to see you” he thought this was very funny.
+- The van was full of water jugs used for the caches he manages.
+- We had a great conversation on the way up. Awesome guy.
+- The hike back up was very difficult with 8/9 days of food, plus the new bear can and ice axe. However the adrenaline of pushing into the Sierra, and as a group, got us all motivated.
+- The trail was covered in water from melting snow above
+- As the sun set we reached some of the first big snow crossings. Really feels like we are in the High Sierra now!
+- Looking for a campsite I noticed an open spot. A head popped out which looked familiar. It was Panda, who has been making a great series of videos of the PCT this year. We chat and plan to hang tomorrow.
+- Awesome awesome day. Feeling very good about hitting our first big pass in the next few days at Forester!
+
+Mile 750.9
+Miles 12.6
+N 34.372003°  W 117.708532°
+
+25
+
+- chicken spring lake
+- Camped next to panda
+- Trying to find the trail in snow
+- Slushing through the marsh and rock scramble to trail, very fun
+- Pretty cruisy after that, very clear
+- First big stream crossing, big log
+- Loooong lunch
+- Met Mac from halfway anywhere
+- He invited me to do forester with him and pumper
+- Wasn’t sure, so got going with the crew
+- Big slog up, they started slowing down
+- I decided to keep pushing to Whitney trail, as a bunch of them wanted to summit the next morning
+- I didn’t because I did Whitney last year
+- Got to Whitney trail, totally amazing
+- After about 15 minutes Mac and pumper roll up. They say come on, lets do it. I say screw it, as I’d be sitting around the rest of the day and all day tomorrow while the crew did Whitney.
+- Real fun to go with a few people who push hard
+- Had to fjord a big stream
+- Searched upstream around half a mile before finding somewhere not totally rapids
+- Locked arms and went, def a little scary. Water going fast and up to my navel, freezing
+- Kept pushing. Huge snow fields, post hiking. Really feels like the high Sierra now.
+- Got to Tendrill stream as the sun was setting and the two others wanted to cross. We searched for a while and found an ok spot. Again, pretty scary, and now I was freezing and the sun was down
+- Set up camp shivering between snow fields
+- Cooked Some food and got to bed
+
+Mile 774.7
+Miles 23.9
+N 36.643412°  W 118.387750°
