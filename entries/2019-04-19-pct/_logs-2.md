@@ -1,3 +1,170 @@
+July 10
+
+- slept in till 7:30
+- Grabbed a coffee from the lodge and rented a bike for a ride around the park
+- Went from half dome village, to mirror lake, to El Cap, back to the village. Probably a 12 mile loop
+- The scale of El Cap is remarkable. Picturing the geological process and timescales involved is incomprehensible
+- Broke down camp and hopped the bus to Yosemite village.
+- Museum is fun. Caught a screening of a 20 minute short on Yosemite by Ken burns. Great in the AC. Interesting to watch imagery of something, then exit the building directly into the picture in which you just observed.
+- Stopped by the loft and got a taco salad, likely the best food directly in the valley itself.
+- Being here is complex. Drinking rose in arguably the most sublime landscape I’ve been in on the trip. How people relate to it. What it asks of the visitor. What are the conveniences. What are the demand. Again I think of air conditioning and junk space
+- How the road relates to accessibility, public awareness.
+- Yosemite was like the aqueduct in its polarizing position on trail. Those hiking view it as a tourist trap, but I found it one of the best destinations in how it prompted a complex series of questions I found myself returning to throughout the duration of my stay.
+- Yosemite as an image which you may visit and inhabit. The power of imaging and photography in the history of making it a national park. Etc.
+- Certainly plan to return here to do some loops outside the immediate valley. Very glad I stopped in.
+- caught the 4:05 YARTS bus towards Mammoth out to Tuolmne Meadows. had a nice conversation with two people starting the JMT from theee about conditions.
+- Right after getting off the bus ran into the two Australians from early in the Sierra. They hitched into Lee Vining to resupply. Daway is still in Mammoth.
+- Talked to a ranger who said it’s fine for backpackers to stay at the backpacker camp in Tuolmne csmpground. Go figure, after all that! Still happy with how it ended up.
+- Ran into CalEarth, someone i last saw perhaps in the first 100 miles. Wild!
+- Going to bed early and plan to get started very early to make up for what is effectively a zero day.
+
+July 9
+
+- woke up at 5:45am and planned to finish the day a few miles short of Benson Pass, around a 27 mile day
+- First 5 miles were super cruisy and insanely beautiful. Steam rising off patches of water through the valley.
+- Got to Tuolmne Meadows and indeed the general store was closed. Told the guy “really wanted a burger” and he replied “plenty of burgers in the valley.”
+- This made me consider going into Yosemite Valley proper. I’ve never gone due to my aversion to large crowds and traffic even having lived in Los Angeles almost a decade.
+- At hour and a half drive away it wasn’t exactly close, but much of the traffic on the 120 goes into the valley.
+- Told myself if I get a hitch in the next 15 minutes I’ll go.
+- Before I even got to the corner a car pulled up. Someone who had camped next to me had met a friend and was driving into San Fransisco. Amazing!
+- The friend had done the PCT in 2010 and the CDT in 2013. Said the CDT was their favorite and had me thinking about that for later in life…
+- The dropped me off where the 120 intersects Big Oak Road into the park.
+- After 2 minutes a huge Range Rover pulls over. “Hop in!”
+- The couple was from San Fransisco and had last been here 10 years ago. Super nice.
+- Driving into the valley was immense. The scale is profound. Very happy to have made the decision to stop in.
+- Dropped me off at Half Dome Village.
+- Got the scoop for the Backpackers Camp, a dedicated camp for those with wilderness permits and thru-hikes. decided to stay the night and leave tomorrow evening. Backpackers camp is off the map and def the place to be. 
+- got a burger and had a long conversation while sharing a table with Kathy and Phillip from london.
+- Ran into familiar faces from the trail and ordered a pizza for later.
+- Watched the setting sunlight illuminate half dome from a meadow as the shadows inched their way up its exposed face.
+- Met an Australian geologist who is on trail and talked a lot about glacial morphology and uplift.
+- Scoring free pizza
+- Hopped in my tent at 9:30 with plans to wake up at 7:30 for coffee and a bike around the park.
+
+Mile 942.5
+Miles 6.5
+37.876900 -119.353592
+
+July 8
+
+- woke up at 5:30
+- Watch morning sun hit the minnarettes with golden light
+- Incredibly beautiful out here
+- Good climb. Start to reach patchy snow but the boot track is well defined
+- 10 miles by 10:30
+- Got the first pass, island pass, which feels nothing like a pass.
+- Run into some small section hikers going NOBO. A couple going SOBO.
+- Decent slog up to Donahue pass. Lots of snow but great boot track.
+- Can see all of the Hugh Sierra back behind me.
+- Snack at the top
+- Start heading down to make it into Tuolmne Meadows for dinner. Rumor is it opened on the 7th.
+- Incredible to go from huge snow fields stretching miles to huge meadows.
+- The trail here sinks 6” deep into the ground, so defined. Like a highway.
+- Pass maybe 15 people going nobo, all JMT. I guess a ton of them turn around? Before silver pass I only ran into maybe three in the whole high Sierra.
+- Hear rumors of tuolmne being closed still… also can not camp within 4 miles of it. Means I’d have to push another 8, around a 30 mile day.
+- Decide that might be a mistake to push big coming off three zeros, and instead to camp with some people I hadn’t seen since the aqueduct.
+- Feels sacreligious setting up camp at 4:00pm. Also p great to have put 20 in by 4 considering 13 of those was heading up to the pass or snow walking.
+- Decide to take the evening to write.
+- Plan is to wake up pretty early and push big to 
+
+Mile 936
+Miles 20.1
+N 37.824108°  W 119.278961°
+
+July 7
+
+- Zeroed 4/5/6 an nero’d 7 win Lily.
+- Woke up and cleaned
+- Pulling out of the rental the road closures for the 4th of July parade are creating chaos
+- We pull in to a spot to get breakfast but realize that road is about to be closed for hours, which would trap us
+- Make a fast escape and head out of town towards Lee Vining, the eastern gateway to Yosemite and adjacent Mono Lake.
+- Eat At Nicelys. So good.
+- We go to Travertine hot springs. So good. The spine of the springs.
+- Stop into Bridgeport. Total Fourth of July pandemonium. Quite the scene. Stop by the small museum for a break.
+- Decide to get a room in Lee Vining. Relax and take it easy.
+- Guided tour at Mono Lake of the Tuffa
+- Geologic history. Huge caldera. Eruption 700k years ago. Huge.
+- Mono lake was on the brink of ecological collapse, and would’ve shared the same fate as Owens lake to the south due to the construction of the Los Angeles aqueduct.
+- Group of volenteers came together to save it. La stepped up.
+- Breakfast at Latte Da. Good sandwhiches.
+- Stop at Hot Creek, another hot springs
+- Decided to go Kayak at Lake Crowley.
+- Volcanic pillars
+- Calm water when starting. Hung around and snacked near the pillars. Realized the wind was picking up.
+- Really strong headwind. Took a while to get back.
+- Made s reservation st the restersunt st Convict Lake
+- Dispersed car camping off Owens River rd.
+- Went into big bear for breakfast at the stove. Very good.
+- Decided to get a room there for the night, and that I’d get back on trail the next day.
+- Needed some gear, like new trekking poles. Mammoth didn’t have them, so we drove down to Bishop.
+- Picked them up, and did some laundry at the laundromat while we got Mexican food.
+- Stopped by the Paiute museum. Good exhibit on Paiute irrigation system and the Los Angeles aqueduct.
+- Drove back to mammoth. Resupplied. Checked into hotel and watched trashy tv and really relaxed for a while.
+- Went our to grab drinks to celebrate the down time.
+- Woke up in the morning and went to the bakery across the street.
+- Drove to the lot to catch the shuttle to reds meadow, where I had exited.
+- Got lunch at the cafe at reds. Insanely good milkshake.
+- Hiked to rainbow falls. Impressive.
+- Hiked along the PCT with lily to devils post pile. So good.
+- Valley filled with lava. Geological processes. The earthquakes in Ridgecrest. Such extreme landscapes formed by extreme lroceessss here. Happening in real time. 
+- Waited for the shuttle to take lily back to the car.
+- Extremely hard to say goodbye. Lily is the absolute best.
+- Got started at 5:30pm
+- Did a quick 10 miles and posted up with an insane view of the valley below and the minnarettes above
+
+Mile 916.1
+Miles 9.4
+
+July 3
+
+- luckily had a great night of sleep
+- Got going at 6
+- Silver creek WAY more mellow now. A non issue to cross
+- Lots of snow and sun cups up silver.
+- The trail goes up over a ridge after the pass, which is funny. It’s then super steep down from there.
+- Several glissades down, but it’s early and way too icey. I go down one and rip by butt up. Like a slice of knives.
+- Follow The trail down into the valley only to go right back up into snow. Super patchy and impossible to navigate the boot track . Getting very frustrated.
+- Back down into a valley and... back up into snow at lake Virginia or purple. 
+- Almost like doing three passes in a day.
+- Trail totally non-existant and actually pissed now. A few primal screams. Felt pretty good actually.
+- Finally past Duck Lake the snow stops, and the trail is essentially entirely downhill to reds meadow.
+- So excited. Get a little service and call lily to come up with a plan.
+- Last 8 miles fly by.
+- I get to reds meadow and… lily can’t drive down the last 8 miles of road. The website says open, but apparently private cars can not drive the last 8 miles, and the shuttle doesn’t start until tomorrow.
+- No onen is leaving and the only option is to road walk. I’m extremely frustrated as we have an Airbnb booked for the night and it’s 5:30pm. Will take around 3 hours to walk this.
+- A white van approaches and I stand in the middle of the road. It stops and I explain. He says he’s not going back up tonight. I say “my girlfriend is waiting st the gate. How long does it take to drive 8 miles? I’ll give you $50… I’m going to lose it if I can’t get up there.”
+- He relents and is super gracious and nice. He lives down here in a camper at devils post pile and does trail maintenance.
+- I feel so bad for imposing, so lily and i gift him and his girlfriend one of our favorite bottles of wine lily had brought up from Los Angeles.
+- We make it into mammoth and go shopping for groceries to make dinner in our rental.
+- Salmon, quinoa, fresh greens… mmmm.
+- Have a great time cooking it and catching up.
+- Lily is the best.
+
+Mile 906.7
+Miles 26.1
+37.614990,-119.074883
+
+July 2
+
+- woke up and had breakfast
+- Walked the 1.5 miles to the dock on lake edison to take the ferry To VVR
+- boat is fun
+- Get there and order the mountaineer special, a ton of food
+- Resupply for the next day into mammoth. Frustrating to run short so close to the goal but oh well.
+- Post up at the edge of the lake in a sun chair and get some writing done. Hard to find time for this.
+- Go order lunch, a burger.
+- Started to feel real sick. Pretty sure I just put way too much food in my stomach. Hiker hunger is real but capacity is an issue.
+- Take the ferry back.
+- Those 1.5 miles to the junction feel awful.
+- Frustrating to end up right back where I was at the end of yesterday. Stopping in VVR not wort it, should’ve woken up this morning and just hit the pass after getting some food.
+- now basically no buffer for getting into mammoth.
+- make camp a mile short of silver creek. Plan to hit it early in the morning and push hard.
+- Literally asleep at 6pm
+
+Mile 880.6
+Miles 4.9 (3mi VVR round trip)
+37.426651,-118.909821
+
 July 1
 
 - woke up around the standard time right now, about 6:30, when sunlight first hits the walls of my tent. Very difficult to get up when everything is cold and wet otherwise
@@ -69,6 +236,10 @@ July 1
 - Thinking about my capabilities and the guy I helped at walker, etc...
 - Need to ensure I can make it to mammoth either way in two days to meet lily. Very excited for that.
 - Plans, etc…
+
+Mile 878.7
+Miles 22.4 (3mi to silver, 3 mi back)
+37.412560 -118.924629
 
 30
 
