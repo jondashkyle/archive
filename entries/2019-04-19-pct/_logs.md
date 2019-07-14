@@ -763,7 +763,7 @@ N 35.336639°  W 118.285784°
 - I noticed a report on the camp sites that there is cell service at the top of the hill, so I keep pushing and notice a few camp sites, too, however the coverage is somewhat poor and it’s very windy on the ridge
 - I make camp and try calling, but reception is very spotty and the call keeps dropping
 
-Mile 623.6e
+Mile 623.6
 Miles 27.1
 N 35.481723°  W 118.145215°
 
@@ -788,7 +788,7 @@ N 35.481723°  W 118.145215°
 - Already Feeling much better
 
 Mile 651.3
-Miles 
+Miles 27.7
 N 35.664442°  W 118.034837°
 
 16
