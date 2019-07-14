@@ -1,3 +1,125 @@
+July 13
+
+- woke up at 6am and hit the creek crossingZ had gone down a solid 6–8”
+- Was freezing the next few miles
+- Was nice to get some time in before the misquitos hit
+- The sun finally start to hit the trail and I stopped to eat some breakfast and get some water
+- By the time I left the misquitos we’re out in full force
+- 9 mile climb out to Dorothy Lake Pass, is gradual you don’t really notice the climb
+- tons of mud and Eventually hit patchy snow, making it a little tricky to navigate
+- Big meadow, super swampy, sticky steps
+- Eventually the snow became more or less continuous, and you reach Dorothy Lake
+- It’s incredibly beautiful up here. I look down and light is reflecting off a jet black obsidian stone. I’m dumbfounded. Right here in the middle of all this glacial till 
+- I continue walking and realize this is it. This is the border of Yosemite. The end of the “high” Sierra. The Sierra you picture when you think of Sierra. It’s a heavy moment. You have this on he horizon for so long, and now it’s over.
+- Behind me are young jagged peaks, and a head of me are old rounded mountains. A transition point. I feel as though I’m standing at the same position in the landscape as I find myself in the timeline of life. The feeling is overwhelming.
+- I continue walking through patchy snow, crossing a few streams of cold melting snow about knee deep.
+- I run into cous cous, a new face, and we talked on this for a while. After some brief hesitation to check, we both deduce we must be only hundreds of yards away from crossing 1000 miles, and confirm we indeed are.
+- I begin walking, and after only a few minutes round a corner like any other and see an arrangement of stones in the ground. “1000”
+- Apart from the arrangement to mark the occasion this feels just like any other discreet part of trail; true of past numerical monuments, and I suspect of future.
+- Now is the climb up into the older and rounder mountains bordering the protected Hoover Wilderness. the map indicates a ridge walk almost continuously at 10.5k
+- Passing through treeline happens quickly, and now I can see an expanse of snowy switchbacks in a huge bowl, and an exposed back made of loose till.
+- I do not feel up for slogging in slushy snow late in the day at a high grade, so shooting straight up the side to the ridge is the choice
+- For each step you take one back, but eventually the steps coalesce into something narrow and compacted
+- The climb is extremely fun, excillerating even, as I watch the snow covered switchbacks fade behind me as I dart up and in between higher patches of snow
+- Reaching the ridge I’m awestruck by the expansive view of all the high Sierra behind me. All of the distance and time covered through this past section
+- The ridge continues. Imagine a level plane interrupted by massive uplift and tilted to the edge of the angle of repose, the sheer edge of falling off, seemingly forever
+- I walk this for a few miles before running into cous cous and a few familiar faces. He’s found himself a nest inside a ticket of high altitude shrubs clinging to the mountain side. Crucial cover for sleeping as the wind is already ripping past at high sustained speeds.
+- I see two people walking southbound and say hello. I ask if they flipped and they say no, they had done the JMT last year and are out for the weekend, their first time since then. The one comments on how the climb up from Sonora pass was a snow slog, and cannot imagine the entire trail through the Sierra this year.
+- I ask if they had seen any better area for campsites, and they said no, deciding for me this area will be it.
+- They continued on their way only to return a few minutes later. “Here, I thought you could use this,” he said, holding two tabs of acid.
+- I’ve only had one *real* phsycadellic experience maybe 3 years ago, and had found it a profound experience offering all sorts of small epiphanies. Earlier in the day, provided everything previously mentioned, I had found myself wanting for the first time since then to truly have another of those experiences. Amazingly, it just shows up. I give one tab to those at camp who would like to share, and hang on to one for myself.
+- Before making camp I scrambled up the ridge to see if there were any promising sites. The last grouping of brush protected a small crater made of loose rock, excellent coverage and the view from up here was unparalleled in every direction. Camp it is!
+- I return to eat dinner with the others. Considering tomorrow is a resupply day I make two dinners to celebrate the momentous day. As I put the water on to boil, maybe an hour before sunset, I do half a tab.
+- Dinner is great, and the antics are good. I gather my things and head to my spot to make camp, an easy task as tonight I’ll cowboy camp.
+- I realize that, amazingly up here, I have full cell service, adding an entirely other dimension to this feeling of connectedness today.
+- The setting sun illuminated the entire Sierra behind me in gold light. I walk a little distance to a rock outcropping providing some wind coverage and an amazing view. I lean into it in a way that interfaces with my body so perfectly I don’t feel any points of contact
+- as the sun begins to set I decide to do the second half tab, and slowly the earths shadow begins moving up the sky, a nearly full moon begins reflecting off the snow
+- I’m positioned at an angle to where the massively uplifted plane appears as the level horizon, and the Sierra and gradient sky seem to be falling off at an angle. A total perspective shift.
+- I stay there for the entire sunset, and when it is dark begin walking back to my spot.
+- I get in my quilt and instantly feel warm and prop myself up to have a view of the ridgeline peak ahead of me and the stars
+
+Mile 1010
+Miles 22.5
+N 38.269020°  W 119.630206°
+
+July 12
+
+- throughout the night I’d wake up and look at the snow and stars as the moon tracked its across the sky.
+- Alarm went off at 5:30, but I didn’t fully wake up for another hour as I watched the canyon walls become illuminated by the sunrise
+- Started the descent and was glad I waited until this morning when I was fresh. A decent amount of snow and navigation required. The campsites also has nothing on last night.
+- The trail briefly went up into snow, and I wanted nothing to do with that, so I looked at the topo and worked my way around it. Glad I did as it only took a few minutes instead of route finding to stay on trail.
+- crosses Piute creek, which is more of a swamp with a bunch of logs then a creek. Could’ve simply gotten my feet a little wet, but the hopping between fallen logs at perpendicular angles almost became a game.
+- Lots of misquitos. There were many yesterday, too, but this is another level.
+- Large climb up to Seavey Pass, with some beautiful lakes at the top.
+- The descent was surprisingly snowy. The trail follows the Kerrick Creek through here along a steep canyon wall. Some of the snowy sections were quite steep and a slip would send you into the raging river below.
+- Tried boulder scrambling some of those sections to varying degrees of success, and returned to trail once it began drying up.
+- Had lunch at a nice dry area with a particularly ergonomic depression
+- You then cross Kerrick Creek, which at the trail is nightmare material. Fortunately there was a log around 100 yards upstream which requires a nice little jump at the end to make it back to land
+- next was another climb to an unmade ridge, but involved a good 1000ft of ascent/descent. The pct through here loved to do this, cutting straight across ridges instead of following valleys.
+- another creek crossing in Stubblefield Canyon. This one I simply crossed at the trail, though it was waist deep and moving well.
+- immediately after was another sizable climb, the first few miles of which were covered with blooming wildflowers and huge eratic boulders dotting pristinely polishes granite
+- The peak involved some snow crossings. Often on these I simply improvise a route.
+- Crossed Tilden Creek, rather mellow
+- Descended into mosquito hell. Stop moving for more than a second and you’re covered. Really terrible.
+- Passed Wilma Lake, which was high enough to cover the trail in multiple areas as it followed the shoreline
+- Approached Falls Creek by around 5:45 and was immediately sketched out. Around 50ft across, deep, and although not white water was flowing fast enough to go “wow.”
+- Scopes around a bit for a better crossing but at the trail seemed best.
+- Waded in and was immediately up to my chest. Because the flow was so strong it required leaning strongly forward, which starts to put you on your toes. I began getting light on my feet as I inched across and had flashbacks of slipping at Bear Creek.
+- Began moving back to land, frustrated knowing that I’d *probably* be fine, but unable to get over the physiological hurdle.
+- Began quickly setting up camp, drenched, to avoid the mosquito onslaught.
+- Around 5 minutes after getting camp up a hiker I had seen earlier in the day approached, sized up the crossing, and made it. This frustrates me, as now I was soaking wet sitting inside my tent and getting everything else wet.
+- I decided to settle in and eat some. Unfortunately water was low, and I was not about to go outside and get eaten alive by misquitos, so I sat and ate half a jar of peanut butter while listening to an episode of In Our Time on the philosopher Henri Bergson about the human experience of time passing and how that differs from a scientific measurement of time.
+- Planning to wake up early to cross, hopefully the water level is noticeably lower. Not looking forward to putting all my wet clothes back on in the cold air.
+
+Mile 987.4
+Miles 20
+38.073811,-119.646530
+
+July 11 
+
+- woke up at 6:45 and was going by 7:15
+- Stopped by soda springs, where cold water bubbles up naturally carbonated. No one is sure quite what the process is.
+- Filled up my water bottle while fighting off misquitos
+- Incredible rock formations, glacially polished
+- The incredibly impressive Tuolmne Falls. Huge. Difference in water level between three weeks ago and now.
+- After descending to the junction for Glen Aylin Sierra Camp the trail climbs for several miles.
+- The cascades over The smooth granite is remarkable
+- although the sun is rising the number of pines provides welcome relief from the direct sunlight
+- I crest the ridge and begin descending towards McCabe Creek, which is notoriously difficult. In 2017, another high snow year, it was the other creek where someone slipped and perished.
+- I take lunch on its banks and consider a plan. After eating I walk upstream a bit and see some thin logs running halfway across the stream over white water and leading to much calmer and shallow water for the rest of the crossing.
+- I hop up on the boulder and feel out the logs. They’re unstable, but I take a few steps out looking down to see how they handle the load.
+- Looking down makes crossings very difficult. Not so much because it’s frightening (although sometimes it is) but because the movement is disorienting and makes you feel off balance.
+- I give myself a moment to rest, then start across again. Quickly I’m within reach of the next boulder, so I lean over and stick it.
+- Relieved, I continue wading through the calmer thigh-deep water.
+- Next we’re a few more creek crossings. I was surprised at both how deep (generally thigh) and fast the water was moving despite looking calm.
+- Up another ridge, then back down, around 1500ft each way.
+- Thought I might have been near a bear as I hear a noise and look up to see a pine tree rapidly swaying. I make some sound but don’t near anything else. Sometimes pine trees fall over under the weight of snow and become buried. I think that may have happened here.
+- Upon reaching the top I pass miller lake, which id love to return to later in life for a swim
+- Continuing down I cross Matterhorn Creek, which is very similar to the others.
+- It’s only around 4:30, so I decide to continue with the mornings plan of crossing Benson Pass, the next big climb.
+- The view of the valley below is absolutely beautiful. The trail follows a large stream which I cross back and forth several times.
+- I’m feeling great, and am enjoying every minute.
+- The trail flattens out briefly twice before the final approach climb to the saddle.
+- I’m surprised by how much snow is still up here, however it is nowhere near what Donohue was.
+- Reaching the top I notice some massive thunder cells behind me. Fortunately they do not look to be moving my direction, however it’s likely a good idea not to stay on the pass.
+- Starting the descent the trail could not be in better condition. The snow is entirely clear on the side of the small canyon on which the trail runs, and the other is still caked in snow.
+- I do around a mile and a half before rounding a corner and seeing some of the most breathtaking campsites I have seen yet.
+- It’s 6:30 and I want to push another 5 miles to Benson Lake… but these are just too good, and there is a fire ring, so I decide to treat myself after a day or substantial elevation gain—somewhere around 5000ft of ascent and 4600ft of descent.
+- I make camp and gather firewood, such a relaxing process. The sun continues to approach the horizon and I sit down to recap the day a bit while watching the shadows climb the sheer granite walls across the meadow in the valley below.
+- With around 15 minutes before the sun set i started the fire, which quickly grew into an inferno.
+- After then sun set and the shadow of the earth began its journey overhead I began prepairing dinner for the evening, pad Thai.
+- Remarkably in the two hours since arriving no one passed me. Likely fear of doing snowy passes later in the day. I’m not disssapointed, this feels like one of the more profound moments on trail yet.
+- Perfect little stream near camp, sound of the huge falls nearby.
+- After the sun went down the air became incredibly still
+- Moon three quarters full, casting shadows on the cliffs
+- Effectively did the JMT. Seemed to fly by
+- Look up and see a satellite flair up overhead 
+
+Mile 967.5
+Miles 25.1
+N 38.009027°  W 119.475030°
+
+
 July 10
 
 - slept in till 7:30
@@ -17,6 +139,8 @@ July 10
 - Talked to a ranger who said it’s fine for backpackers to stay at the backpacker camp in Tuolmne csmpground. Go figure, after all that! Still happy with how it ended up.
 - Ran into CalEarth, someone i last saw perhaps in the first 100 miles. Wild!
 - Going to bed early and plan to get started very early to make up for what is effectively a zero day.
+
+Miles 0
 
 July 9
 
