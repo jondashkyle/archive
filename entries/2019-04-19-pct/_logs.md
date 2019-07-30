@@ -889,8 +889,8 @@ N 35.664442°  W 118.034837°
 - Professor for the group comes over, “honestly, someone probably would have found him laying up there on the trail in the morning and had to press sos had you not done that.”
 
 Mile 663.4
-Miles 
-
+Miles 12.1
+35.742851,-118.022987
 
 20
 

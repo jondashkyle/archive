@@ -1,3 +1,416 @@
+July 29
+
+- slept in till 7:30 which was amazing, best nights sleep in a very long time with the river in the bg
+- Packed up camp and started walking towards the lodge for breakfast
+- history book in the office
+- Pretty good food buffet, got better each time I filled the plate up
+- Left at 10am
+- Nice little climb to start, creek crossing with logs then level off for the most part 
+- Some misquitos as the Meadows increase
+- Awesome log paths across the meadows!
+- Reached fhe rdge of The burn area (fire history)
+- Super exposes and very hot as I descend. One sizsble water cary
+- Reached the end of Lassen and was a little sad, even though it was such a brief section, I had been rederencing it in the map the last week
+- Now that I’m past halfway began thinking about the end of the trail. Imagining buying the plane ticket home after reaching Canada, etc
+- Because of the big breakfast in the late morning I did not stop for lunch, and had forgotten to easily Stowe some snacks
+- Mistake as I began to get very groggy and hungry by 4pm
+- Pumper caught up within the last 4 miles as we aimed to resupply in old station for a day
+- Made it to the road and tried hitching for a few minutes with no luck, so did the 3 mile road walk
+- The restersunt rumored to be opened until 8nhad closed at 5, so we went to the gas station next door
+- Feet and lets super tired. Very little up, mostly level or slightly down. Great for cruising, but you only really activate one muscle group for the entire day, really wearing them out 
+- Tomorrrow will be a big push into Bernie. Over 40 miles through a super dry and exposed section. The hope is to knock most of the rough stuff out early in the day.
+- Made camp behind the gas station
+- Bike touring guy, 60 some miles
+
+Mile 1377.3
+Miles 27
+N 40.677363°  W 121.425883°
+
+July 28
+
+- sunrise, 5:00
+- climb
+- Little water, snow, first time
+- Halfway
+- Level for a bit
+- Took off, going fast
+- two more climbs
+- trail magic ice cream and soda
+- Aiming for Drakesbad, dinner starts at 6 supposedly
+- Ended in Lassen
+- Smells like sulfur
+- Amazing geothermal pool
+- Make it to Drakesbad (history)
+- Dinner for hikers not until 7
+- Take a real hit shower
+- other hikers, grab a beer
+- Wait a surprising amount of time to be served, a full hour late at 8
+- Food local beer from Lassen brewing in Sunnyvale
+- Order a glass of wine too
+- They bring out the shrimp…whatever, underwhelming portions I I ask to also get the pasta. A minute later double check with the server so they know I wasn’t making a joke
+- Get The pasta with chicken. Very very good.
+- Grab a can of beer to go
+- Pay and head down to the pool, fed by natural hot springs. They turn off the cool water once it’s dark
+- Sooooooo good. Sky is super dark. Everyone in the pool is looking for shooting starts and pointing out festires in the Milky Way. Unlike anything else.
+- Shooting star
+- Swimming around looking up
+- Super hot sections
+- Amazing
+- Walk to campground, buzzed
+- Setup
+- Olannfo sleep innand breakfast at 8
+
+Mile 1350.3
+Miles 33.9
+N 40.441669°  W 121.393805°
+
+July 27
+
+- woke up a little later thanks to having gotten in late last night. got going at around 6:15
+- The rave ran all night, and when waking up I’d remove an earplug to check if I could still hear it. The sound carried down the canyon as we began the day.
+- The day began immediately with a big climb from 3k feet to just above 7k over 12 miles. Fortunately the trail ran up the side of the canyon within shadow, and once the sun began to break through we entered into dense trees
+- Lots of water in the way up, which is nice as water caries become longer again
+- Took a brief break halfway thru the climb to clean off the feet. Trail has been super dusty recently making this nrssecsreh again
+- Reached the top and broke for lunch. Always nice to get a new horizon.
+- Began a slow trending descent over the next several miles. On this side of the ridge water is more scarce.
+- Some nice meadows
+- ATV blasting rage against the machine on a fire road
+- Really remarkable volcanic rock begging to appear now that we’re in Lassen National Forest, home of the volcanic park.
+- Feet felt very tired today. Probably need new shoes. Have been on these for several hundred miles.
+- Had to walk 0.3mi off trail for water st the end of the day, then made it to a nice ridge and set up camp
+- Great view of mount Lassen in the distance during the sunset while eating dinner with pumper and turtle.
+- A deer hung around camp for a while once the sun went down, p chill
+
+Mile 1316.4
+Miles 29
+N 40.195117°  W 121.436398°
+
+July 26
+
+- woke up at 6 as planned
+- Got going, some up 
+- Amazing views and rock composition
+- Began Really cruising after the initial climb, sort of flattened out
+- Some patchy clouds making the temp nice
+- Lots of water, some misquitos
+- Began going downhill. Tons of manzanita covering the trail while super exposed
+- Began really going downhill into a valley. The grade made it a lot of work to hike against gravity, so just began to trail run since the pack was light
+- Probably ran the first 6 of big down before considering it a bad idea for the bones
+- Briskly Walked the rest
+- Arrived at a campground absolutely teeming with ravers, hundreds of tents. Insane. So many people.
+- Got to the general store and apparently it’s before the gate opened, this is the pre-crowed.
+- Got a drink and a burger and waited for pumper to arrive
+- Talking to some attendees and they all seem to know at least a little about how the trail literally spits you out right here
+- Looked at the artist roster and some people I know from LA are performing
+- The other side of the canyon we were to climb goes up for about 3k and is directly in the sunlight all day. It was going to be hot, so the plan became to wait out the heat, but it Starts to become a question how hard it will be to leave this…
+- Recognize some people from LA and say hi, they give me an entire half bottle of rosè.
+- Dancing and hanging to a friends set by the river and drinking
+- End up talking to a reporter for the guardian about the intersection of the trail and this river rave, interesting convo
+- ate a little bit more and debated with other hikers about our plan to escape
+- Decided to go to the main stage, dance, and polish off a PBR. Altho we were told we could hang security gave us a hard time about being at a stage, so we decided to simply finish the beers and start hiking up the huge ridge climb in front of us after walking over w confusing bridge under construction. (Pedestrian button, etc)
+- Dancing w/ packs on
+- start slogging up. Still so hot. Find a big flat space with a tower for power lines about a mile in and decide to pitch there
+- Can still here the music from the canyon below, oh well
+
+Mile 1287.5
+Miles 18.8
+N 40.004898°  W 121.258770°
+
+July 25
+
+- woke up st 5:30
+- Something growling off in the distance
+- Big down
+- Super green
+- Amazing light
+- East fork of feathers creek
+- Cool bridge
+- starting up a big big climb. Some water then go.
+- 4K up over 10 miles
+- Steve Reich
+- Walking as dyhrhm, months long performance of waking up and doing the hand and feet motion
+- That percussions polyrhythms stuff putting me deep in the zone
+- Getting Hot
+- starting to reach the top and feeling it. Hard to say how much of this is actual elevation gain vs hyping it up in my head
+- Stop at lookout rock
+- Decide to walk what look like fireroads into bucks lake as the road has a rep for low traffic and No hitches
+- Hit the junction and start walking down the dirt road. A bunch of very dense trees of various ages
+- Some big clear cut areas
+- Really beautiful area, dirt road super well maintained and graded very well
+- hits another huge super wide dirt road
+- Becomes obvious we are actually in logging roads
+- Finish the 2 mile alternate and make it to big creek road
+- Hit The general store, which I forgot about. Grab an ice cream sandwich and and a soda, plus resupply for a day to belden
+- Sit outside and hang in the shade. Big crew of hot shots roll up in forest service vehicles
+- Not much traffic. A lady pulls up and hops out—she goes inside and I decide to get more ice cream. Start talking to the owner about the trail and she overheard. “Where to next?” “Well, short term trying to get to the lakeside resteraubt to get some good food!” She says, “oh, well I can give you a ride” yes!
+- We Hop in. Her husband is in the car and had wanted to do the PCT or JMT for some time.
+- Great convo. She helps relocate people who have lost there homes in fires.
+- We get to the restersunt and order food and a drink. Fish and chips and an Elysian star dust for me.
+- So good but hard for both of us to even make a dent in our food. So used to eating small portions but so hungry.
+- End up staying way longer than intended. After four drinks and as many hours we head outside. Someone asks if we’re hiking and we say yep, but no ride.
+- We stand on the side of the road for maybe 20nseconss and a car begins leaving the parking lot.
+- Thumb our and they pull over! They take us to the trail wheee it intersects the road
+- We Hop our and there are a few campsites at the trailhead for stealth camping can but for some reason we keep walking even tho the next marked sites are 3 miles plus 800ft climb
+- Of course there are no sites. We find a wide area of trail and decide to just pitch right there.
+- Feeling very full and tired we are out quickly, and decide to start just 30 minutes later tomorrow
+
+Mile 1268.7
+Miles 24.3
+N 39.901413°  W 121.125995°
+
+July 24
+
+- started around 6am, beautiful sunrise
+- Lots of lakes reflecting the morning sun. Rocky bits extending out of lush greenery
+- Started pacing with pumper after 45min
+- very relaxed start, mild up and down for the first few hours
+- Some snow walking!
+- Took lunch at 11:30am at the east branch of bear trap creek. Washed the feet off and relaxed for probably 45min. Had done 14 miles.
+- Next was a series of three decent climbs followed by descents. These went by fairly quickly as we had a rocket pace after lunch.
+- really cool ridge on the second climb, panoramic view
+- After the climbs was a lot of down!  My right knee has been giving me issues in the down for the past few days, and it began to noticeably flair up today
+- Stopped by alder spring to get some water. Somehow ended up hanging here in the cool shade next to the water for an hour after deciding to do only another 6 to hit 34 miles instead of doing 12 to hit 40. Felt great to just reign it in a bit, and probably smart to avoid injury by overdoing it in terrain which was still somewhat demanding
+- 2000km
+- Came up to someone who was laying down and leaning on their pack in an odd place. Pumper asked if they were ok, to which they said “dying in a bed of wildflowers wouldn’t be the worst I suppose!”
+- I asked if they had water, and he said “that’s actually the issue… I’m almost down to nothing”
+- This didn’t seem as urgent as the situation coming out of walker pass, although it was certainly similar
+- Gave him plenty of water, and since he was headdd south bound informed him of the water a few miles ahead at alder.
+- Continued on, but found the campsites we had been looking at to be occupied. Water was also indeed scarce, so we pushed to a creek a few hundred feet off trail next to a fire road with some improvised campsites.
+- Set up camp and had dinner at around 8:00
+- Another big day. Tomorrow will be somewhat mellower as we plan to stop by Buck Lake instead of hitching into Quincy.
+
+Mile 1244.4
+Miles 34
+N 38.643275°  W 119.932755°
+
+July 23
+
+- good nights sleep. Packed up and headed to the general store
+- Arrived st opening and ordered a breakfast burrito and milkshake. Also did a minor resupply, mostly of bars for snacking on while walking
+- Caught up with lily!
+- Burrito came out and it weighed two pounds. Insane amount of food. Milkshake was great.
+- couldn’t finish all of it, oh well. Packed the food into my bag and began the road walk with pumper back to the trail, which was a nice warm up
+- got to the trailhead at 11:30 and started up a series of switchbacks. Fortunately there was decent tree cover for the first few miles, and for the first time in weeks some patchy clouds overhead providing momentary relief from the afternoon sun
+- some incredible rocks. vibrant colors. psrallaxing with the surrounding ridges.
+- I was feeling quite bad during this climb, likely the buritto. A headache was also slowly increasing in intensity. Looking doen to spot my steps I’d get a bit dizzy. The motion and saccades of my eyes scanning felt like too much visual stimulation
+- Passed mile 1200!
+- Stopped for a lunch break near the top for around 20 minutes
+- Reached the top of the climb and began descending into the valley below
+- There are several lakes in the area, and I had heard good things about the Packer Lake Lodge restaurant nearby, so we stopped in around 3:30
+- Ordered a linguini bolegnesse and glass of red. So good. Immediately started to feel better.
+- Hung out on the porch eating and drinking with pumper and two other hikers. Visitors would walk by and ask “PCT?” Fun conversations.
+- Ordered another glass of wine, feeling much better
+- Planned to do the next climb out of the valley and camp near the top of the ridge
+- Got back on the trail and felt so much better. Was flying up the climb.
+- This section is a new re-route first introduced last year. You can feel it is different from the rest of the the trail in the area up till now. Some big up with no switchbacks, which I kind of like.
+- Sun began nearing the horizon and big storm clouds way out in the distance began lighting up
+- The light was passing thru the trees covered in moss at the top in a remarkable way
+- Found two good camp sites with a nice view and decided to camp there
+- Made camp and ate a little to wind down.
+- Really good day apart from feeling a little jank on that first big climb.
+
+Mile 1210.4
+Miles 15
+N 39.650362°  W 120.667941°
+
+July 22
+
+- was hard getting to sleep last night as a few hikers stayed up late bantering beneath the sleeping loft
+- Woke up at 5:30 and let the alarm ring a little longer than needed just to return the favor
+- Pumper and I packed up and were out at 6. Our plan was to push 34 miles to Sierra City
+- Some snow and small stream crossings to start the day. Plenty of mud.
+- The morning continued with some climbs between ridges with patchy snow
+- It was nice to pace with pumper after so many days did going solo. We talked for a while about his father, an aerospace engineer for Lockheed, and his affinity for sailplanes and gliding. Pumper solo’d At 14, and his father is one of the few pilots with over 200 diamond cross country flights logged. Gets me excited to get flying again!
+- we had done 12 miles by 10am, and by noon had done 16 and completed all the big climbs for the day, leaving us with a mostly uninterrupted cruise the rest of the way into town
+- to celebrate we took a brief break for lunch at the top of the last climb
+- After around 20 minutes we began the remaining 18 miles into town
+- Altho mostly downhill, there were a few 250 and 500 foot climbs, which truthfully was a nice break from the continuous downhill
+- Around 5 miles out of town I began to get serious tunnel vision. We had done 30 miles in 9.5 hours, a redic pace. Kind of like watching the credits of a movie in a theatre, and afterwards everything appears to be moving in the opposite direction
+- Finally Made it to the junction to cut into a camp ground, saving us 2 miles of road walking
+- Got a nice hitch for the last mile into town
+- We felt rather defeated as the general store, the only place opened on Monday, was to have closed 15 minutes before
+- Fortunately for us the store was still open, so we split a six pack and half gallon of ice cream. Mmmm.
+- Sat in the porch and talked someone visiting about their hike in 2017 where they attempted to ski the Sierra in May! Insane.
+- A few of the stores have gotten together to setup a free area for thru-hikers to camp. The church next door had two public restrooms they maintain, which is very kind
+- Set up and then three locals pull up in a car trying to party. Total white trash. I dip out into my tent. It’s been a long day and I’m just not up for it. oh well. Great cruising with pumper today, and hope to for a few days to come.
+- No more snow after Sierra city is the rumor
+
+Mile 1195.4
+Miles 36.2
+N 39.566330°  W 120.635716°
+
+July 21
+
+- Had a great nights sleep, apart from the trains running thru the ass, but they didn’t pose an annoyance—the sound was so intense it was sort of awe inspiring to hear it go over the pass
+- Went downstairs for breakfast at 8, blueberry pancakes, oatmeal, bacon, coffee, and orange juice. So good.
+- Did a few chores, packed up and was out at 11
+- Super easy hitch back to the Donner ski lodge
+- Ran into pumper from the Sierra, good to catch up. Trying to convince him to do an easy 8 to the Peter Grubb Ski Lodge, where I was planning to crash
+- Two free beers, chicken sandwich
+- Had to take a little nap to let things digest
+- Out At 3
+- Did a quick 8 to then Peter Grubb ski hut
+- Pumper was there! Decided to hang.
+- Hangs and quick dinner, then went up to the sleeping loft
+- Thinking about pushing big into Sierra city tomorrow, 35 miles
+- Went sledding (photo)
+
+Mile 1160.8
+Miles 7.4
+N 39.367683°  W 120.367751°
+
+July 20
+
+- woke up at 5:30 and was on trail by 6 to begin the climb up to the ridge
+- Entered Granite Chief Wilderness
+- Incredible views from up here, and the ridge is comprised of incredible volcanic stuff
+- Really love ridge walks
+- Great views of Tahoe
+- Passed through a ski area with lifts and boundary warning signs
+- A mellow descent led to a junction where I met a small group of day hikers who gave me grapes and an apple!
+- Began a 1500ft climb up to a peak with more ski lifts
+- Crossed the ridge and there was a decent amount of snow. Saw a lot
+- Of boot track and began descending. This turned into boot track in mud down quite a scramble. After around 15 minutes I realized something was not quite right, as this was taking me rather far in the wrong direction.
+- To conserve battery my phone was off, so I turned it on to check the map and my position. Sure enough, way off trail and considerably lower than where I needed to be
+- So began the long scramble back up, which took around 30 minutes
+- This took a lot out of me, mentally and physically. Particularly frustrating as after his brief descent started another climb with a steep grade
+- Began the climb up to Tinker Knob. Super dense in wildflowers (elephant ears?)
+- The last mile climbed 1000ft. Upon reaching the top I could see Truckee to the east and I-80, along with several remarkable volcanic faces in the distance
+- With this being the last big climb I was eager to begin descending into Donner pass (some history here)
+- The distance a mile represents seems to increase exponentially the closer to town you get
+- Stood at the side of the road for 5 seconds and got a quick 1.5 mile hitch to the lodge
+- Checked in and there was only one other person staying in the Men’s dorm, a hiker who I met at around mile 450! Amazing.
+- Had a great family style dinner at 6 after having freshened up and started my load of laundry. Incredible how much dirt can accumulate in only two days
+- Chores
+- Crashed the kitchen after dinner where the staff gave us some leftovers, wine and cookies. Nice.
+- Got to bed by 10pm. Always feels good to sleep in a real bed.
+
+Mile 1153.4
+Miles 25.9
+N 39.317983°  W 120.350986°
+
+July 19
+
+- got going around 7. Incredible sunrise with the light hitting the snow covered peaks across lake aloha
+- Today will need to be a big day to make it to Clair Tappaan by tomorrow in the early evening for the family style dinner
+- trail followed lake aloha, then began down past several lakes toward susie lake
+- The trail then began a big 1800ft climb approaching Dicks Pass
+- Patchy snow down the steep grade made for tricky navigation
+- The trail continued to meander around lakes with super blue water
+- exited the desolation wilderness
+- took a lunch break and realized my external battery did not actually charge in Tahoe, leaving me with no way of charging my phone now at 10%. needed to stretch this two days for navigation as my maps are on there
+- The trail began to climb up 1500ft towards
+- Granite Chief Wilderness
+- By now it was 6pm, and ahead of me was a ridge lasting several miles with mostly exposed campsites
+- although it was early, i decided to camp here at a site with good coverage instead of a site on the ridge with a good view. Prioritizing good sleep for the continued push tomorrow
+- Could barely keep my eyes open while eating dinner
+
+Mile 1127.5
+Miles 29
+39.096149,-120.241638
+
+July 18
+
+- woke up at 8 and headed to breakfast at Bert’s CafeZ highly recommended.
+- Picked up some remaining food items for resupply
+- Went back to the hotel and packed the bag. Probably have upwards of a week of food on me. Whoops.
+- Checked out and stopped by a sporting good store. No toe socks but I did find a super light pair of boys sandals that weigh nothing and had no price tag or equivalent box. They gave them to me for $5. Cut the back strap off and we’re in serious action.
+- Saw a Lime scooter parked! How funny would it be to take this to the trail instead of hitching.
+- Drove it 45 minutes to within a mile of the trailhead where the bike lane stopped only to be unable to lock it due to bad cell service! Ended up needing to ride it back basically all the way to finally lock.
+- Hitched At a stop sign at a 4-way intersection. A girl pulled over on her way home from work. “Where to? You’re not gonna kill me, right?” Hah!
+- Super nice, dropped me off at the echo chalet.
+- Talked to a few hikers doing the Tahoe Rim Trail while eating a pint of ice cream. a ranger warned me about an increase in bear activity.
+- Hiked around 6 miles in. Lots of people. Annoying loose rocks. Some snow. Found an amazing site on the shoreline of Lake Aloha.
+- After making camp walked down to the water and found the perect place to recline and watch the sun slowly drift towards the horizon.
+
+Mile 1098.5
+Miles 6.2
+N 38.865062°  W 120.129081°
+
+July 17
+
+- woke up at 5:30 and left by 6 to knock out 14 miles into town
+- Beautiful morning, nice meadows. So many wildflowers!!
+- Decent climb and surprised by how much patchy snow heading down into town
+- Made it to the parking lot for Echo Mountain trailhead. Another hiker was there trying to hitch at the highway . He had a beard and looked a little “woodsy”. Had maybe 50 cars drive by, mostly Subaru’s, and none stopped.
+- Called someone listed as a volunteer for giving rides and left a message. He called back a few minutes later and offered to drive 20 minutes to give us the 20 minute ride into town.
+- Went back into the parking lot to wait, and maybe a minute later a white van pulls up. “You need a ride?” Amazing. Called and said never mind to the original offer. He opened the trunk of the van and there was an assortment of doughnuts and hot coffee! Damn!
+- Made it into town and checked into my hotel room at 11am
+- Got lunch, a burrito salad w/ mahi-mahi, shitty indie cover that 500 miles song everyone was quoting in Instagram captions at mile 500
+- Stopped by Kmart to resupply and within 5 minutes heard as many domestic disputes
+- going into town my shoes were wet, and not wanting to walk around town in wet shoes I Bought sandals that turned out way too small, whoops. Maybe I’m just not supposed to have camp shoes.
+- Got back to the hotel and watched trashy tv.
+- started planning for the next stretch to soda springs, 100 miles ahead.
+- Between here and there is a spot Called Claire Tappaan, a lodge owned by the Sierra club, which I’m a member of.
+- Lily’s family has been involved with the Sierra Club going back generations. her mother’s father was a photographer who would go climbing out in the Sierra back in the 40s (check). This is an important stop for me and one I’ve been looking forward to.
+- It’s only 33 miles ahead. Will be leaving tahoe tomorrow afternoon and aim to get at least 10 miles in. This will give me a solid day to meander through the Desilation Wilderness, another highlight of the trail, as I only need to get to Clair Tappaan by 6pm for dinner on Saturday.
+
+Mile 1092.3
+Miles 13.4
+38.834492,-120.043747
+
+July 16
+
+- waking up late may be the new normal, got going at 7:45
+- crossed highway 4 and ebbetts pass after only a few miles
+- there are a number of lakes around, all of them quite full this year to snow melt
+- very flat and cruisy for the first few miles, so nice!
+- The Incredible volcanic rock and bristle cone pines continues. (Need more on the geography here)
+- just a very mellow cruisy morning. Took a break for lunch at 12:30 for about half an hour
+- Ran into a larger group of older hikers heading southbound into Yosemite with lots of questions, talked for a while
+- Big 1600ft climb up to “The Nipple” next to Upper Blue Lake. So many wild flowers. Super windy!
+- Carson Pass was surprisingly snowy, with two slightly sketchy inclined areas. Not bad tho.
+- Ran into some familiar faces at the ranger station
+- Stealth camped around 0.5mi in
+
+Mile 1076.9
+Miles 30
+N 38.696189°  W 119.992717°
+
+July 15
+
+- woke up late, great night of sleep. Got started at 7:30
+- pack feels so much better without the bear can
+- Nice climb back up to almost 10.5k. Some patchy snow but nothing crazy. Super volcanic rock, intense colors and textures.
+- Big descent down into the valley, back down to 8k
+- Decent climb up, nice switchbacks
+- Upon Reaching the ridge i took a lunch break at 12:45
+- Little descent in more patchy snow. Only part of the day where it was kinda hard to navigate
+- First day in so long not marked by some insane snow or big creek crossings. Decent elevation change but cruisy!
+- Over the next few miles you climb back up to over 10k
+- Some reception at the saddle above Noble Lake, give lily a call
+- Slide-skin down a big snow chute, tons of fun
+- Improvise back over to the trail heading into Noble Canyon
+- Intensely interesting geography here. This volcanic rock with old pines
+- Snow bridges melting out on stream crossings
+- Push a little further then first planned and get an awesome site.
+
+Mile 1046.8
+Miles 28.9
+N 38.545579°  W 119.792458°
+
+July 14
+
+- no sleep, but i have no complaints. just as walking miles upon miles each day is an effort, sometimes staying up all night is an effort needed
+- hike thenridge. Super cool layers of strata.
+- Some snow waking in incredibly deep snow ruts
+- Begin descending and it’s a lot of snow, two big glissades. Avoiding rocks.
+- Make it to the bottom and wait all of 15 seconds for a hitch. A beautiful old bronco.
+- Make it to Kennedy Meadows south and grab the cowboy special for breakfast.
+- Resupply at the store
+- Eat a cheesburger for lunch
+- Sent back the bear can and microspikes
+- Coordinate with some others to get a later shuttle back to the trail
+- Hang our and write a bit
+- Eat dinner, salmon. Lots of food today.
+- Go to the saloon afterwards for a drink. Begin talking to an older hiker who had glissaded in front of me. He came to America from sweeden as an exchange student when he was 18 and stayed with a family who was part of the Sierra club. They would go bag a peak in the Sierra every weekend. 40 years after doing Whitney he’s back out here doing the PCT.
+- 7pm shuttle, driver showing us where the original road for Sonora pass ran
+- Get to the trailhead and camp, hang for a few minutes then bed as I’m extremely tired
+
+Mile 1017.1
+Miles 7.1
+N 38.329281°  W 119.634739°
+
 July 13
 
 - woke up at 6am and hit the creek crossingZ had gone down a solid 6–8”
@@ -37,6 +450,8 @@ July 13
 - I’m positioned at an angle to where the massively uplifted plane appears as the level horizon, and the Sierra and gradient sky seem to be falling off at an angle. A total perspective shift.
 - I stay there for the entire sunset, and when it is dark begin walking back to my spot.
 - I get in my quilt and instantly feel warm and prop myself up to have a view of the ridgeline peak ahead of me and the stars
+- I’m not looking up, but out at the expanse as satellites fly over, and beneath that commercial airliners
+- It becomes clear sleep will not happen, but I’m ok with it. Nights like this are important.
 
 Mile 1010
 Miles 22.5
