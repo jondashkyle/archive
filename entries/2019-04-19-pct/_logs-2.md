@@ -1,3 +1,39 @@
+July 31
+
+- slept in until almost 9am! Very rested.
+- Got breakfast and planned the resupply 
+
+July 30
+
+- the alarm went off at 4:30 and I began to break down camp
+- Started a brief road walk down the highway to where the trail intersects, barely enough light to see as the day before the new moon
+- Hopped on trail and started a brief climb up to Hat Creek Rim, which we’d follow for much of the day
+- Was super cold, kept my jacket on and zipped up this entire time
+- Reached an observation area at the top and got a good view of Mount Lassen behind us, and the snow covered peak of Mount Shasta ahead
+- Began following the trail as it hugged the edge of the rim, incredible watching then sun ride from up here
+- After several days of walking in densely wooded forest I can eagerly say I prefer the expansiveness of these drier open spaces. Altho often bitter and more exposed, I greatly enjoy the slow motion parallax effect perceived throughout the day while traversing 30 miles in a straight line. There is also something distinctly planetary feeling about seeing such a wide area move past you at the speed of a walk.
+- by 10am the sun was high enough to begin really warming things up. Tried to recall how cold I was this morning!
+- Stopped for lunch and some much needed water after around 18 miles at cache 22, which is maintained by a volunteer and funded by donations. Without this the water carry would be extremely heavy, just like being back in the desert.
+- Had lunch with a small group gathered in the shade nearby. An older couple discussed wanting a new cooking solution, and I haven’t used my stove and cook kit once since leaving the Sierra. I sold it to them on the spot! Now don’t need to package and ship it home.
+- Got going again around 11:45 and the sun was at full blast
+- Began descending onto a lava field. Huge boulders of solidified lava as dark as night. Their irregular shapes made them very uncomfortable to walk on, and with several hundred miles on my shoes there is very little cushion left
+- Passed mile 1400!
+- After walking on the volcanic rock for a few miles I noticed through the brush a freshly paved road. I checked the map and it paralleled the trail for a few miles. No brained to give the feet a rest and walk that for a bit!
+- After reaching the point where the road intersected the trail I noticed a dirt road on the map which led to high voltage power lines. Those appeared to lead directly back to the trail right where I needed to be, as opposed to walking the paved road I was on north and adding unnecessary miles to get back on trail.
+- Decided to give it a shot, and sure enough there was a dirt road under the power lines!
+- Walked that until the road terminated at a scramble down next to a hydroelectric plant. I knew the trail was somewhere near here, but unsure where, so I pulled up my position on the map. The trail was only 100 yards away directly below me. Amazing!
+- Found The trail and rested at a nice cold creek for around 30 minutes, the pumper showed up and we continued to rest for another 30
+- Our plan was to hitch into the town of Burney to resupply for a 3.5 day push to Dunsmuir, but now we began discussing simply stopped at the Burney Mountain Guest Ranch to rest and do a modest resupply.
+- Finally got going to do the next 2.5 miles into the ranch
+- Arrived and got two beds in the bunk house, of which we were the only guests! Much cheaper than a private room and effectively the same.
+- Had dinner and caught up with two other hikers staying the night
+- Washed up and caught up with friends and family by the pool
+- Got to sleep by around 9:30
+
+Mile 1409.7
+Miles 32.4
+N 40.954622°  W 121.559222°
+
 July 29
 
 - slept in till 7:30 which was amazing, best nights sleep in a very long time with the river in the bg
@@ -18,7 +54,7 @@ July 29
 - Made it to the road and tried hitching for a few minutes with no luck, so did the 3 mile road walk
 - The restersunt rumored to be opened until 8nhad closed at 5, so we went to the gas station next door
 - Feet and lets super tired. Very little up, mostly level or slightly down. Great for cruising, but you only really activate one muscle group for the entire day, really wearing them out 
-- Tomorrrow will be a big push into Bernie. Over 40 miles through a super dry and exposed section. The hope is to knock most of the rough stuff out early in the day.
+- Tomorrrow will be a big push into Bernie. Over 30 miles through a super dry and exposed section. The hope is to knock most of the rough stuff out early in the day.
 - Made camp behind the gas station
 - Bike touring guy, 60 some miles
 
