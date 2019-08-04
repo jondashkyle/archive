@@ -1,7 +1,100 @@
+Aug 3
+
+- Great sunrise, slept late since we only needed to do 6 miles into the trailhead near the 5
+- Walked a logging road to cut 4 miles off the trail which takes you to water along a ridge and back. Really unnecessary if you are good on water.
+- Real lush and nice light walking down. Feet are sore after only a few miles because of the shoes.
+- Pass mile 1500
+- Make it to the trailhead and after a few minutes Pumper’s godfather pulls up
+- We drive into dubsmuir and get breakfast. Cremen Brûlée French toast mmmm
+- Grab a resupply for 2 days into Etna
+- Stop in the local brewery. The guy at the bar next to us says he won $150 on a $5 scratch off lottery ticket that morning and is buying us a round, hah!
+- Pumper’s father arrives. Him and pumpers godfather hiked the PCT together in 1979, well before it was completed
+- We talk about the trail for some time. His father is also an accomplished glider pilot, lots of talk of that
+- We head to the hotel and freshen up
+- Hang outside and have a few drinks
+- Go to The Blue Room, a thai restersunt. Really good fish curry.
+- The owner collects slitscan photos from the early 1900s of large groups, prints from the negatives on the wall, so cool
+- Ordered a glass of Pinot and he brought the bottle out for me to finish off, a solid two or three more pours
+- Have been there for 35 years, closing soon
+- Great signsgeout front
+- Got back to the hotel and packed the resupply up
+- Hung outside until 10, mellow
+- Great day
+
+Mile 1501.2
+Miles 6.2
+41.162651,-122.296432
+
+Aug 2
+
+- up at 5 and gettin going
+- beautiful sunrise on the trail along towards the powerlines
+- Big descent
+- Lots of water
+- Physco deer, one on trail near a camp
+- Made it down to the campgrounds and caught up with boomerang
+- Hang our for a few moments st the bridge
+- A good climb up
+- Wagon trails (history)
+- Made it past most of the steep stuff and then took a break for lunch, 18 by 1:00
+- Hour long lunch break, real mellow
+- German guy on day two of his hike, asking himself “why am I here?”
+- Started up again and finished the climb
+- Crossed over and began the descent
+- Real hot in the exposed sections
+- The River, good bridge, a solid 15 degrees cooler down there
+- Big climb out, bunch of wagon trails, “the octopus”
+- Heard a big tree fall
+- Amazing views of shasta with clouds around
+- Made it to junction and took a break
+- Decided to push 3 more miles to a dirt road with good views
+- Really cool ridge walk
+- Made it to the road and set up camp
+
+Mile 1491.8
+Miles 33.7
+41.149021,-122.245850
+
+Aug 1
+
+- up at 4:30 and on trail before the sun was up
+- Began with a climb. Super lush and very dense trees
+- As the sun came up the temperature remained constant as elevation was gained
+- By 10 I had done 15 miles
+- Stopped for a quick break to snack and fill up on water from a stream off trail. Found a spot with a great view of Shasta, which at this point is absolutely gargantuan
+- ran into a trail maintenxe crew clearing overgrowth from the trail, talked for a while
+- After the section they had cleared the brush became quite dense, a lot of bush wacking
+- Around 11:30 it began to heat up quite substantially with the sun directly overhead and very little coverage
+- Finished the total of 3100ft ascent
+- Made it to the next water source 6 miles away and couldn’t help but stop for another brief break
+- After 20 miles my feet are killing me as my shoes have zero support and the insoles are basically non-existent.
+- Get going and begin the good 1300ft climb up to ridge, really feeling it in the feet at this point
+- The ridge goes up and down continuously over the next 12 miles
+- We stop to get water and are very tired by this point even though it’s only 6:30pm. While filling up we decide to just camp here instead of pushing the additional 3 miles and 500ft of ascent to an area where we are unsure of the campsites right before a big descent.
+- Good day, really looking forward to these new shoes arriving in two days
+
+Mile 1458.1
+Miles 33.4
+N 41.153083°  W 121.961465°
+
 July 31
 
 - slept in until almost 9am! Very rested.
-- Got breakfast and planned the resupply 
+- Got breakfast, MYOBB (make your own breakfast burrito) and waffles.
+- planned the resupply and picked up from the store. A little expensive on certain items but not bad, glad to not have to go into town
+- Got a little stuck simply hanging around petting the dog and drinking soda.
+- Bought Some new shoes and socks from REI which Pumper’s father is going to pick up in Reno and deliver when he meets us in Dunsmuir Saturday afternoon. Can’t wait as the current shoes are destroyed.
+- Finally headed out at noon.
+- The miles passed quickly, and before we knew it we were at Burney Falls
+- Stopped by the general store. split a six pack and I got two large soft serve twists. Mmmm.
+- Hung out for around two hours and left at 5. Aleahs something to talk about w/ pumper. Nice having a sort of hiking partner after the Sierra to keep motivation up.
+- Walked 6 miles to a creek, got some water, then continued .3 to a campsite
+- Slightly buzzed hiking is slight easier hiking
+- Got camp set up by 8:15 and ready to wake up early tomorrow.
+
+Mile 1424.7
+Miles 15
+N 41.022629°  W 121.714532°
 
 July 30
 
