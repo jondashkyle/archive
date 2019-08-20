@@ -1,3 +1,413 @@
+Aug 20
+
+- woke up very late, 8:30. So nice. Waking up so early and getting little sl e each night requires a reset eveRyr once in a while.
+- Stopped by the store and pumper was hanging outside. He felt similar. 
+- bought a pint of ice cream and sat out on the porch. A little worrisome how many hikers have injuries. Shin splints, etc… hoping I don’t push it too hard this far in and am unable to finish by the time I need to.
+
+Aug 19
+
+- usual wake up time. Could’ve slept for another hour or two. Very deep sleep.
+- Packed up and topped off the water bottles. 10 miles till the next water.
+- Today presented an alternative to the PCT—following the Oregon Skyline Trail to Shelter Cove.
+- History of the OSTs relation the the PCT.
+- Started off down the dirt road and located the turnoff to the trail.
+- Very mellow trail, sunlight illuminating the tops of the pines, trending downhill.
+- Made it to a dirt road. Was using a single comment from Guthook primarily to navigate as the trail itself was not visible on my map.
+- Said that “upon reaching the dirt road you can take either the trail or the road.”
+- I started down the trail, which led me to loop back on to the road after perhaps 100 yards, so I simply decided to take the dirt road and drew and arrow with my name for pumper to see as I was ahead of him
+- What I failed to realize was by “road” the comment did not mean the aforementioned road, but the road at the *bottom* of the dirt road. A right turn instead of a left.
+- not wanting to be impatient I did not check the map when wondering “shouldn’t I be there by now?”, which only got me further in the hole
+- I realized only after some substantial climbing and reaching two opposing trailheads which were not mentioned in the comment that this could not possibly be correct
+- If I continued on the dirt road another 2.5 miles I’d meet up with the PCT in a saddle, but would then need to climb another 1500ft, and end up with more mileage than the actual PCT by the end of the day
+- I sat there for maybe 15 minutes, then pumper came around the bend. “This is sure gonna save some time, huh.” he said. “Yeah, I fucked up.”
+- He noticed one of the two trails where we were Headed north, and connected with another trail which would then get us back on the OST around six miles out from shelter cove. Not ideal, but not backtracking, and not as involved as connecting with the PCT.
+- Decided to go for it, even though we could not fully see the trail and junctions in the tiles on our offline maps.
+- Ended up being a fair amount of uphill, and a number of blow downs due to the relatively low traffic.
+- Made it to the junction and took a break for lunch. At this point feeling a bit dehydrated due to missing the planned water source at mile 10. Ironic with all the water in lakes around, but that is stagnant and mosquito laden
+- Continued down this other trail and finally reached the OST again. A relief.
+- The next four miles were more of the same, but around mile 2 the trail joins up with NAME OF STREAM and the forest becomes quite lush. Some of the most beautiful forested areas in OR so far.
+- Made it to shelter cove and there are some familiar faces. One even from day two in trail!
+- Unfortunately the restersunt is unexpectedly closed… no burgers or milkshakes for us.
+- Downed a pint of ice cream and cracked open a six pack. Hung around on the dock and soaked my feet in the water. So refreshing.
+- Got a somewhat limited resupply, but should get me to the next small resort roughly three days away.
+- Ate a crummy dinner of two microwave macaronis. Oh well.
+- Had a headache for the second half of the day and looking forward to sleep.
+- Passed 1900 miles
+- The actual ost between the points today was only 20 miles, however we likely walked 26 or so due to the navigational error.
+
+Mile 1906.6
+Miles 28.3
+N 43.582467°  W 122.041869°
+
+Aug 18
+
+- standard wake up time
+- Another chilly morning. If only it would dip below freezing and kill all these misquitos in one fell swoop
+- Started off with a very, very flat walk thru those pines. Refreshing start to the day. Was able to keep the puffy on for several miles.
+- Made it the 10 miles to the water cache by 9:30. Filled up then began the slow ascent up Mount thielsen
+- Some history about thielson here
+- Took a lunch break on a ridge with a great view
+- Began onward to a spring, best flow in a while. unfortunately the serenity was spoiled by my broken water filter. Perhaps only a quarter of the water I attempt to filter makes is treated and makes it’s way into the bottle
+- What followed was a 23 mile water carry to a cache, making the total mileage for the day on the high side
+- The next ten or so miles involved uneventful viewless climbs and descents.
+- Was surprised to have reached a mild flat area after what felt to be a relaxed climb to reach Tipsoo pass and a sign indicating the highest point in Oregon and Washington.
+- Of course this was entirely viewless, with trees surrounding in every side, but fortunately there were a few windows thru brief clearings over the following mile or two
+- methuselahs beard hanging from trees
+- While descending from the apex the misquitos became more of an issue. The forest thickened again, creating a sense of placelessness.
+- as the PCT does, it took me up another climb to a ridge. This was rather nice, as I could make out the horizon through the less dense forest along the steep incline
+- Some meandering elevation change along the ridge
+- Passed 3000km
+- Caught back up with pumper, and before long began the final descent of the day down to the water cache at windigo pass
+- Got to camp as the sun began to dip. Set up quite quickly on a less than ideal site due to the abundance of mosquitos and bees.
+- A packet of ramen for dinner, felt so good to get the feet up
+- Quickly fell asleep after the big day.
+
+Mile 1878.3
+Miles 39.6
+43.367481,-122.033157
+
+Aug 17
+
+- woke up at the usual time
+- As chilly as yesterday morning, this was chillier. Certainly feels as though fall is beginning to set in during the early hours, as by afternoon we are back to summer
+- Began with a mild climb over a few miles
+- After around four miles we entered a substantial burn area, which appeared to have been quite hot as only trunks were left—no branches in sight
+- The temperature dropped even more upon hitting a canyon in the burn area.
+- The light was phenomenal as it rose 
+- Began another mild climb as the pines returned and the temperature increased
+- easy walking for several more miles, then reached a trail register where there was a spur trail leading 2.7 miles to the highway.
+- Took The pumice flats trail down to the highway for a little shortcut into Mazama.
+- True to the name, it was quite flat, and I ran some of it as to attempt catching the 11am shuttle from Mazama to the lodge on the rim
+- Got to the highway and walked about a mile before scoring a hitch, amazing! Circled around a picked pumper up a few hundred yards behind me.
+- Made it to the village and stopped by the store. Did a modest resupply to get the next 3 days. Also hit a pint of ice cream and got a six pack.
+- Hopped the shuttle up to the lodge.
+- Grabbed lunch with pumper and another hiker from the shuttle.
+- Ordered the fish and chips, which had the highest calorie count. 1640.
+- Had an old fashioned which must have been 80% alcohol.
+- Hung out for a while, then headed to the rocking chairs overlooking the crater to pack up my resupply.
+- Multiple fun conversations with others in adjacent chairs about the trail. One of the highlights of the trail is the relatability of walking. “You walked how far?!”
+- Finished packing and walked over to the bookstore and overlook area. Some nice relief maps.
+- Began up the rim trail, but first grabbed an ice cream sandwich to go from the cafe while passing by
+- The views are substantial. It’s interesting to see something which appears so large, yet is only 6 miles from edge to edge. That distance sounds like nothing in walking miles, but looks so massive when seen as a line from point to point so clearly represented.
+- Lots of ups and downs on the trail, the grade far surpassing anything on the pct
+- Some phenomenal overlooks, and it was satisfying to circle around wizard island a bit
+- As the sun began to set the wind became quite cold. The trail began dipping towards a dense patch of trees at the base of Grouse Hill
+- red knotweed glowing in the setting sun. Pretty striking.
+- Made it to camp and set up home for the night. Quite an enjoyable evening!
+- Mileage is off due to taking the crater rim trail. Actual mileage was more like 26 or so.
+
+Mile 1838.6
+Miles 33.8
+N 42.991065°  W 122.130205°
+
+Aug 16
+
+- woke up at the standard hour. Pretty chilly morning.
+- Began the brief climb, and by 8:30 was running into misquitos pretty heavily
+- there are a number of small lakes around and it’s like a breeding zone for them
+- Stopped to grab water at a small spring at 10, and just afterwards the misquitos continued to worsen
+- Threw my trekking poles on the ground, dropped the bag, and put on my rain gear to keep them off. Not fun in the heat.
+- Was in a very very sour mood. Total trance hiking as fast as I could to get thru it.
+- Began a climb up away from the lakes and it got a bit more manageable. Took the rain gear off.
+- The entire morning had been spent in thick forest, the kind of stuff where you can’t see more than 30ft in any direction.
+- Finally on climb some patches open up to reveal a view. Felt like getting a breath of air after being under water.
+- Had a few bars of reception and called lily. Such a big morale boost to hear her voice.
+- Took a mini snack break when pumper caught up, then got going.
+- The trail descended a bit, then began climbing again. some really great views along a ridge of shale. So refreshing!!
+- Could see the edge of crater lake. Took another decent break at the ridge before the descent.
+- Walked around 1 milemdown to water and a good view, then ate dinner there with the intent of pushing on afterwards.
+- The next section is a 20 mile water carry to Mazama village at crater lake. I maxed out my water capacity at a spring where there were what had to have been at least 100 tiny frogs hopping around
+- Pushed on to a campsite at the edge of a big burn area, maybe 5 miles
+- Made camp and called it an early night.
+
+Mile 1805.8
+Miles 30.4
+N 42.703442°  W 122.181134°
+
+Aug 15
+
+- good nights sleep
+- Are breakfast, broke down camp, and got water from beneath the spillway of the little Hyatt resivior. There was a lot of fog hanging around the water, which was quite warm and had a rather gross taste.
+- Began by climbing a few hundred feet through dense younger growth interspersed with trunks from older trees which were cut
+- This went on for miles.
+- Passed by Hyatt lake and skipped the resort located on the other side around two miles away
+- nearing Howard prairie lake the sound of trucks and the beep beep of reverse warning sounds became audible through the tick trees
+- Exited The dense growth onto a dirt road adjacent a large clear cut area as a logging helicopter flew overhead
+- The next stretch was quite boring. Lots of dead branches on the ground, nothing notable… head down and keep on walking.
+- After an 1800ft climb reached a small spring and filled up on water, which is becoming increasingly scarce as the ground turns to pumice and the water flows straight through the porous rock
+- After this the forest turned to old growth with thick moss hanging off much of the foliage. Endless ferns underneath. At least this is richer to look at.
+- Saw a large group of elk bounding through the thick brush. Theyre big!
+- arrived at the south brown mountain shelter at 1pm and stopped for lunch. Had already put in 22 miles.
+- The shelter marks the point where 2/3 of the trail is complete for those northbound!
+- Filled up on water and continued on for fish lake, where there is a small resort.
+- Began to feel a bit claustrophobic in the green tunnel. A real physiological reaction to not seeing any sky for miles on end.
+- Began to open up as the trail continues over large lava fields. Huge lava boulders and trail made out of gold ball sized pumice snaked its way up a ridge.
+- Some of the last trail to be constructed, and most expensive.
+- Finally got a good view of mt mcglochlan, which we were now almost right at the foot of.
+- Made it to highway 140. Instead of doing the 2 mile walk to fish lake resort, or trying to hitch, we decided to continue pushing and do another few miles
+- Sat next to the stream, which had an impressive flow. Refreshing to hear the sound of substantial natural water.
+- Feeling quite exhausted pumper and I decided to call it after almost 3 miles at around 7pm.
+
+Mile 1775.4
+Miles 34.2
+N 42.414413°  W 122.273375°
+
+Aug 14
+
+- woke up at 8
+- Played with the bug, Boston terrier pug mix.
+- Had Some breakfast and coffee
+- Packed up and headed to Callahan’s for lunch before hopping on trail
+- cool lodge. Ran into some familiar faces there. Started talking to someone else and they joined pumper, dick and I. Dirt had caught up and she and another hiker joined too.
+- Got the steelhead salmon over mushroom risotto. Mmmmm. They also give you your first beer free, which I made an Ashland amber.
+- Finished up and headed to the trailhead. Felt good to get walking again.
+- For as flat as Oregon is we sure started with some consistent elevation gain
+- A lot hotter and drier compared to when we got off the other day. Much hotter.
+- Got to a ridge and there is shasta still staring at us. So ready not to see shasta anymore!
+- Also a great view of Mount mccloughlin to the north, which the trail passes by
+- Continued along the ridge to a spring, where we filled up and planned a campsite to aim for
+- Campsites becoming increasingly rare along the trail outside of campgrounds as the ground becomes rocky
+- twisted Juniper trees begin to line the trail and the strong scent of incense cedar fills the air
+- Reached the spot we planned to camp, a dirt road, and realized it led 3 miles directly to a resivior the trail passes in 4.5 trail miles
+- Decided to just walk that and camp at some sites listed there
+- Cool road walk with some massive cabins and houses lining the gravel road
+- Made it to the campsite. Such nice soft ground under big pines. Can hear the water pouring over the spillway of the resivior. Great spot.
+- Ate some snacks dinner since I was still rather full from the risotto.
+
+Mile 1742.1
+Miles 22
+N 42.158193°  W 122.484750°
+
+Aug 13
+
+- zero!
+- Slept in super late
+- Had waffles for breakfast
+- Repurchased electronics
+- Airpods. Tech on trail.
+- Resupply. Bought way too much again. Oregon rough fornbuy as you go but gonna try it.
+- Pasta for dinner
+- Reading ricks guidebook. How details were remembered then vs offloaded to the cloud now
+- Other fiesta staying so went to a neighbors
+- Slept on the air pad. Hot night.
+
+Aug 12
+
+- woke up at the standard time and everything was more or less drenched
+- Tent weighed at least 3x normal from the water weight
+- real cold, so got moving quickly to warm up
+- First few miles a gradual downhill while the sun began to rise. Cool pockets of dense trees with incredibly fluffy trail
+- Began a climb up into the Siskiyou mountains, geologically distinct from
+- The cascades as it’s all uplift and not volcanic
+- Continued through some big wildflower fields and arrived a chair and two empty coolers
+- After a few minutes of waiting Pumper’s godfather, Dick, pulled up on the dirt road next to the trail. He maintains this soda stash. We helped him restock it, and then the crew we camped with slowly started to arrive
+- We Hung out for a while, and then began the drive down to Medford where we will be staying with dick for a day
+- has been joking about endless breadsticks at Olive Garden while on trail, and decided to actually do it for lunch
+- Amazing, so full
+- Got to the house and dried out the gear, had some beers, then grilled some patties for dinner. Real nice.
+- Turned in at 10:30, always nice to sleep on a bed.
+
+Mile 1708
+Miles 11.9
+42.081440,-122.739639
+
+Aug 11
+
+- woke up at 5:15 with a bit of condensation in the tent. Overcast and rather cold.
+- Packed up camp and got started up to complete the road walk to the saddle. Decent amount of logging. Cool waterfall.
+- Reached the saddle and hopped back on the trail. Started walking up into the cloud base.
+- Some great views of clouds moving over the ridges
+- Dew on all of foliage up here, amazing how the light hits and refracts off it
+- Took another little logging road for a few miles. More consistent grade up a climb, and get to see stuff just outside the bubble of the trail
+- Break for lunch. Pumper and turtle caught up. Surprisingly cold up here!
+- Got moving again, really cool ridge walk. Clouds mostly burnt off by now.
+- Went through a nice big meadow and saw a cabin mentioned on the map. Walked up to it and took a little break inside. CABIN HISTORY.
+- After a little break Decided to do the last mile to the state line
+- the sign and logbook came into view and turtle was hanging out
+- Stopped to sign the register and take a photo. Pretty wild to have walked the entire length of California and reflect on the time
+- After a few minutes got going again only to run into trail magic after a few hundred yards
+- “come on up and wash your hands of California.” I did and then grabbed a drink. We then did a little ceremony of sitting in a chair carved into a tree stump and doing a shot of tequila while getting our photo taken. Fun!
+- Sat and snacked for an hour. G-spice, snake charmer, and uncle buck all arrived
+- We all Decided to hike another 4 miles into Oregon to setup camp near a spring
+- Got going to finish the climb. Awesome ridge walk while the sun began to set.
+- Got to the spring and filled up on water and set up camp. Great views, but became clear there was going to be a lot of condensation, and my stuff was still a bit damp from last night
+- As I was falling asleep heard a crazy sound, like a high pitched scream. Snake charmer identified it as a mountain lion. Sounded like it was next to my head!
+
+Mile 1696.1
+Miles 36.1
+N 42.032705°  W 122.873543°
+
+Aug 10
+
+- slept in until 8
+- A few lines of storms moved through each night, a few with substantial wind. Really glad to not be out there.
+- Forecast is for more intense storms today, so we decide to make the brief walk to breakfast in town to see how it builds
+- No monument etc
+- Really good breakfast. Pancakes, eggs, bacon, and a huge milkshake.
+- As breakfast turns to lunch we walk another half mile to the Wildwood.
+- Ordered a few beers and play a couple rounds of pool. Very mellow afternoon.
+- The place is quickly full of hikers. The weather doesn’t seem to be improving, but it’s also not worsening… a group of us begins to discuss heading out.
+- Of course, by this point everyone is hungry again, so we begin ordering more food and drinks.
+- By now it’s 6pm, and our table decided to get moving
+- The climb out is super steep, and there are rumors of poor maintence.
+- We Decided to do a road walk, the majority on a forest road, which is much more kindly graded and cuts 3 miles off. I have no remorse for doing this considering how many miles we’ve walked away from Canada the past week.
+- With six of us, and food and drinks in our system, the mood is very jovial
+- Four miles into the walk I realize I left my electronics bag and battery at the restersunt! No headphones, no charger… shit!! Will probably repurchase in Ashland and call to see if they can ship that stuff home. First big gear goof on trail.
+- Spot a nice level dirt area off the road and decide to go for it
+- A little annoyed about forgetting the electronics, but glad to have made a small dent today with the weather being a variable.
+
+Mile 1660
+Miles 5.3
+N 41.880715°  W 123.130742°
+
+Aug 9
+
+- Got going at 5:15. The rain held off overnight but the sky was quite covered with high stratus
+- Really interesting trail this morning. Some lakes and exposed rock, trail winding up into trees. Cross a saddle to an amazing view of a big lake below. Feels great out here.
+- Some light Virga is actually falling up here at 7k feet, but continues to mostly hold out
+- Continued along across a few nice ridges with good views while watching the clouds begin to develop
+- Took a break for lunch next to a lake around 1pm. By now it felt as though the temperature had actually dropped a bit. We talked about the possibility of hiking the entire way into Seiad Valley, another 26 miles on top of the 17 or so we had already done. It might be possible because the last 20 of those miles are downhill, although there were rumors of lots of bushwhacking and blow downs (down trees)
+- We started off again and some substantial clouds had developed during our break
+- Over the next 20 minutes it rapidly built and we began to hear frequent thunder, sometimes catching a glimpse of lighting hitting the ridge across the valley
+- After two 500 foot climbs we were now on top of the opposing ridge, and wanting to get down quickly incase things worsened above us
+- it became clear we had threaded the needle with this line as we continued across the last few miles of ridge
+- The downhill began, and there were a few meadows which by this point in the season were mostly brown—a stark difference from those of the Sierra.
+- After a few hundred feet and some single lane trail running along old forest roads the brush began to get pretty overgrown, but not unbearable
+- At this point I had been walking alone, and as the downhill continued and my excitement about doing a 40+ day into town built I began to jog and run small sections where gravity was assisting
+- Most of the blown downs had recently been resolved by trail maintenance crews, hugely appreciated work
+- The descent takes you across NAME creek several times, and there were a few nice bridges
+- Eventually the brush let up a bit, and the trail began to level out.
+- It started to raid a bit, a heavy drizzle at worst, which was refeshing as the temperature had certainly risen over the descent
+- Reached the campground at the trailhead marking the end of the descent. The last five miles were all road walks into town.
+- The road began as gravel, and about halfway through joins with a paved road which takes you along the Klamath River. Town is right across the river, but the road takes you quite far out of the way to cross over a bridge.
+- Just as I hit the highway it began to rain hard, and lightning began overhead. There were only a few hundred yards to a private campground where a resident of Seiad let’s PCT hikers camp on his property for free
+- I ducked under a collapsible tent to get out of the rain and sat there for a bit
+- Morgan, the owner came out of a small structure and saw me. “How long have you been there?” It had been maybe 20 minutes
+- He offered to let me stay in a cabin on the property since the weather was so poor. Amazing!
+- Just as he began to show me the way pumper came walking down the road! Wasn’t sure if he’d make the push all the way to town. Awesome.
+- He shows us both to the cabin, really cool.
+- Leaves us only to return 15 minutes later with Turtle, a hiker who paced with pumper and I for a few miles going into Etna. So good.
+- We get set up and are glad to be out of the rain. Really lucked out with the generosity.
+
+Mile 1654.7
+Miles 41.3
+41.835220,-123.176132
+
+Aug 8
+
+- slept in till 8, quite nice
+- Broke camp and washed up
+- Headed over to Wildwood Crossing Cafe. Ordered the $4 breakfast buritto with bacon and a cold brew. A really good deal and filled me up fast.
+- Headed next door to “Ray’s Food Place”, a locally owned grocer, and bought a 4 day resupply to make it into Ashland in Oregon, 120 miles to the north.
+- Ate a pint of ice cream then packed the resupply.
+- Headed back over to Denny with a small group. Ordered lunch, a beer and a pizza with smoked steelhead salmon, pesto, feta, and tomatoes. Ate a few pieces but packed out most of it for dinner later.
+- Had one more beer then closed out and headed to the road to hitch.
+- Lots of cars drove by, then one picked us up
+- He has moved to Etna 30 years ago after having lived in Washington DC as a programmer working on huge IBM mainframes and writing in physical i/o (punchcards) and assembly.
+- He got burnt out and dropped everything to disconnect and move here. Consulted a monk who told him to watch nothing, listen to nothing, read nothing for a month. Just sit and stare at the wall. He did that for two months to the surprise of the monk.
+- Got to the trailhead and started the climb out and into the Marble Mountains. The burn area continued into here quite deeply, making the ridge walk very exposed. incredibly beautiful.
+- Appeared to be some smoke in the valley from the fires up north in Oregon. Hoping it holds out and there aren’t any closures.
+- Clouds began to form, the temperature notably dropped, and the winds picked up as the day continued. It’s forecasted to thunderstorm over the next two days. A 30 percent chance. We’ll see…
+- Got to camp and ate most of the leftover pizza. Also tried an experimental desert made of crushed Oreos and chips ahoy congealed into one big zip locked mess by a full tub of chocolate fudge icing. Pretty insane. So many calories!
+- Went to bed hoping to awake to mellow weather.
+
+Mile 1613.4
+Miles 13.7
+N 41.494558°  W 123.101129°
+
+Aug 7
+
+- woke up at 5:15 and started the initial climb.
+- Really nice ridge walk with big views. Always easier to do when you can sense yourself getting somewhere, even if I was walking south west and away from Canada
+- entered the Russian wilderness, with craggy peaks and some big smooth granite faces
+- Big burn areas in here too. Trees like tooth picks. The extent of the damage is broad in how long it lasts through time.
+- At moments could see where the trail ran up to 5 miles away. Made for a nice sense of accomplishment when reaching a point seen earlier.
+- Lots of up and down here. A few 1000ft+ climbs
+- reached the peak of the last climb overlooking LAKE NAME. Great view of the valley. The last stretch.
+- Got to the trailhead and sat by the road to begin hitching. A few cars zipped by. Was super hot and no shade so a little cranky.
+- A big white SUV pulled in and a woman gestured to hop in. Super nice. Had hiked some sections of the pct and JMT. 18 mile drive and a big descent, would be a hellish road walk.
+- Went to Denny Brewing Co to get lunch. This spot feels out of place in how nice it is. Then fungi burger and the Ashland pale ale. Very good. Ended up grabbing another beer with pumper, then a few other familiar faces joined us at the bar. Next thing you know I’m four or five nikka highballs deep and pumper the same on manhattans.
+- Ordered the lobster tail macaroni and cheese for dinner. An older couple sat next to us, and we eventually began having a good conversation about the trail, education, and the role of phones in our lives.
+- When closing out it turned out they had bought pumper and I our dinner! Amazing.
+- Had a really good time.
+- Left At around 10 to head to the public park to camp. The city lets backpackers camp there for $5, and provides a number of hiker amenities.
+- Fell asleep rather quickly—great day.
+
+Mile 1599.7
+Miles 19.7
+41.394859,-122.994377
+
+Aug 6
+
+- woke up to a cloudy sky, the first time there has been any significant cloud cover overhead since Agua Dulce! Insane.
+- The cooler temp felt great. Stopped by a spring to get some water and was on my way.
+- Heard a group of cows on trail thanks to their cowbells. As I approached I blew my emergency whistle and a small stampede headed off, except for one hardened heffer who stayed put and side-eyed me as I passed.
+- Really cool section through red volcanic rock. Mostly downhill to highway 3. Went by super fast, around 12 miles by 9:30. Ran into a SOBO girl who did not sleep that much due to a mountain lion pacing around her campsite most of the night. Took a break for pumper to catch up and talk about the rest of the day.
+- Entered the trinity alps wilderness.
+- After another 6 miles did lunch at a nice stream. Ended up napping for a few minutes. Somehow the cap to my hand sanitized unscrewed in my fanny pack and sanitized everything in it. Oof.
+- Got moving again after some effort. Some decent uphill here. Smooth trail thru big boulder fields. Some very nice meadows and lakes. Sort of like a small taste of the Sierra again. Glad to be going thru it but frustrating to be tracking so far southwest still!
+- Talked to an older woman who had hiked 1200 miles of it back in 77! Amazing. Ran into a ton of snow. shout-out barb.
+- Decided to push to Carter meadows summit, aka where the trail meets forest highway 903.
+- Was feeling pretty fatigued towards the end of the day. The sun felt more intense than it has recently. Has begun to feel more like an excessive in endurance recently. Still very much enjoying it and learning a lot, but certain points in the day now are difficult in a diff mental way.
+
+Mile 1580
+Miles 30.4
+N 41.219566°  W 122.898760°
+
+Aug 5
+
+- woke up at 5:15 and got going after a little breakfast
+- besutiful sunrise over castle crags
+- Good bit of climbing left to do this morning
+- Cool ridge walk, big mountains to the west
+- Stopped at a super nice spring at 10am for water. Had done 13.
+- Eyeing up a lake to hang out at later in the day
+- Getting Pretty hot and exposed while heading up
+- Cross over a ridge at around 8k and there was a snowfield right next to the trail!
+- Start walking down to another small stream
+- Make it to the upper lake and hang out for an hour. Put the feet in, wade around a bit, super nice
+- High cirrus start to roll in and it gets a little windy. First time in months there has been any signifixant cloud cover!
+- Push to pit toilet 3 miles away at trailhead (find name)
+- Hang our for a moment and decide to push for campsites 12 miles away
+- Trail is nice and flat but annoyingly goes almost in a full loop to avoid a big canyon, ugh
+- Make it to the campsite and hear sounds in the distance, realize it’s cowbells!
+- Grab some water from the spring nearby and setup camp.
+- Talk to the only other person apart from pumper on the ridge, an older guy finishing up this section of the trail he missed in 1979
+- Such a coincidence that pumpers dad has done it that year too!
+- Great conversation, then went to the tent to wind down and sleep.
+
+Mile 1549.6
+Miles 32.7
+N 41.322976°  W 122.618403°
+
+Aug 4
+
+- slept in till 8,nothing like a good nights sleep in a real bed
+- Hung around and generally lazy for a while, packed my bag and got organized
+- Hung out in the patio with dick, barry, and pumper shooting the shit
+- Decided to go grab breakfast. Had a large iced americano and pretty good breakfast buritto. A few cups of coffee too. Oh, and a cinnamon roll…
+- Went across the street and placed an order for an extra large pizza with chicken on it to split with pumper and pack out. also grabbed a pint of ice cream to eat while having the mimosa while waiting.
+- Called lily real quick to check in before heading out on trail
+- Drove to the trailhead. Was really cool standing there with barry and dick who did it together so long ago. Pretty profound moment.
+- Said our thanks and goodbyes, then started up the trail towards castle crags.
+- New shoes and sock system feel totally amazing. Such a massive difference in each step.
+- For sure had too much caffeine as I’m feeling a big crash, which is a little rough in the heat
+- We accidentally take the wrong trail at a junction and hike 600ft in a mile, whoops. Realized and had to turn around. Fortunately the walk of shame was down and not up.
+- Got back on trail and continued for a few miles, then had to take a break near a stream to give myself a few moments to feel better from this crash and heavy digestion of all the food
+- Got going and how the big climb began up past the crags
+- Really warm in the sun, and was surprised by how little sun coverage there was. Quite the grade in spots too.
+- As the sun began making its way down the crabs began lighting up in gold
+- Filled up at the last water for the next 10 miles, then continued to locate a campsite on the ridge up ahead
+- The air began cooling off, feeling great now that the crash fully passed
+- Total climb of 4800ft
+- Located some great spots at the top of the climb, made camp, and put a big dent in those several slices of pizza. Mmmmm.
+- Feeling very refreshed after such a good day together with pumper, barry and dick. Such a good crew.
+- Next we push to Etna over 2.5 days for a brief resupply, then the push to sied valley, the last town in California!
+
+Mile 1516.9
+Miles 15.7
+N 41.216406°  W 122.404416°
+
 Aug 3
 
 - Great sunrise, slept late since we only needed to do 6 miles into the trailhead near the 5
