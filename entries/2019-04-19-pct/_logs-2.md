@@ -1,8 +1,88 @@
+Aug 22
+
+- woke up to a very light rain, slept well considering my stuff was damp
+- Got going, a decent climb. Got above the drizzle and the clouds began to open up
+- The early light refracting off rain drops hanging from the branches. Oregon really shines in the morning after a good rain
+- Sisters looking incredible, a series of great meadows. Was stopping to take a photo every 5 minutes
+- about 12 miles into the morning shards of black glass began glimmering on the trail—obsidian, tons of it
+- The shards turned to entire boulders, to entire hillsides
+- The wound of falling water increased, and obsidian falls came into view—water pouring over a reflective wall of obsidian. Amazing. The water from the stream tastes as crisp as the light reflecting off of it, glacial melt from the middle sister
+- Exited the LEA and after w few miles Began paralleling the edge of a huge lava field. It became clear the trail traverses this after rounding a bend and staring up a winding path of loose lava rocks at an impressive grade
+- We camped 32 miles from our next stop, a youth camp on a big lake—actually called Big Lake. Word had spread of free unlimited dinner, served at 5:30. I anticipated the miles of lava rock would slow us down eneough to impede our chances of making it on time. Standing at the base of the lava field though, I felt a primal urgency to do whatever it’s take to make it on time. “For the carbs!” I yelled and began running up the rocky path.
+- I didn’t notice another hiker around 100 yards up trail, and only noticed when passing by him. He had a huge grin on his face and two thumbs up, clearly getting a kick out of my redic sprint
+- Made it up to a ridge and had to stop for a moment, an incredible view of Mount Jefferson, three fingered jack, and the remaining miles of lava ahead.
+- Ran all of the downhill and level-ish stuff over the next five miles to a lake, the last water source for 16 miles
+- Stopped there for lunch and to fill up on 1.5L of water. Attempted to dry out my stuff without much success
+- A mix of Duffy trail and lava rack remained before hitting the highway. An observatory built of lava rock was there, but with my fixation on making it for dinner I resolved to come back at a later time to see it on a road trip
+- Began the climb up the next lava field toward NAME OF MOUNTAIN. Tough walking, but quite the landscape. Felt like another planet!
+- Reached the top of the climb and, naturally, began to descend. The trail was made of pine needles and soft, but after a moment returned to lava rock. Oooof!
+- The next few miles meandered uphill thru a big burn zone full of wildflowers before heading back down toward the camp. At this point it was 3:45 with 4 miles remaining—perfect!
+- The remaining miles were very mellow.
+- Made it to the camp, felt great to sit on a cushioned chair. Ran into a group of Angelinos, have met surprisingly few on trail, but here were four of us all together! Plan to have a post-PCT hang.
+- After an hour dinner began. All you can eat curry. I ate all I could eat!
+- Hung out until around 9:00, sitting in a soft chair. Perfect.
+- Wandered down to a cove and made camp. Things were still rather damp in the bag, but not terrible.
+- All around a great day!
+
+Mile 1996
+Miles 33
+N 44.371644°  W 121.865278°
+
+Aug 21
+
+- woke up at 5:30, the new normal time as dawn continues to shift forward
+- Fog over the lake at sunrise
+- Clear morning, although by afternoon the forecast is for rain
+- Very subtle ups and downs through dense forest with lush floors and skirting around numerous lakes
+- Very easy walking
+- Before long the sky began to cloud over
+- 10 miles by 9
+- Looked at the map and studied an alternate route, again on the original Oregon skyline trail. This one cuts past elk lake, another lakeside resort. If not planning to go there the OST is a good plan, as it avoids some climbs and descents, takes you to a nicely flowing stream, and cuts 4.5 miles of viewless PCT.
+- Broke for lunch 2 miles before the junction after having done 18. Right as we stopped it began to rain.
+- Caught up with scar and while roll.
+- Decided to take the alternate instead of going into elk. A tempting decision with the burger and beer with a roof overhead, but progress is important to finish on time, and these things accumulate.
+- No point in avoiding the weather as this will only increase further north and as the year continues.
+- Made it to the junction for red hill and hopped on the ost.
+- Trail was basically a stream. With it being a rut the water naturally collects and flows the. Lots of bush wacking to avoid standing in ankle deep puddles
+- Before long I was totally soaked even with the rain jacket on
+- Stopped by the spring to fill up a liter of water
+- Continued pushing to connect back with the PCT. Decent amount of climbing.
+- As we reconnected the rain began to subside, and we decided to continue pushing
+- After a few miles reached a beautiful open meadow with an absolutely stunning view of the three sisters mountains
+- Clouds rolling up over the volcanic peaks, amazing
+- Really fun stretch through this meadow. Made the rain totally worth it.
+- Reached our intended campsite and decided to do another mile to another meadow with water access.
+- The clouds broke and the sun lit up the meadow. Found a good campsite and began unpacking.
+- Unfortunatelt my pack liner did not keep all the water off my things. Sleeping bag got quite damp in areas. Going to throw out the thermarest liner and simply use a garbage bag at the next stop
+- Ate dinner, cold soaked ramen noodles with olive oil and parmessian. Honestly pretty good!
+- Pleased with the respectable miles for a day of poor weather. Going to need to do somewhat difficult days like this to finish up on time
+
+Mile 1963
+Miles 32.6
+N 44.079749°  W 121.819263°
+
 Aug 20
 
 - woke up very late, 8:30. So nice. Waking up so early and getting little sl e each night requires a reset eveRyr once in a while.
 - Stopped by the store and pumper was hanging outside. He felt similar. 
 - bought a pint of ice cream and sat out on the porch. A little worrisome how many hikers have injuries. Shin splints, etc… hoping I don’t push it too hard this far in and am unable to finish by the time I need to.
+- Before long it was becoming lunchtime, so I grabbed a beer and a cup of noodles before hitting the trail again
+- Began the road walk to the PCT at around 1:30. Timing was quite good as a truck towing a boat drove by “want a lift to the trailhead? Hop in!”
+- Trail began with a mellow climb through dense mossy forest. Went past the rosary lakes, which looked super inviting, but had to push on due to the lazy morning
+- Continued to climb up a bit and got a nice look back over the rosary lakes and Odell lake. Also had a little reception!
+- Descended a bit through a mellow lush area before beginning a decent climb up to NAME.
+- The misquitos have nothing on my 100% deet spray
+- Made very good time on this, Feeling very refreshed from the sleep
+- After cresting the ridge began descending down to Charloton Lake, where I topped off my water.
+- Began a mild climb up to Charloton butte, where a burn area marks a fire from the early 90s.
+- By this point the sky was patchy with layers of alto-stratus, the temperature was notably cool. The first time on trail where I get a chill in the early evening when the sun is still up
+- Great view of the three sisters here, and the burn area contains all sorts of wildflowers
+- Passed back into a wooded section, and after a few miles decided to make camp next to Taylor lake
+- Very good day, felt good to recharge on sleep
+
+Mile 1930.3
+Miles 23.7
+N 43.804807°  W 121.962058°
 
 Aug 19
 
