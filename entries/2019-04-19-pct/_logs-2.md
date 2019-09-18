@@ -1,3 +1,642 @@
+Sept 17
+
+- had an ok sleep. thankful to be dry at least. hard to sleep on the air pad indoors.
+- Grabbed Some coffee and sat on a couch in a room overlooking the lakw thru huge windows
+- Relaxed there for a while and looked at the weather. poor forecast. the room is booked until tomorrow, so decided to just zero here today as the next four days look much better
+- Headed to the bakery. Coffee and coffee cake. Mmm. And another cinnamon bun!
+- Back to the lodge and just catching up on things online. mellow. Just hanging.
+
+Miles 0
+
+Sept 16
+
+- Woke to actually see some sky peeking thru the clouds! Figures, each time I go into town for most of the day it clears up.
+- Packed up and phoned in the east remaining 5 miles into stehekin
+- Got to the ranger station and waited for the bus to come pick us up
+- Hopped on the bus, and after around 30min hopped off at the bakery.
+- Bought a ton of food. Had a huge cinnamon bun, sticky bun, and several cups of coffee.
+- Pumper’s dad and dick met us there, so good to see them!
+- Walked to the lodge from the bakery. 1.5 miles. Stopped by a garden and bought a pear, so good. Also bought some honey produced there.
+- Nice walk into town. 3rd deepest lake in the US, after crater lake and Tahoe.
+- Made it to town and ran into some familiar faces. Grabbed my resupply box and packed it up. Set the stuff out to dry in the patchy sunlight. Managed to dry out after a few hours.
+- Got to hang out a bit, drink a few beers.
+- Grabbed dinner. Fettuccini and salmon. huge portion. Very filling.
+- Went back to the room and set up the sleeping pad and bag. Easy enough.
+- Nice to be inside where it’s warm and dry tonight!
+
+Mile 2572.4
+Miles 5.2
+
+Sept 15
+
+- woke up to rain dripping off of trees and causing the condensation in my tent to regularly splash me in the face
+- Drier than the night prior, but everything is still very wet
+- It’s raining, and a few of us in camp decide to wait for a little window to break down camp, which comes at around 7:30
+- Break down real quick and get on trail. Feet are still tender, but after the first 3 miles are wet and cold enough to numb it out
+- The PCT original cut across the river here, but now diverts you for a total of 6 miles to a new bridge. Dangerous to ford otherwise.
+- Reach the bridge and spend a few minutes admiring how over engineered it is.
+- Huge old growth around here.
+- Follow The trail up to where the old PCT intersects the newer portion.
+- Began the big cruise up to mccloud pass. Really cold and wet. At first was bothering me, but then got into the zone. Consistent steps. Starting straight ahead.
+- After miles/elevation, reached mccloud and crossed over into the big descent down to stehekin.
+- Big burn area, smelled charred
+- Rain died off soon after
+- Came across a stream which has a washed out bridge. Sketchy wet logs, so decided to just ford it. Around thigh high. super cold.
+- Instead of stopping at the campsite which would’ve marked 27 miles for the day, we pushed another 5 to 32, leaving an easy morning for tomorrow
+- Trashalope and monk were there
+- Made camp and some other hikers had made a fire. Felt so good to eat next to it.
+- Hopped in the wet tent and quilt and got to sleep.
+- Good day overall, altho challenging.
+
+Mile 2567.2
+Miles 31.6
+N 48.344066°  W 120.904134°
+
+Sept 14
+
+- good nights sleep
+- Running into pumper right away
+- Opened up to some views
+- Big descent, climb, huge views of cascades, lunch break, seeing the next climb, rain started, began the next climb, rain really going, reach the top and the rain stopped, feet killing me, getting into camp
+
+Mile 2535.7
+Miles 33.2
+48.168339,-121.075531
+
+Sept 13
+
+- last night was a long and wet one. Woke up at 11:45 thinking it was almost sunrise. Got back to sleep only to wake up a few hours later to a huge puddle of water in the tent. The campsite I choose had filled with maybe 3” of water at the bottom. My quilt was soaked in sections. The rest of the night was a total wash, really poor sleep.
+- My alarm went of at 6 and it was still lightly raining. Packed up and got going. Super cold.
+- A big descent followed by a big climb. This would be the theme of the day as I approach the north cascades.
+- As the morning progressed it did not seem to get any warmer. The rain would go in a cycle of mist to moderate downpour.
+- Around 11am I saw a dry spot under a tree and paused for a moment. I got even colder. Only option is to keep moving.
+- Around 1pm the rain began to pick up as I entered a big boulder field. Ahead I saw a massive overhanging boulder creating a dry sort of cave. I decided to stop and eat, even though I’d get quite cold.
+- Monk rolled up and he joined.
+- Stopped for around 20 min and then got going. Luckily the heavier rain had calmed down by now.
+- The climbs are no joke out here, and they continued to get bigger as the day wore on.
+- Even though I was working for the big views to be had in this section, none were visible. This vs green tunnel. Staying motivated in Oregon by thiknking about this section. Pointedly cruel.
+- The gets overhead flying out of Seattle continue to drive me mad, too.
+- Pausing briefly at a lake monk and I made a plan for a camp site 8.5 miles ahead. We had done 20 by 2. Quite the movement considering the piss poor conditions.
+- The rain became a fine mist, and as we crossed a ridge the 30 yard fog opened a bit to reveal several ridges in the direction of glacier peak. Amazing.
+- This lasted only about 15 minutes before being fogged in again
+- Made it to camp and set up. Really feeling it today. Hopefully sleep is calmer tonight.
+
+Mile 2502.4
+Miles 32.1
+N 48.033462°  W 121.148838°
+
+Sept 12
+
+- woke up at 8:45 to the smell of breakfast wafting from the kitchen on the floor below us.
+- Headed down and placed my order. Another diner asked, “are you hikers?” Yep. “Feel free to join!”
+- We moved tables. Turns out he offers rides to and from the trail. He was meeting friends here for breakfast, one a photographer who for years worked as a correspondent for various news organizations. The other a climate scientist who was high up in the EPA. All of them had that “cool retiré” thing going on.
+- We has a great breakfast and I ate a ton of food. Too much, it would turn out.
+- Dried off my stuff in the sunlight and picked up a few supplementary groceries from the store. Also ordered a sandwich to go from the deli and a milk shake.
+- Hopped in the car back to the trailhead and began feeling quite sick. this going into town and stuffing myself to the gills when my body is used to minimal intake is really not good.
+- At the trailhead I felt absolutely terrible. Nauseous. Light headed. I want to finish as soon as possible, and wanted to get as many miles in today as I could with the remaining daylight.
+- Gave away my sandwich and milkshake as I couldn’t stomach the thought of it.
+- Began down the trail and felt increasingly worse. After maybe half a mile I told pumper, “I feel terrible, I’m going to go back to the trailhead and think about options.”
+- Got back to the trail and went over to where there was some trail magic and chairs set up.
+- Hung out for around two hours and began feeling much better. I think it was just a matter of digestion and not over eating.
+- Trasholope and monk showed up. They hung out for a few minutes, and we decided to hike out at the same time. My plan was to feel it out over the first mile. If I felt bad I’d stay an extra night. The forecast is for almost a week of rain. Being stuck out there while sick on one of the more challenging sections of trail would not be fun.
+- After the first mile I did not feel 100%, but certainly felt better then before. I decided to continue pushing out.
+- Went thru waves of feeling alright and not great over the next several miles. Monk and I decided to set up camp a little early, which was a good call.
+- Ate some food and chatted since the sun was still up. A nice way to end the day. By the time I got in my tent it was quite cold.
+- It’s supposed to start raining tonight and not stop for any notable length of time until the 18th. Oof, the weather has really caught up…
+
+Mile 2470.3
+Miles 5.8
+N 47.791999°  W 121.104310°
+
+Sept 11
+
+- woke up and luckily it was not raining. Got going a bit late again. Finding it hard to get motivated, altho taking a break every once in a while from the schedule is probably just a healthy thing to do and not something to against over.
+- I had been planning on only a brief stop for lunch at Stevens pass, the next point where people typically go into town, but because of the difficult weather I decided to stay overnight to take a hot shower and sleep in a bed.
+- Once I had made that decision I decided to take the following 22 miles a little easier. There was also quite a bit of climbing to do.
+- Has nice little converstions with a few hikers I passed. On the first big climb I began talking to another thru hiker who had stopped to make some coffee. While talking to her pumper rolled up! Could’ve sworn he was ahead of me. Apparently he camped in another grove of pines right beside me the first night, and less than 3 miles from me last night.
+- His plan was to go into Skykomish for a box. The post office was closing at 4, so he was going to stay in the night. “Want to split a hotel?” I asked. Solid.
+- The walking was involved—lots of elevation, but the patchy sun was a big refresher, and the views were occasionally immense. Some incredible landscapes.
+- After a quick break for lunch in a meadow after the steepest climb of the day we continued along a ridge down past a lake.
+- At one point fighter jets roared through the valley, doing high G turns. Incredible to see, and even more so to feel the sound shake your gut.
+- After a few more climbs and descents, some of which felt unnecessary within the topology, I began the final descent into the pass through a ski area.
+- Made it down and texted pumper now that there was service. He had booked a room at the hotel. I ran into two hikers I had been leap frogging with. Some family had dropped a box off for them and brought some fresh fruit along. They lived in Seattle and offered to give pumper and I a ride into Skykomish as it’s along the way
+- Arriving In Skykomish I was surprised by how young the town felt, even though all the structures were quite old.
+- Turns our that massive diesel tanks underground had leaked and the state had moved and then re-assembled almost all the buildings after the big cleanup. Because of this they could effectively restart with modern infrastructure, like new sidewalks, signage, and modern lighting. Amazing.
+- Had a good dinner and turned in after first catching up with lily. Miss her a lot.
+
+Mile 2464.5
+Miles 22
+47.746246,-121.087105
+
+Sept 10
+
+- woke up at 5:30 to rain drizzling on my tent. Everything rather wet from condensation. Packed up and got going.
+- Rain continued for a while then stopped long enough to take off the warm jacket from under my rain jacket.
+- Began a big descent l. Trail was very grown over here, and all the wet foliation kept me from drying off at all. Some great views of the clouds opening up and periodic sun.
+- Reaching the bottom of the valley there was a stream with a washed out bridge.
+- Instead of trying to rock hop I just walked straight thru it as some section hikers watched. “That’s one way to do it.”
+- I managed to live to tell about it in the Sierra and can survive it again, esp on a rainy day.
+- Started a big climb up to a ridge, around 2500ft. Clouds were moving in and out, mostly obscuring but sometime revealing expansive views.
+- Made it to the top and massive dark clouds loomed on the valley on the other side. Not encouraging.
+- Just as I began to cross the ridge it began to rain again, and this time more that a drizzle.
+- On the way down the clouds would sometimes open up, but the rain persisted. The views were quite good when visible, but they were hard to appreciate in the cold rain.
+- Reached the bottom of the descent and crossed a series of bridges in varying states of decay.
+- Had a really nice conversation with a couple from near boundary waters. Real nice people and it improved my somewhat bleak afternoon.
+- As I covered a few miles along the base of the canyon the sun came out. Nice apart from how incredibly humid it then was. This lasted only briefly before the mist returned.
+- next was a large 2750ft climb. The mist turned into full on rain around a quarter of the way up and lasted until the top. By this point I was quite tired of this, and the rain became increasingly frigid as I climbed.
+- I began the descent down to the next canyon, very ready for the day to be over. Fortunately the rain stopped and the last few miles were dry.
+- After a Decent stream crossing I began the last small climb of the day. I stopped at a campsite around halfway up where some day hikers were camped. I was not interested in camping alone here. The campsites were not level but it wasn’t terrible.
+- Set up and had some dinner. Starting to hang my food again as I become paranoid about grizzlies in the cascades. Turned out to be a good idea as I noticed mice running around as soon as the sun went down.
+- Also heard some crazy grunting noises, which I could not identify, and “yells” like that of a mountain lion. Perhaps the scariest was the creaking of trees swaying above me in the moist ground. After walking past that blow down which crushed that hiker this is my biggest fear.
+- A challenging day. Towards the end it felt similar to the worst days back in the desert when I considered getting off trail. Only now I’m just about 200 miles from finishing, and to stop now would be rediculous. Then again, I don’t care so much about the monument at the end. But I’d still like to say I finished.
+
+Mile 2442.5
+Miles 34
+N 47.587569°  W 121.147187°
+
+Sept 9
+
+- woke up around 9. Much better nights sleep!
+- Did a few chores, cleaned out the pack, and packed everything up. It was raining all morning, but the general plan was to head out in the afternoon. The forecast all week is rain.
+- Headed back the the same restaurant for breakfast. Three pancakes, bacon, eggs, lots of coffee. Had a good crew all at a long table.
+- Stopped by the inn and they had just received the mail for the day. Sure enough, I saw my box there. Phew. Only trouble was I had bought my resupply yesterday in anticipation of not receiving the box, and pumper had given me the extra from his box… so I now did not need the food. However, I could use it up in stehekin, so i simply bounced it up to there. Easy!
+- Went back to the wac to grab my bag and head to the trail. Got sucked into a few more games of ping pong, but then made it out.
+- It was kind of drizzling, but not too bad. I knew the climb was quite big leaving town, so I just got in the zone and kept moving.
+- As I popped above the tree line the clouds broke a bit revealing a huge ridge ahead. 
+- The rain was really just a mist, and it continued until the end of the climb. The view over the saddle was obscured, but every once in a while the clouds would part a bit and you’d get a sense of where you were. Very high up, it happened.
+- This continued for the next several miles. Up and down, socked in and temporary big views.
+- Began to open up more and it was real phenomenal. Serious climbs up loose rock of all different composition. Now this is what I’m talking about.
+- Really a lot of fun thru this section.
+- Made it up to a saddle and had a great view of the valley below.
+- Boogied down to get to some campsites the group at breakfast had been talking about, but upon getting there no one was around! Oh well.
+- Set up camp as some light rain fell beneath a cluster of pine trees which provided good cover.
+- Glad to be back out here. Awesome day.
+
+Mile 2408.3
+Miles 14.6
+N 47.452753°  W 121.295858°
+
+Sept 8
+
+- The plan for today remained unclear. My box was not going to arrive as it was Sunday, and usps does not deliver today. To avoid this being a bust would require me to stay for today and check on that tomorrow. An unplanned zero, but I did do the previous 100 quite fast.
+- Regardless of heading out or not today, I wanted to get breakfast. While walking to town I ran into while roll just walking off the trail. He was craving pancakes, so we headed to the restersunt adjacent the summit inn.
+- a slow trickle of familiar faces made their way into the restersunt over the next few hours. I ordered two waffles, a side of bacon, and eggs. Oh, and lots of coffee.
+- Pumper rolled up too. It was great to have some friends around after getting ahead.
+- They all planned to stay at the wac, making my decision easier to simply zero and check on the package tomorrow.
+- We headed to drubru and had a few rounds of drinks. I grabbed some amazing curry from ardvark, the food cart in front of the gas station. So much food, so good!
+- Headed back to the wac and we organized a ping pong tournament. I was eliminated in the semi finals. Super fun.
+- Got to bed around 9. Good day.
+
+Miles 0
+
+Sept 7
+
+- woke up at 5:30 to give me plenty of time to get into town before the projected storms began to roll in.
+- the grade going up the first climb right after camp was much more than I anticipated—glad to have made camp where I did
+- Of course this led to an immediate decent. Was feeling good and the miles were passing quickly.
+- Already totally overcast outside and the humidity was very high.
+- Passed mirror lake which was quite beautiful. The trail became super rocky after this with lots of awkward foot placement, slowing me down
+- Before long I heard the sound of the interstate in the valley ahead of me, meaning I was almost there
+- The last few miles were a breeze, and I walked down a ski run to get to the road.
+- Stopped by DruBru and grabbed a beer and burger from the truck parked outside. Got to talking to two cyclists and who had ridden in from Seattle this morning. Nice guys.
+- Began talking to another hiker, we both remembered ewchktber but could not remember where from. He we to cal tech and went on to become a professor of mechanical engineering specializing in fluid dynamics. We began talking about trail food when he remembered the context of where we first met. “Tuolmne Meadows! The peanut butter jar with honey and chips. I did that for the next several hundred miles!” So good.
+- Grabbed Some food next door at common, too. Mellow spot.
+- Walked over to the inn to get my food box I bounced. It wasn’t there. Seems like I walked faster than the postal service can send things. Bummer. Tomorrow is Sunday with no post service, so I either have to improvise a resupply or wait until Monday. We’ll see. 
+- The clouds quickly began rolling in at a lower elevation, obscuring the surrounding mountains and leaving the town in a fog
+- hewded toward the Washington alpine club lodge, where they let thru hikers stay for $20.
+- Was crowded but they had a bunk available. Interesting building and history.
+- A rather jank nights sleep, but around 10pm it began to storm quite badly. Lots of lightning and heavy rain for several hours. Glad to be inside regardless of the person snoring!
+
+Mile 2393.7
+Miles 20.3
+N 47.423642°  W 121.410914°
+
+Sept 6
+
+- woke up at 5:45 to elk bugling in the valley beside me. was a little hard to get going as a thick layer of status clouds blocked the sunlight.
+- Broke down camp, got water, and started out. Made it around 5 miles before it began to lightly rain. Have gotten so lucky with weather while on trail so far.
+- the burn area I camped in seemed to continue for some time, with pockets of young and dense forest interspersed
+- Entered an area of old growth and the misquitos got rather bad. Luckily they seemed lazy and did not bite!
+- Around 10:30am I had done some 16 miles and arrived at a cabin maintained by a snowmobile club. I ate lunch and thumbed thru the registrar. After maybe 20 minutes I headed out.
+- Made it to a dirt road and there was an adventure biker there. We talked for several minutes. It’s fun the serendipitous conversations you have out here.
+- The rain continued to hold off throughout, a welcome surprise.
+- The next several miles were more of the same dense forest interspersed with mild climbs and descents. Sections reminded me of being back in Oregon, but with slightly more grade here and there, which was sort of nice as it gave you something to do.
+- Hit 30 miles by around 4:30 and decided to try putting in another 10 or so
+- Around this time I began to hear the tunnels of thunder coming from scattered storms all around me. Luckily I managed to stay in a bubble of a few square miles of dryness.
+- As it began to get dark I came across a good campsite right before a decent climb and decided to make camp.
+- Ate some food and discovered there was some decent reception, giving me the chance to check the forecast. Thunderstorms beginning at 3pm. Not bad, I’d bad, I’d definitely have the time to complete the 22 miles into town!
+- As I was falling asleep I heard the rustling of mice. Hopefully no holes when I wake up.
+- Fighter jets, crazy juxtaposition. Screaming over saddles doing inverted high g turns. Sort of a crazy feeling seeing that.
+- Solid day.
+
+Mile 2373.4
+Miles 38.7
+N 47.264004°  W 121.337444°
+
+Sept 5
+
+- alarm went off at 5:30, but slept till 5:45. hard to wake up when it’s totally dark out.
+- Got moving, finishing up the last 3 miles of climbing before things flatten out for a bit.
+- Do many lakes! Not even Oregon had this many. So nice in the morning with the fog drifting over them.
+- Began a few miles of descent to bumping river, which was indeed bumping. Someone on horseback came thru. Fun.
+- Passed s beautiful meadow then Started  a nice 1750ft climb thru spotty tree coverage. Patchy clouds began to move in.
+- Upon resching the top there was a massive view of Reiner. Incredible, really. A couple was there, say hikers, and they were very sweet. We got to talking. Their daughter lives maybe a mile from me in Los Angeles. Small world! They took a photo.
+- Continued along with a bit of downhill. Feeling real good. The views appeared every half mile or so, Reiner front and center.
+- Stopped for lunch at noon. 18.7 miles. I’m really moving! Finished up some pizza I packed out and rested, total of around 20 minutes, then got moving again.
+- A really cool descent with more views, then a nice little climb. There is a lot of elevation change thru this area, but with the interesting terrain and thin tree cover I’m not considering it as just climbs and descents, as I have thru the thick forest.
+- Some beautiful meadows and lakes back here, especially Dewey Lake.
+- I begin another climb up towards Chinook Pass and highway 410, around 800ft. Lots of these not tiny but not big climbs today.
+- Reaching the top of the climb I can see the huge road cut running down into the valley far in the distance.
+- I can also see the trail descending another 1.5 miles down to the parking area.
+- The trail is quite wide due to the popularity with day hikers, which I tend not to mind as the interactions can be fun.
+- One of them is walking towards me and says, “trail magic in the parking lot, cold fruit.” “Amazing, I’m running!” And I did for the last mile into the lot, where a big red umbrella was casting shade in a hiker and two trail angels.
+- They Had all sorts of fruit from their garden, chips, cookies, soda, the works. “Would you like a sandwich? Turkey, beef, ham…” wow, jackpot!
+- Their daughter had completed the trail in 2015
+- I sat down and a few familiar faces I had passed from earlier showed up.
+- I sat around for far too long. Maybe 2 hours. At this point it was 4:00 and I had done 26 miles. Before arriving here it felt totally possible to hit 40, which was sort of insane with how much elevation the day brought, it this slowed me down to where that wasn’t possible without some night hiking—not worth it when wanting to wake up early.
+- Finally left and another hiker joined who wanted to push another 10. This would have us arriving at a campsite near a spring at around 8pm
+- Got going, and after no more than half a mile I had to run off trail due to a sudden stomach situation. Oof. The worst it’s been on trail, and after having been sitting next to a privy for almost three hours. Likely the up and down motion of walking adjatated it
+- Caught up with the young hiker who had joined me and we completed a decent climb. We both pushed hard and arrived at the top quickly.
+- In front of us we could see the trail stretch at least two miles around a bend—so cool.
+- Started the mild descent and he described how he met a girl, went on a date, and lost his virginity the night before flying from Berlin to San Diego to start the trail. All he could think about was this girl, and on trail in the desert there is a LOT of time to just think. He scrambles a mile off trail bushwhacking up a hill to get reception to text here only to have a text from her saying she could not wait for him to return. Heartbreak! And so much time to think! What a story.
+- We reached another climb and I began flying up, but he mentioned his feet being quite sore, and how he did not have a working head lamp. We’d be cutting it close with darkness as we got to camp. Although it was frustrating to slow down, I decided it was the right thing to do, so I took it easy and we had a good time telling stories as we pushed along up two more climbs.
+- I had to suddenly run up the ridge and off trail due to rapid onset of stomach issues again. Ooof. It’s probably ok to slow down at this point.
+- A thick layer of stratus clouds was above us, and the air was beginning to get dense with smoke from a controlled burn some miles away.
+- Upon reaching trees from a fire a few years ago the sun broke beneath the layer of clouds and began to illuminate Reiner looming behind a ridge across a valley from us.
+- The most vibrant golds and pinks began to burst. Could not stop marveling at how incredible it was.
+- As the sun continued to set it simply kept getting better. Absolutely incredible.
+- We Had Stopped to watch for around 15 minutes, as we were close to crossing the ridge at the top of the climb which would then block our view
+- Finally in the interest of making it into camp before it was totally dark we crossed the ridge to finish the 1.5 mile descent into camp.
+- This went by very quickly as we cruised along. What an evening!
+- Made it to an oasis of campsites in a small patch of mature pines within this burn area and made camp.
+- sexywild was there, the older Japanese hiker who camped with us last night. He left two hours before I woke up and had pushed the same big miles. What a monster!
+- While eating dinner I hear olanes flying overhead every few minutes, likely descending into Seattle. The past few days when you run into someone you generally talk about plans for finishing. If you’ve bought a plane ticket yet or not, etc. With just over 300 miles I’m only a little more than a week from finishing.
+- Really good day. Huge views. Washington is panning our to be a good final show.
+
+Mile 2334.7
+Miles 36.5
+N 46.962873°  W 121.452346°
+
+Sept 4
+
+- windy night. Expected to wake up in the morning and be completely socked in by dense clouds.
+- Instead it was perfectly clear, and Rainer was just beginning to catch the first rays of daylight above a sea of low hanging clouds.
+- Broke down camp and got started up the last bit of climb to the junction, the “PCT alternate” along knifes edge.
+- Walked across the modest remains of snow, perhaps 100 yards total. This was once a glacier.
+- Reached the junction and began up towards old snowy. The views as the sunlight continued rising are beyond description.
+- Reached the top where knifes edge begins and took several minutes to just look around. The sun had just peeked above the horizon and was beginning to illuminate Adams, Reiner, and helens in bright golden light.
+- Below The trail sharply descends along shattered shale, each individual rock with its own timbre when walked upon.
+- Began the scramble down as the sun continued to come up. Too much fun.
+- The sounds of glacial melt filled the air while descending back down to intersect the pct.
+- DESCRIBE IN DETAIL
+- Reached the treeline again and descended back into dense forest, but this was not as draining as before thanks to the hangover from the views.
+- The next goal was getting to White Pass, where there is a small store with food to devour and resupply with.
+- After continuing to descend thru the forest the trail began to ascend over the ridge separating me from an extra large pizza and ice cream.
+- Needless to say I began too flying up this climb.
+- Ran into some people from the pcta doing trail maintenance on a stretch which had been involved in a fire last year. Great chat, plan on volenteering next year.
+- Reach a nice view of Rainer and snack for s but, then continue along.
+- Reached a saddle overlooking the next mile of descent below a ridge and had some cell reception, so called lily. So good to catch up.
+- Began the descent into white pass and was very eager for the meal.
+- Saw on the Topo a dirt road which you could take via a side trail which followed some ski runs down directly to the store. Too good to be true, but it was.
+- Essentially Ran this all the way downhill into town since my pack was now empty of food and water.
+- Arrived at the store. Bought a six pack and a quart of ice cream. Demolished the quart in perhaps 20 minutes, enough time for the large pizza I ordered to be ready. Ate half of that and then had to hit the breaks.
+- Hung around for a while. Bounced my resupply box up since pumper had enough left over from his box, in combination with some stuff I bought from the store.
+- Hung around for a bit, then got moving back to the trail at 6
+- Put in a solid 3 miles of a climb out of the pass. Good to just go in and out, keep the momentum up.
+- One of the best days in a while. So good, but ready to finish.
+
+Mile 2298.2
+Miles 21.4
+N 46.659966°  W 121.413424°
+
+Sept 3
+
+- woke up a little late. Slept around 15 minutes past the alarm. Sleep was fine, just found it hard in that particular moment to get going.
+- On trail and finishing the last two miles of residual climb. Passed by a few nice ponds.
+- Really dense forest thru here, and it takes only another 3 miles or so of it to begin feeling the burn out hard.
+- Decide to simply get to the start of goat rocks asap. Really, really start pushing hard.
+- After a Decent climb I hit a saddle with a view of goat rocks ahead. They seem distant—the pass marking the beginning was 18 miles from camp—but it’s motivation.
+- I begin cruising down the other side of the saddle quickly, borderline running it.
+- I’m almost in a bit of a trance. Stepping over rocks, beside roots. Each step must be calculated as to land correctly, but they’re happening so quickly as for it to be lucid.
+- The forest continues, dense and then denser. “Get me the fuck out of this forest!”
+- A more sensitive mind might have the patience to endure, but I’m ready to see something new.
+- The climb up to the pass begins, still around six miles away. As I climb a view begins to open up a bit of a lake below and Mount Adams to the south east. Beautiful! This only motivates me further to get to the pass.
+- At this point I’m almost running uphill, and finally crest the first initial climb up to the pass. Three more miles to go.
+- It’s beginning to open up more, and  I’m really starting to enjoy it. Then, a mile from the true pass, the trail crosses a saddle and; boom! A massive view of an eroded ridge line, a waterfall cascading down the side. Massive.
+- A huge grin comes over me and I decide for immediately break for a snack.
+- Leaning against my pack I take it all in. Finally! After around 30 minutes I decide to do the mile to the pass. It takes me almost an hour to walk it, as I’m meandering and looking around from my shifting perspective.
+- I lazily hit the pass and it’s totally remarkable. Huge rock faces frame a huge canyon. The best views of this kind since the Sierra. I pause for a bit and soak it in, then lazily begin the descent along the trail marking a half circle across the massive canyon.
+- I decide today is not about the miles. I’ve already done 18. I’ve been waiting for this one and am going to enjoy it.
+- Im barely even walking at this point. It’s a stroll. Each step provides a fresh perspective on the extreme landscape surrounding me.
+- I make it to a stream full of glacial melt from high above, cascading thru blindingly white rocks and wild flowers. I stop here for maybe 45 minutes. Patchy low cumulus clouds begin moving in, casting huge shadows moving rapidly across the huge mountain faces.
+- Continuing another half mile is an incredible moss covered waterfall, which I also stop at for perhaps 45 minutes.
+- Time has slowed down, and I’m just enjoying being here.
+- Next is a climb up to a junction where the trail begins to descend again. I decide to take the climb real slow, and enjoy the ascent.
+- Several streams snake thru the climb, and I stop to talk to a few passing hikers for more than a brief “hello”, which I have not done in a week or so.
+- I begin to reach the top of the climb, and there are several campsites with huge views of three volcanoes; Adams, Helens, and Reiner. The 270 degree view is too much to take in.
+- A massive alpine lake across the valley illuminated bright turquoise each time the sun strikes it. Behind the glaciers of Rainer glisten.
+- As I sit here the clouds become denser, and the mood calms down. Watching the clouds drift by overhead and occasionally looking around at the shifting light cast on the surrounding mountains I snack and decide to simply camp here.
+- Some other hikers begin rolling up, all of them amazed by what the day has brought.
+- The temp quickly begins dropping as the sun dips towards the horizon illuminating the cloud tops.
+- An amazing day. I go to sleep with the intent to wake up before sunrise to watch as I descend knifes edge.
+
+Mile 2276.8
+Miles 22.6
+N 46.511804°  W 121.465672°
+
+Sept 2
+
+- woke up to a bit of condensation
+- Got going straight into a climb of about 1400ft. Some really steep grade here. Way to get the blood moving.
+- Reached a small meadow on the top and continued to a brief descent. Very brief in fact.
+- Pass a road which leads into trout lake, a resupply point at a resort, but my plan is to skip it.
+- There is a trailhead here, and there are some flowers out. It’s laybor day, so I assume maybe someone left them for that? After a minute I realize that no, they must be for something I heard about the other day.
+- Someone on trail asked if I heard about how just up ahead a day or two ago a thru-hiker was walking when a tree fell, crushed, and killed them. An absolute freak accident.
+- After walking less than half a mile there is a stream with a bridge over it. I see some flowers positioned on the railing at the far end of the small bridge. And there is a tree lying in the middle. Oof… it’s clear this is where it happened, and this tree laying onto the bridge is the very tree.
+- I walk back toward the bank when I realize and am unsure what to do or think. A few other hikers on the other side walk up and realize too. We all stand there in silence for a while.
+- What a freak situation. While walking. In dense forest, not even a burn area. I’ve heard of people being hit by “widow makers” while sleeping in camp, but this is altogether more freakish.
+- After standing there for some time trying to piece it together, I begin walking across the bridge and step over the fateful log. It’s understandly a heavy moment.
+- I continue up the climb and can’t shake the situation. Looking around there are so many blow downs on the ground. Trail maintenance takes care of almost all crossing the trail.
+- Makes me refocus. Have been complaining so much about the lack of views. Each moment counts.
+- TRANSITION
+- Then a big 2500ft climb over seven miles. After a bit the trail enters a burn area and you get brief glimpses of Mount Adams. Again, burn areas are a breath of fresh air.
+- I continue along the pct at a junction and notice a sprawling meadow below me with a gravely “beach.” I back track to the junction and wait for pumper to join for an early lunch.
+- 12 miles by 11am.
+- Huge views of Adams and the glacier
+- Pumper gets moving and I finish up. Some day hikers walk by and stop. They give me quite the compliment. “You’re a thru hiker? You look to clean, and your pack is too small!”
+- I continue along and finish the climb. It really starts to open up now with massive views. So refreshing!
+- Big lava flows and lots of glacial streams.
+- So cool walking along the base of it, watching in slow motion the mountain seem to rotate as I walk the radius.
+- I keep stopping. “Wow!” “Oh my god!” “What the fuck!” The views keep coming
+- Pausing in a canyon with very little noise I can hear the cracking of ice high up on the glacier. Makes it feel real time!
+- Fun stream crossing over glacier water.
+- Make it to a bridge adjacent a meadow and small water fall. I had planned to pause here and of course, pumper is hanging out just ahead.
+- Awesome fore watching the clouds move around the summit.
+- Get moving again and begin to descend back into the dense pines
+- Goes on for a while and misquitos start to increase. Bummer!
+- Pass by a few streams and a big lava flow before starting a middle climb to meet a road, then an equally modest descent. A lot of the trail is sand here, which is frustrating.
+- After a small climb I make it to a possible campsite, and decide to setup here since the sand slowed things down. I realize it’s .1 mile short of 30. Likely my first sub-30 full day of hiking since the Sierra. Oh well.
+- Have a nice dinner and conversation with two other hikers in camp.
+- A loaded day.
+
+Mile 2254.2
+Miles 29.9
+N 46.357046°  W 121.517833°
+
+Sept 1
+
+- woke up at 6 to an overcast sky and some light condensation. Got going after around 45 minutes and began to finish the uphill, around 1.5 miles in total.
+- Toward the top it began to lightly rain, which I was not happy about. Fortunately this lasted only a moment.
+- The trail parelleld, then briefly entered a lava flow. Lots of moss growing on this, and could see into the cracks deep into the ground. this was a twelve mile water carry, and it was easy to see why now.
+- Reached a campground and some campers were giving out fruit and beer, even though it wasn’t even 10am yet. Leftovers from last night. It’s leighbor day weekend and if it’s quite likely we run into some more of this over the next two days, I’d hope.
+- Hang around for about 30. It’s a pretty cold out actually. I bet moving again, mostly the warm up.
+- The first Decent climb up the day is a leasirly 1700ft over 8 miles, ending at blue lake. It becomes a rather refreshing ridge walk, mostly covered in trees, but with the occasional peek.
+- Stop for lunch a blue lake, which is gorgeous. Best lake so far in Washington.
+- Lunch begins to wrap up, and it’s rather hard to get going. The scattered clouds and cold temps keep me feeling primed for a nap. That and most of the day having been spent in dense viewless forest adds to the lack of enthusiasm to keep moving.
+- The trail flattens out quite a bit, and trends downwards for several miles. All thru viewless trail. Im pretty tired of this bullshit. Totally homogenous. It feels like I’m moving nowhere. Part of me desires the ability to see awe in every detail. I know that each leaf is a unique form out here, but that doesn’t stop it from becoming a wash of green. My biology smooths out thru repition.
+- I continue cruising down and reach a dirt road. Families crowed the area picking blueberries while gunshots from a nearby firing range ring out.
+- Back into the dense, humid forest I continue down, the only motivation being putting my feet up and sleeping.
+- Startle and elk who takes of running. Shakes the ground!
+- Nearing another road there is a sign in the trail. “Trail magic, 100 yards to the right.” I begin walking up the road as two people walk towards me. As they approach they say, “sorry, just ran out of food, but past the creek up ahead there is a cooler with beer!”
+- I say thank you, regardless, and head towards the stream.
+- I see the cooler and head over to open it up. Empty. Oh well.
+- I begin dragging during the last several miles to camp. To get things moving I put on some music. I start to almost run the remaining miles, just to get I over with.
+- Becoming increasingly anxious to finish the trail, especially with how incredibly dull and monotonous it’s been.
+- Set up camp and eat dinner, then turn my headlamp off. A few seconds afterwards I see the faint outline of mice scurrying up my big net, so I hang my food. It’s so humid that things already feel slightly damp to the touch.
+- Goodnight.
+
+Mile 2224.3
+Miles 33.4
+N 46.133635°  W 121.683830°
+
+Aug 31
+
+- woke up at 6, a bit later since we got in late. Nice to have that little bit of extra sleep
+- Got moving and noticed chalk arrows on the ground and ribbons tied to trees. Looks like a trail running ultra marathon… oh boy.
+- Day starts off with a little bit of climbing to finish the ascent, lots of condensation on the ferns and plants lining the trail. I get drenched.
+- then a real big descent.
+- Lots of water and very green thru here.
+- Reach NAME OF STREAM, which has a nice bridge, and I decide to stop here for water and to rest the feet for a moment.
+- Someone I met the morning after the fiasco at walker pass comes up to where I’m stopped, small world!
+- We catch up on our hikes, then pumper catches up. Hang for maybe half an hour total.
+- As we are sitting there the first trail runner runs past. Let it begin I suppose.
+- The foliage thru here is amazing. Looks like the rain forest and kinda feels like it too. So humid.
+- Start a Decent climb (1500ft) and begin passing runner after runner
+- Some of them are very considerate and pause to let us pass as we are going uphill. Most do not.
+- We reach a dirt road and an aid station is set up for the marathon. They invite us to grab some of whatever is available, super considerate of them. I eat some fruit, mmmm.
+- We get going again to finish up the climb and pass the last of the runners who is removing ribbons from branches.
+- Begin descending down again—welcome to Washington!
+- Make it to the bottom and there is a large stream with a bridge and a few campgrounds. A road is nearby and some families are camped out as its labor day weekend.
+- Someone comes walking back from a car with a bunch of beer. I attempt to yogi some. “Say, if you don’t want to carry any left over beer back over that bridge we’d be glad to help.” “Ha! Of course, let me grab you some.” Score!
+- He hands me four beers for the three of us. Clearly since I scored I have the extra. So good. We hang for around 45 minutes. Really relaxing.
+- There are a few miles between here and the start of the days big 3600ft climb.
+- It’s a lot of mellow flat tunnel walking. The trail goes past a bathroom with a privy, and my timing is impeccable. There is also nice cold well water.
+- Get back on the trail and start the climb. Super steep switchbacks for the first mile or two, then more switchbacks at a barely gentler grade.
+- Relentless climbing. I’m really pushing hard. Stop to take a 5 minute break at a dirt road, then keep moving.
+- Some real good views of Mount hood back, now far back in the distance.
+- Finally reach the campsites just short of the top of the climb. Really nice views of the surrounding area. Good sunset, the little bit we catch.
+- The ground is shit and it’s hard to pitch. On top of that it’s a bit exposed and windy up here. Oh well.
+- Get set up and eat some dinner. With all the breaks today I was snacking a lot, and had stashed more bars than usual away for snacking while walking. Stomach only felt a little weird before lunched but after eating was great. Glad to have that resolved.
+
+Mile 2190.9
+Miles 30.5
+N 45.843112°  W 121.797180°
+
+Aug 30
+
+- woke up around 8:30, another good nights sleep.
+- Headed to provonce for breakfast. Ordered the larger French toast I’ve ever seen.Good coffee too.
+- Got dropped off at the train station with pumper to wait on our bus out to cascade locks. Left at 11.
+- Arrived st around 12:30 in locks and stopped by the ale house to have a free beer, which turned into another beer, plus some snacks.
+- Left at 4 and crossed bridge of the gods. Quite momentous!
+- Followed a road for a few hundred yards, then jumped on the trail.
+- The first few miles remained low, and the afternoon was quite hot and very humid. Sort of miserable conditions.
+- The Big 4000 ft climb began gradually, then really took off on a steep grade relentlessly for several miles. Can’t think of another click with that much continuous elevation gain with no level out momentarily.
+- Ate a few snacks whenever my stomach began to feel off, and that seemed to mitigate the pain.
+- Topped our on the climb and approached a dirt road. We didn’t see any trail markers, so just began walking the road through a big clear cut.
+- For some reason both our compasses were off here, and the gps was behaving funny.
+- We realized after half a while something was off, then had to backtrack it to intersect the trail again. Somehow we had missed an obvious marker. Weird!
+- By now it was mostly dark as we reached the campsite. It was rather full, with several other tents. Found a level area sort of away from the main camp and set up for the evening.
+- Although I’m not very hungry I’m trying to eat. Just no real appetite.
+- Although not many miles today, it was entirely uphill. Glad to have it out of the way.
+- New moon. Will be just pass full by the time I finish
+
+Mile 2160.4
+Miles 13.1
+
+Aug 29
+
+- great night of sleep!
+- in doing some research, and considering the symptoms, I don’t believe my stomach issues to be related to unfiltered water, but not enough calorie intake.
+- Didn’t eat near enough food while pushing massive miles, and I think it caught up to me.
+- Once my stomach has digested food it begins to experience sharp pains. No nausea when I eat—I feel better.
+- In the interest of ensuring I have enough food, I went to resupply and really loaded up for the first 150 push in Washington.
+- Also bought food to send in a box up to myself at that first resupply, which I plan to bounce up the trail depending upon what is available at each stop.
+- Took a while to pack and box this up, then ship it out. Most of the afternoon had passed.
+- Walked on a bridge over the Columbia—even with all the walking, I wanted to walk thru a bit of the city
+- Stopped by the Mikkeller popup and had a good sour, then took a Lyft over to a restersunt where pumper and friends were eating.
+- Has some pizza and a beer, then we headed back to their place where I would crash for the evening.
+- Great zero day. A little productive even! Looking forward to getting back on trail tomorrow.
+
+Miles 0
+
+Aug 28
+
+- began packing up camp at 5:30 in order to have enough time to hike the last 9 miles into town, grab breakfast at a diner, and hop the bus into Portland
+- Stomach was feeling just as bad, if not a bit worse than yesterday
+- The descent began right away, and large loose rocks made the walking difficult
+- Some nice views of the Columbia River gorge heading in
+- Lots of switchbacks
+- Made it to the trailhead and continued into town under a bridge and along trail parelleling the highway
+- Reaches bridge of the gods, an iconic monument of the trail, which takes you across the river and into Washington
+- Stopped at the diner adjacent the bridge and had a short stack and milkshake
+- Walked to the bus pickup location and waited a few minutes
+- Took around 1.25 hours to get into Portland. Booked a room at the ace while on the ride.
+- Arrived and hopped a train into the Pearl District. Checked in, dropped my bag, and headed to REI.
+- Picked up a new pair of shoes, Hoka Torrents. Ran into Monk, who I met a few days before and who also lives in Los Angeles. We planned to meet up for drinks in a few hours.
+- Grabbed a hair cut, then stopped by Patagonia for a new shirt and shorts.
+- Has wanted to wear the same thing the entire trail, but my shirt I began in had several large holes, and one had begun forming on the shoulder where the arm strap rests. No good.
+- Headed over to Shift, which had a good wine list, and grabbed a refreshing Croatian orange and a plate of Mac and cheese w/ gruyere. Mmmm.
+- Headed back to the hotel where I relaxed and caught up on writing some of these logs. felt great to sprawl out in bed.
+
+Mile 2147.3
+Miles 8.7
+45.661724,-121.897285
+
+Aug 27
+
+- last night was rough. Woke up several times with intense stomach pains. Not nauseous, but sharp contractions which came in waves.
+- When the alarm for 5:30 went off I snoozed it hard, as I had just managed to get back to sleep. Slept until 7, putting me far behind for the day. No way I was going to push the 40.5 into Cascade Locks.
+- Started and the stomach was a real issue, slowing me down. Had to take breaks often.
+- Crossed a washed out stream which was a little tricky to navigate. Reminded me of white wash heading into big bear. Bushes wacked for a moment to get back on trail.
+- Began the last big climb of Oregon, the air was crisp and the light filtering thru the foliage
+- Really taking in the last few moments of Oregon
+- Before long my stomach began acting up again. I had run out of bars and breakfast food. Ramen for every meal was an option, but made me feel sick to consider
+- completed the climb and a group with ice axes and ropes came through the junction. “Summiting?” “Nah, just some glaciers work.” Sounds fun.
+- Began the ridge descent with some great views of Hood beginning to fade into the distance.
+- At this point the trail began to flatten out after a brief climb back up to another ridge.
+- Stopped for lunch at 1 and the stomach felt rough, but some food helped resolve things. Was super windy in this saddle where three of us ended up stopping.
+- Started up again, the breeze keeping things nice and cool in the afternoon sun
+- Reached am opening in the forest to see a great view of Adams, Helens, and Reiner all in a row. Washington approaches!
+- Unfortunately the eagle creek trail, leading to tunnel falls, was closed. The result of a fire. I continued along the pct until it began parrelling a dirt road.
+- Not one to pass up a good dirt road, I hopped on, choosing a brief climb in order to cut off 0.5 miles and have easy access to a privy.
+- Arrived at the privy and campground. A trail maintenance de crew was in the parking lot having wrapped up on eagle creek for the day.
+- One seemed familiar. “Devilfish?” “Yeah, what’s up!”
+- The same one from way back at the water caches in the desert, and who then gave me a hitch from lone pine up to Crabtree meadow! What a small world.
+- We caught up and I began describing the stomach issues. “I think it might be messed up from drinking some unfiltered water yesterday.”
+- “Here, take my spare filter, I drive past an REI tomorrow anyway”
+- I tried to describe how I could still filter, it just took so much longer, and how I planned to stop by REI tomorrow in Portland.
+- “Nah, I insist. Take it!”
+- Too kind. People are amazing.
+- Continued down to the lake to grab some water. Really beautiful campsites, but wanted to push to within 10 miles of town for an easy morning.
+- The wind picked up when entering a burn area on the steep side of a ridge leading down to the Columbia River.
+- The forest then became more dense and tall grasses covered the ground. As the sun set the temp began to drop.
+- Found a good campsite on the edge of another burn area 9 miles from town and began setting up for the night.
+- Frustrated that the stomach slowed me down so much today, and looking forward to getting into town tomorrow
+
+Mile 2138.6
+Miles 32
+45.647812,-121.840874
+
+Aug 26
+
+- was already kind of awake when my alarm went off around 4 hours after I set it. Took a while to fall asleep too. Rough night.
+- Woke up early to get to the breakfast buffet.
+- The structure of the lodge is super interesting. Some of the history here.
+- A lot of familiar faces sitting in the dining room, including Yeti and Shoobie from last night. Sit at their table and it’s mellow.
+- There is a waffle making station, and I make two. The whip cream is amazing, and the syrup is pure maple heated in a vat. Mmmm.
+- Have a few cups of coffee and hang.
+- Afterwards looked around the interior a bit. Lots of details. Talk about the furniture.
+- It was around lunch time, so a few of us went the the blue ox. History of that here.
+- I ordered the “ice axe ipa” and an arugula and cheese pizza. Mmmm.
+- Afterwards pumper Made it to the lodge. He went for the breakfast buffet, and I had a glass of wine from a local vineyard.
+- Decided to push out tonight instead of staying. It’s around 50 miles to Portland, and we want to get in tomorrow evening, so a dent must get made.
+- Head up to the trail and get started. Very mellow downhill for a while. A lot of day hikers.
+- Bit of a climb, then in really starts to go downhill.
+- After around 1.5 hours I see some campsites off trail. It looks semi-crowded, which makes me wonder what the larger campsites are like down trail towards the river. Probably v busy and loud.
+- Make my way to the back corner of the camp where I hope it will be quieter and set up. It’s only 6:45.
+- Hoping to get some good sleep and push a big day tomorrow!
+
+Mile 2106.6
+Miles 9.2
+N 45.372018°  W 121.777580°
+
+Aug 25
+
+- woke up after an ok nights sleep and began the 5.5 to Ollali lake store.
+- After an uneventful start to the day I arrived. I’m not sending boxes along the way as many hikers do, instead choosing to purchase supplies as I go.
+- Grabbed enough to get me to the state line, and downed two coffees and a sprite. Ended up spending perhaps an hour here, longer than intended, but a nice break.
+- Got back on the trail riding perhaps the most intense caffeine high I’ve ever experienced
+- Really began cruising. The air was crisp and things generally felt great.
+- It was 2 before I had a chance realize, so I stopped for a quick lunch. 25 miles already down.
+- Ahead of me was a 1250ft climb, after which was a nice Decent into several miles of flatness
+- The climb went by easily, and I began heading down. The valley had a very different feel than the rest of Oregon. Very old growth. So thick not even the sunlight at 4:30 was making its way to the ground.
+- Passed a stream and refilled on water. Someone else was there filtering, and we began talking.
+- “Where are you headed for today?” She asked. “Maybe timberline.” I said.
+- “Isn’t that like, 35 miles from here?” “Something like that, yeah.”
+- Breezed thru the first few miles and crossed a road where I caught up with two other hikers I had yet to meet.
+- I began passing them and they asked, “want to try for timberline?” Excited at the prospect of not night hiking thru the Oregon wilderness by myself, I responded, “actually, yes, was considering it already”
+- The two of them had begun at 3am and camped 3 miles short of my camp. They had passed me early in the morning, but I had made up the several hour difference. Today their goal was 60 miles in 24 hours, on top of 40 from the previous day for a total of 100 miles in 2 days. Ambitious. Needless to say their pace was slowing.
+- We stopped at Little Crater Lake, which was remarkable for the even in the poor light conditions of sunset.
+- Ate a dinner and stretched for 30min, then started again.
+- It was clear I was feeling fresher, so I began pacing us as night set in. A climb began and we flew up it. a little fast, so I dialed it back.
+- After severa miles we hit a highway. There we stretched, then began another decent climb up.
+- This lasted around two hours, then took us briefly down to a campground where several people were camped. There was a table we sat at for a moment to let the feet get sore again, hah!
+- Started the last big climb to the campsites behind the lodge. 2000ft elevation gain over 5 miles.
+- The last 1.5 was loose sand. Yeti mentioned how if he were asked solely on what he was looking at (down at his shoes) he’d answer a beach in the gulf.
+- The waning moon began to peek over a dark ridge of Mt Hood just as we got to the junction. Amazing!
+- Went and set up camp, then hopped in fast.
+- 18 hours (approx 16 walking)
+
+Mile 2097.4
+Miles 57
+45.332661,-121.709427
+
+Aug 24
+
+- incredible sunrise crossing over the ridge at three fingered jack
+- Decent climbing
+- Mount Jefferson comes into view, looming
+- Reached a cliff with a great view of Jefferson and broke for an early lunch at 11. Had already done 14 miles, so feeling good.
+- Big descent thru trees. Pretty cold.
+- Reached a stream at the bottom
+- Began What is likely the biggest climb in Oregon. Entered one of the more dramatic burn zones. Huge avalanche zone. Mountain vein ravaged.
+- Continue climbing and huge glaciers come into view. Reach the biggest stream we need to cross since the Sierra fed by the glacial water, which has a milky quality and makes it impossible to see the surface beneath the water.
+- A mellow crossing overall but fun. Feet are wet again!
+- Have a conversation with an older couple who began section hiking at 70 and have done more than 1500 miles. Wow.
+- Continue climbing and reach some beautiful meadows and lakes. So good. Would like to return here sometime.
+- The steepest part of the climb begins here, going up to a pass. Lots of loose rocks on trail making it challenging.
+- Get to the top of the ridge and have an amazing view of Mount Hood in the distance, the last big mountain before crossing the state line into Washington!
+- Take a break to snack and soak it in.
+- 
+
+Mile 2040.4
+Miles 33.3
+N 44.769502°  W 121.787461°
+
+Aug 23
+
+- woke up at 7:00 to some condensation inside the tent, oh well. Ok nights sleep. Somehow there are people water skiing at this hour.
+- Had Decided to wait around for breakfast, thus the late start. Went to the hiker area to wait for that. Made a pot of coffee and washed my socks.
+- Breakfast was cinnamon buns. Huge ones. Hundreds of them. I ate perhaps ten, no exaggeration. So good. A side of eggs and several cups of coffee, too.
+- Went back to the hiker area and laid my stuff out to dry, then sat in a soft chair, which was a mistake.
+- Managed to do a decent resupply from the hiker box, saving the need to hitch into town. Nice.
+- A few hours passed and next thing you know it’s almost lunch. Pizza… mmm. I guess we’re staying for that too!
+- Ate a few pieces and had a salad, a real treat, the packed out several pieces of pizza for later that night.
+- Got to talking to a hiker from Tokyo. Headed to Japan after the trail and he offered to take us to an izakaya. Awesome.
+- Finally got motivated to leave around 3:00. Packed up and started the dirt road out.
+- Hopped back on trail, feeling refreshed.
+- A few miles in this very loud droning sound came from behind the trees ahead. As I passed it I tried to descend what was going on, but it was just out of view. Quite sure it was a logging operation.
+- rounded a bend and there it was; the marker for 2000 miles! When talking about the trail you always say *two-thousand* five-hundred and fifty miles. Standing at two-thousand all that’s left is now the six-hundred and fifty. Even with an entire state left, the end is starting to feel real now.
+- Walked across the busy highway, and at the trailhead someone had just set up a grill to make grilled cheese sandwiches and had a cooler full of soda and beer. Uuhh i guess we aren’t going far.
+- Finally manages to drag ourselves away at around 5:30. Continued the climb up towards three-fingered jack. Passed several decent spots, then got to the campsites we had intended on using to find them quite poor.
+- Pushed on a bit further and rounded to the other side of the mountain with a great view of the sunset and the huge rock-slide covered face of Jack.
+- An outcrop had in the slide zone had three good campsites, so we set up and watched the sun set. Dramatic clouds. I ate the pizza i packed out and drank a beer from the trail magic. Quite a way to celebrate 2000 miles, even if we only did 11 today with all the distractions.
+
+mile 2006.7
+Miles 10.7
+N 44.477343°  W 121.850561°
+
 Aug 22
 
 - woke up to a very light rain, slept well considering my stuff was damp
