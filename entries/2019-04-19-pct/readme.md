@@ -1,7 +1,6 @@
 ---
 image: 2019-04-30.jpeg
 total: 2650
-mile: 454.5
 mile: 517.6
 ---
 
