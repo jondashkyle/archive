@@ -26,3 +26,16 @@ Technological sublime.
 Doing the PCT as “field research” for what’s next.
 
 ----
+
+- Being off the trail for two weeks, getting back online, constant distraction, totally wasted time, etc…
+- Difficulty 
+
+----
+
+Walking lines
+
+- http://www.andrewherzog.com/wl.html
+
+----
+
+> Rauschenberg quote, “By the time you’ve gone a quarter of a mile, if you have any mind at all, you’ve certainly forgotten what you had in mind when you started.”
