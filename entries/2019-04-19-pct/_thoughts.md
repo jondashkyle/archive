@@ -39,3 +39,6 @@ Walking lines
 ----
 
 > Rauschenberg quote, “By the time you’ve gone a quarter of a mile, if you have any mind at all, you’ve certainly forgotten what you had in mind when you started.”
+
+
+Trail name static and how he carried in a.m. Radio with him on his through hike so as he walked he would hear whatever was in the air
