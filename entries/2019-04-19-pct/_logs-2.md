@@ -1,3 +1,113 @@
+Sept 23
+
+Flight
+
+Sept 22
+
+Border crossing, guy knew PCT, called out on not having the walking entry permit
+
+Sept 21
+
+- Woke up at 6:30. A lazy morning. Had a hard time sleeping as I was so excited to complete the last 8 miles, although non official.
+- Packed up and did a lazy four miles of elevation gain to another campsite in a saddle, then started the four mile descent into Manning. 
+- Began noticing ribbons tied off to tree branches, and shortly afterwards a trail runner came around a corner. "There are a bunch of us headed this direction." Oh well!
+- was fun cheering them on. Many of them realized we had just completed the PCT and gave is similar encouragement.
+- while looking at the map I realized there was a side trail cutting about a mile off the way into Manning. Yes please!
+- Arrived at the resort and they gave us the code to the building with showers, hot tubs, a sauna, and pool. So good!
+- of course, the sun was fully out and the sky almost completely clear now that I was off trail!
+- Headed over to the restaurant for breakfast and lunch. Sort of mediocre food. Oh well!
+- After finishing up Pumper and I for the highway to hitch. Our efforts were unsuccessful for the better part of an hour until a car flipped a u-turn and offered us a ride to abbotsford, pitting is within 50 miles of Vancouver. Let's go for it!
+- The ride went quickly. A retiree who was quite familiar with the local landscape.
+- while en route I realized we could get to Vancouver via public transit, altho it would require three buses and a train
+- After a series of transfers were made it in. It was quite late, and we were both catching an early morning bus to Seattle. It would make no sense to get a hotel room for perhaps five hours at most. 
+- while eating dinner I did some brainstorming. Realizing it was Saturday, I decided to see if the local label pacific rhythm, who puts out a series of great mixes, had a party this evening. Sure enough, We were in luck! 11pm to 5am! This would keep us awake.
+- We took a cab to Chinatown, as it was more raining. We hopped out and made our way down alley. I saw someone standing outside a door and asked, "if this Paradise?" "Come on in."
+- Made our way down the stairs to a basement. The room was lined with curtains and the light bounced off the motor ball around the foggy room. Vibey.
+- Walked over to the bar and got a highball. "What brings you to Vancouver?" "Oh, I uh, walked to Canada from Mexico."
+- Before long all these people were coming up to us. "Are you the guys who walked here from Mexico?" The bartender had been pointing us out. "You'll never believe this …"
+- The tunes were good and the conversations entertaining. Before I noticed it was 4:00am and time to head to the bus station.
+- Walked over in the rain to the adjacent Tim Hortons, grabbed a donut and some coffee. Headed to the station and Pumper jumped on his bus. I was going to wait for standby on another as this one did not seem to offer the option. Right before it departed I walked over to ask the driver, "I noticed there are a few empty seats. Can I buy one?" "Sure." Unfortunately I  was $5 Canadian cash short. "Don't worry about it." 
+
+Sept 20
+
+- woke up around 6:15 and was completely fogged in. A little rainy too. was hoping the entire day wouldn’t be like this, sort of miserable conditions to finish in
+- The day began with a mild climb through big open meadows. Knowing there were good views here but being unable to see them was a little painful.
+- before long some fuzzy outlines of ridges became visible above, and I began climbing out of the fog and above the clouds
+- crossing up and over cutthroat pass the views were immense!
+- After a nice rocky traverse the trail began descending back down into clouds, oh well.
+- After a few miles in the soup I Circled around a ridge and came to an area where it began to open up a little beneath the cloud base. Could see a little yurt sort of structure in the adjacent canyon.
+- This continued for the next few miles. It sounded like a good idea to take a break for lunch before the biggest climb of the day, a modest 1500ft. set up and ate, and by the time lunch was over it had cleared up quite a bit! still generally overcast, but could at least see around.
+- The trail descended some ways before intersecting the Pacific Northwest Trail, a relatively new trail which starts at the continental divide trail and ends in the Washington Olympics at the coast.
+- Began climbing up the valley, and it lead to a beautiful meadow adjacent a sheer cliff face, the trail visible for a few miles ahead
+- reached the saddle of rock pass, great views from here.
+- The trail descended a series of switch backs, having replaced an often washed out stretch of trail. Real fun section.
+- Began the climb back up to Woody Pass. some incredible rock thru here with terrazzo-like features
+- 10 miles out from the monument now. Mind began racing remembering all sorts of moments along the trail. Began to feel like I was floating a bit.
+- can see the trail continue up ahead, a mild climb leading to a viewpoint, the highest position between me and the monument.
+- Reaching the top of the climb, I look over the ridge and see what must be Canada ahead. The border itself is not visible, but it's only 7 miles and truly all downhill from here.
+- take the pack off for a moment to take in the view and have a snack. This is it —it starts to hit me a bit.
+- After a minutes I get moving again, beginning the final descent to the border.
+- it's a bit busy wacky, but you can tell a trail maintenance crew was recently out here because of the scent of freshly cut blowdowns.
+- Ran into a number of people who turned around at the monument to hike back 30 miles to Hart's pass. "Congratulations!" "You too!"
+- The last few miles felt to take place simultaneously over an instant and an eternity.
+- all the sudden a massively long and narrow line cut thru the forest, only forest visible when almost standing in it.
+- after one last switchback the trail terminated at the monument, standing there in the clear cut.
+- The diff between the positive form of the Mexican border and the negative of the Canadian
+- surreal to be standing at the monument, but not partially overcome with emotion. Similar to inhabiting the image of the monument at the start.
+- Hung out for around 15 minutes. Signed the registrar and took a few photos, then began to walk across the border into Canada, an impulse decision, but upon reading the monument my plan of walking the 30 miles back to Hart's pass became very unappealing.
+- did not have the permit to cross in, but decided to wing it.
+- luckily there was a campsite .2 miles into Canada. Set up and the group who was there attempted a few times to start a fire, but everything was too damp to get going. 
+- Got into my warm quilt and ate whatever food I had left. Still didn't feel like this is finished as there are still another 8 miles to do into manning park
+- Great day to finish. Thankful for the weather window!
+
+Mile 2653.3
+Miles 30.8
+49.002449,-120.802902
+
+Sept 19
+
+- last night was uneventful. Spotty rain here and there. Really cold this morning.
+- Headed towards the pit toilets, where I had stored my food last night. A camper pulled up and someone jumped out and began walking towards the pit toilets.
+- I waved and said, “just so you know, there are, uh, hikers sleeping in there…” “sleeping?!” “Yeah…” I knocked on one and got my food bag, then mentioned someone was outside who needed to use it, but the person outside said “uh that’s ok, thanks!”
+- It was overcast and it began to drizzle a bit. Bummer! Forecast was for clear skies and no chance of rain. Seems impossible out here at this time of year.
+- Got going on the remaining 5 miles of climbing up to cut throat pass. Nearing the top I climbed above the clouds and began to enjoy a view of the surrounding peaks.
+- crossing the pass i was standing is sun (ah!) and had a great overview of the north cascades. I always prefer being above tree line!
+- Began following the trail along the ridge, which brought me around to the other side of the mountain. Unfortunately I could see the area the trail descended into was entirely clouded in… too bad.
+- Passed mile 2600! Only 50 more. Hard to believe. the clouds also opened up a little just for the moment when crossing this. A nice treat.
+- Started a big descent into the valley below. Was quite cold. Lots of water.
+- Ran into pumper and we took a lunch break next to a stream. Very relaxed. a big climb was coming up, so we made the most of it.
+- After a few miles of semi-bush wacking we approached the base of the climb and started up a series of switchbacks. Fortunately this wasn’t fogged in, and I could see across the valley to a glacier above. Glacier pass aptly named!
+- After reaching glacier pass the climb is only halfway done. Another 1500ft of switchbacks Made this one pretty tiring
+- Amazing views upon reaching the top of the climb! Could see where the trail lead quite some ways out.
+- Began the trending descent down to Hart’s pass. This is the last road you cross before reaching Canada.
+- It has some campsites, which we decided to stay at.
+- Even though the first half of the day was mostly clouded and a bit rainy, a very good day all and all. The last full day spent on the pct!
+
+Mile 2622.5
+Miles 30.6
+N 48.720566°  W 120.669826°
+
+Sept 18
+
+- woke up around 8. Could hear it raining all night outside.
+- Slowly Packed up and grabbed some coffee. Thru the big glass windows I could see it was still raining.
+- Got breakfast at the restaurant next door. Pancakes and bacon. Standard fare.
+- Made s cardboard sign for trying to hitch into Seattle. Skeptical as to how handy it will be.
+- Bought a celebratory beer to pack out to the monument.
+- Said goodbye to Pumper’s dad and dick, then boarded the 11:30 red bus to high bridge.
+- The bus stopped for 15 minutes at the bakery, so I grabbed a pesto and mushroom croasant and a cinnamon bun.
+- Hopped back on the bus for the second leg to the trail head. Arrived and there was patchy sun out!
+- Got going for the big 28 mile climb out of stehekin. Rather mellow, but quite a bit of gain over that period.
+- Passed over a few bridges. After a few hours it began to rain a bit, and continued to do so on and off for the next two or three hours. My shoes didn’t wet out, for reference.
+- Made it to Rainy Pass, and there was some trail magic wrapping up. Some cookies and soda still left, though!
+- Set up the tent and it began to drizzle. Some other hikers are sleeping in the pit toilet to stay out of any possible rain and keep it warm. Don’t know if I’d get to that level of desperation unless it was freezing and snowing.
+- Good to be back on trail for the final push!
+- Crazy wolf owl sound
+
+Mile 2591.9
+Miles 19.5
+N 48.518233°  W 120.733541°
+
 Sept 17
 
 - had an ok sleep. thankful to be dry at least. hard to sleep on the air pad indoors.
@@ -5,6 +115,9 @@ Sept 17
 - Relaxed there for a while and looked at the weather. poor forecast. the room is booked until tomorrow, so decided to just zero here today as the next four days look much better
 - Headed to the bakery. Coffee and coffee cake. Mmm. And another cinnamon bun!
 - Back to the lodge and just catching up on things online. mellow. Just hanging.
+- Researched exist strategies from the monument. Up into Canada or back to Hart’s pass.
+- Ate dinner and had another bottle of wine.
+- Got to sleep early. Very mellow zero day.
 
 Miles 0
 
