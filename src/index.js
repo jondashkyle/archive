@@ -45,8 +45,9 @@ const md = markdownIt({
             return `
             <figure class="video">
               <video
-                data-src="${properties.url}"
+                src="${properties.url}"
                 poster="${properties.url.replace('.mp4', '.jpg')}"
+                lazy="tru"
                 preload="none"
                 controls
               ></video>

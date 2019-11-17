@@ -23,9 +23,9 @@ It quickly became clear that most of this first day is simply escaping the infra
 
 Before too long we were crossing our first bison gate. Oh yeah, there is a generously sized bison population on Catalina, introduced to the island during the [20s for a silent Western film shoot](https://en.wikipedia.org/wiki/Catalina_Island_bison_herd).
 
-![c:2/7 r:133](02-jk-weather_133.jpg)
+![c:/7 r:133](02-jk-weather_133.jpg)
 
-![c:7/12 r:133](03-jk-fence_133.jpg)
+![c:7/13 r:133](03-jk-fence_133.jpg)
 
 Not much time passed before spotting it; our first bison, relaxing near the edge of a pond, maybe 40 feet from the trail. It’s suggested you stay at least 75 feet away from bison to prevent spooking them.
 
@@ -55,9 +55,9 @@ We made it up the last little bit of trail and got to camp. Ate some cold-soaked
 
 After a minute it became clear there was a *lot* of bison shit around camp, which got me a little anxious about waking up in the middle of the night to a stampede. I digress. 
 
-![c:2/7 r:133](07-jon_133.jpg)
+![c:1/7 r:133](07-jon_133.jpg)
 
-![c:7/12 r:133](07-camp_133.jpg)
+![c:7/13 r:133](07-camp_133.jpg)
 
 With sunset approaching, a quick walk before dinner sounded good. Following the path out of camp we’d take tomorrow morning led to an expansive view. Looking to our right we noticed a small structure which seemed to have *the best* view.
 

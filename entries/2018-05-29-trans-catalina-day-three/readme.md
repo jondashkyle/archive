@@ -17,9 +17,9 @@ You start the trail on day three back-tracking briefly down a road the first mil
 
 <!-- more -->
 
-![c:2/7 r:133](27-hell-hike_133.jpg)
+![c:1/7 r:133](27-hell-hike_133.jpg)
 
-![c:7/12 r:133](28-trail_133.jpg)
+![c:7/13 r:133](28-trail_133.jpg)
 
 The first three miles go UP. *FAST*. You’re totally exposed and it’s hot as hell. You’re so miserable you can’t help but appreciate how bad it is. Nothing redeeming about this, other knowing it’ll be over soon.
 
@@ -33,9 +33,9 @@ After the worst of it things start to level off, and we were pleasantly surprise
 
 A few miles pass and you’re up there. [Stony Peak](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DY3012) is the second highest point on the west side of the island, the first being Silver Peak. This was such a welcome break form the climb up, and we hung out in the clouds for a while. Good thing considering how intense the trail down to Parsons was about to be.
 
-![c:2/7 r:133](32-jk_133.jpg)
+![c:1/7 r:133](32-jk_133.jpg)
 
-![c:7/12 r:133](33-parsons_133.jpg)
+![c:7/13 r:133](33-parsons_133.jpg)
 
 Simply put, the way back down is, as they say, “hella steep.” My tarp-tent requires two trekking poles, and this was the only section of trail where both were useful while hiking to stabilize. My knees are glad I did. The views were absolutely unparalleled while looking back up towards the peak we had just descended from.
 

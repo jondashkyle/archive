@@ -41,11 +41,11 @@ Little Harbor was pretty amazing; a secluded pair of coves with particularly cal
 
 After our siesta we headed off towards what appeared to be a considerable climb. Turns out it was. When hiking the TCT you experience a bit over 10,000ft of aggregate elevation change. This checks out considering the amount of ups and downs. The climb took us past areas of massive erosion, the Pacific swallowing up the coastline as huge chunks of cliff collapse, some taking sections of trail along with them.
 
-![c:2/7 r:133](19-forward_133.jpg)
+![c:1/7 r:133](19-forward_133.jpg)
 
-![c:7/12 r:133](20-jon_133.jpg)
+![c:1/12 r:133](20-jon_133.jpg)
 
-![c:2/12 r:75](21-jk_75.jpg)
+![c:1/13 r:75](21-jk_75.jpg)
 
 As we approached cloud-base it *really* began to feel otherworldly, or at least no longer like a short ferry ride away from every day life in Los Angeles. Up ahead was the shade structure spotted earlier, where we gladly caught our breath and snacked as the clouds rushed past and threw undulating patterns of sunlight on the valley below.
 
