@@ -27,7 +27,7 @@ A hard coordinate where the bubble burst.
 
 Between those long walks and doing healthy day hikes while living in Los Angeles, it seemed likely any surprises before making it home were solvable, especially with my friend [Jon](https://jongacnik.com) doing it with me. (s/o Jon for a bunch of these photos, too!)
 
-## Preparation and Booking
+### Preparation and Booking
 
 Normally there is a two night minimum stay for campgrounds. To bypass this, simply call the Two Harbors visitor services to book your campsites. Tell them you’re doing the Trans-Cat. They’ll walk you through campsite selection. Talking to someone for 15 minutes is much more enjoyable than clicking around the site’s interface.
 
@@ -44,7 +44,7 @@ Also, to be comfortable, keep your pack weight down. I was just a little shy of 
 - [Sea to Summit](http://seatosummitultralight.blogspot.com/2014/08/thru-hiking-trans-catalina-trail.html) ([Gear list](http://seatosummitultralight.blogspot.com/2014/02/sul-trans-catalina-trail-gear-list.html))
 - [Bison Safety (pdf)](https://www.catalinaconservancy.org/userfiles/files/Bison%20Safety%20for%20public.pdf)
 
-## Equipment
+### Equipment
 
 Ok, a quick rundown of what was brought. While in New York I started to research ultralight gear. I got very into it. What really got me going was the Make Your Own Gear (MYOG) community. My first project was a [Ray-Way backpack kit](http://www.rayjardine.com/ray-way/Backpack-Kit/index.htm).
 

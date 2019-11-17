@@ -38,7 +38,7 @@ Following the aqueduct back to Los Angeles I thought about how the time had pass
 
 Back at home I spent the next few days completing an update to [Hardly Everything](https://hardlyeverything), a project meant to effect the passing of time in how it relates to our habits of consumption online by introducing cycles and cadence to the feeds we use everyday.
 
-## Digest
+### Digest
 
 It was difficult to gauge how extensive Whitney is prior to leaving as there was a range of involvement described in trip reports leading up to our departure. People do get injured, and we said hello to a few people who did need to turn back because of complications with the altitude.
 

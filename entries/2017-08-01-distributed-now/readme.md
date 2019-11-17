@@ -23,7 +23,7 @@ You can visit my site now via:
 
 If you visit my site at `https://` in Beaker, you’ll see in the address bar “P2P version available”, which you can click to view the `dat://`, and become a peer.
 
-## Getting started
+### Getting started
 
 Since Dat is peer-to-peer, you may be wondering how to ensure it’s constantly accessible, or how to add a domain name. Basic.
 
@@ -47,18 +47,17 @@ dat sync jon-kyle.com
 
 Doing this turns your site into a persistent peer, ensuring anyone can access your site anytime, either by visiting your domain, or using Beaker, or anything else using Dat.
 
-## Data
+### Data
 
 Beaker also exposes interesting [Web APIs](https://beakerbrowser-com-pfrazee.hashbase.io/docs/apis/) to let you modify the contents of a Dat Archive. For instance, instead of storing user data in a proprietary database, you can write data to a Dat Archive, providing users autonomy and ownership.
 
 Dat Archives also have built in version control. History, merging and reverting to previous versions of data are baked in.
 
-## What about blockchain
+### What about blockchain
 
 Without getting into it; while blockchains are promising, their value is derived from artificial scarcity. Far more interesting are truly distributed systems, torrent-like, which [promote abundance](https://twitter.com/yoshuawuyts/status/883284383301603328).
 
-## The future web
-
+### The future web
 
 Observing the proliferation of machine learning, AI, and AR/VR in our daily lives, I can’t help but be excited about the technology, but increasingly anxious about who the technology will be serving, and what for.
 

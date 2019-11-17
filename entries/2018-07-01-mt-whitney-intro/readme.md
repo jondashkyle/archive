@@ -24,7 +24,7 @@ My trance when driving this stretch only subsides while passing the distant Sier
 
 You can imagine my excitement, after returning from the [Trans-Catalina Trail](/entries/2018-05-26-trans-catalina), when a trip began to form around summiting Mount Whitney. At 14,505ft not only the tallest peak in the Sierras, but the entire contiguous States. My anticipation stemmed not from it being “the highest”, but simply an excuse to finally visit those mountains regardless of the superlatives.
 
-## Preparation
+### Preparation
 
 Although never having visited the Sierras, they’ve played a critical role in my living in Los Angeles. Leaving LA headed north along The 5 an anomaly appears just before crossing the San Fernando Valley border. Cascading down the hillside is the [Los Angeles Aqueduct](https://commons.wikimedia.org/wiki/File:Second_Los_Angeles_Aqueduct_Cascades,_Sylmar.jpg). The annual snow melt makes it’s way to the Owens Valley, where a substantial volume enters the aqueduct to be transported hundreds of miles south to Los Angeles for drinking water, as famously depicted in [Chinatown](https://en.wikipedia.org/wiki/Chinatown_(1974_film)).
 
@@ -36,7 +36,7 @@ This in mind, our only plan to summit involved taking the ninety-nine switchback
 
 Our permits allowed us to split the trip over two nights. This provided adequate time to acclimate to the increased elevation, and cuts the summit hike from 22 miles to 7—making it an overall more enjoyable experience.
 
-## Getting There
+### Getting There
 
 Our route out of Los Angeles largely paralleled that of the aqueduct, with one brief divergence. After leaving the LA basin behind us for the open desert past Palmdale I looked down and did a double take. Before leaving for any trip I compulsively re-pack my belongings several times to ensure everything is there. Sure enough, the pack was fine, but I had forgotten to put on my hiking shoes!
 

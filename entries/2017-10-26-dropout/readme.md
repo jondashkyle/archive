@@ -22,9 +22,7 @@ You can install it via `npm install dropout -g`. Head to the repository to [scop
 
 As always, very excited about future networks and hope to see you there.
 
----
-
-## Update 10/29/2017
+### Update 10/29/2017
 
 The response to releasing this, though modest, was [unanticipated and appreciated](https://twitter.com/jondashkyle/status/923948416723324928) for what it is. Thanks!
 

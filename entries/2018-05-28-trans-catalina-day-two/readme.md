@@ -43,7 +43,7 @@ After our siesta we headed off towards what appeared to be a considerable climb.
 
 ![c:1/7 r:133](19-forward_133.jpg)
 
-![c:1/12 r:133](20-jon_133.jpg)
+![c:7/13 r:133](20-jon_133.jpg)
 
 ![c:1/13 r:75](21-jk_75.jpg)
 

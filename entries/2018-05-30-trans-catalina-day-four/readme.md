@@ -44,7 +44,7 @@ We waited around for the ferry, for what ended up being a somewhat miserable ret
 1. Definitely hike out to Lands End. Follow the trail to the left you’ll spot from about where the trail forks off to Starlight. Much more enjoyable considering Starlight is a rocky little beach, and the trail is super steep.
 2. DO NOT have a few drinks, a burger, “Bison Milk”, and onion rings before boarding the ferry back. It’s rough.
 
-## Thoughts
+### Thoughts
 
 This was the ideal first through-hike. You’re never more than a few miles away from help, and not once did I have to dig a hole and shit in it. Quite easy in that sense. We definitely packed the miles on, though. The TCT itself is 38, but we did closer to 48 going out to Lands End.
 
