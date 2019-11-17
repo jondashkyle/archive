@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.8.17",
+    "front-matter": "^3.0.2",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6",
+    "markdown-it": "^10.0.0",
+    "markdown-it-html5-embed": "^1.0.0",
+    "markdown-it-implicit-figures": "^0.9.0",
+    "markdown-it-modify-token": "^1.0.2",
+    "markdown-it-named-headings": "^1.1.0"
+  }
+}
