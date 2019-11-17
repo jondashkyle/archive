@@ -19,7 +19,7 @@ const md = markdownIt({
     switch (token.type) {
       case 'image':
         if (token.attrObj.src && token.attrObj.src.substring(0, 4) !== 'http') {
-          token.attrObj['data-src'] = `https://wonderful-goldstine-99da43.netlify.com/entries/${env.parent}${token.attrObj.src}`
+          token.attrObj['data-src'] = path.join('https://wonderful-goldstine-99da43.netlify.com/entries/', env.parent, token.attrObj.src)
           // token.attrObj['loading'] = 'lazy'
           token.attrs.splice(0, 1)
           delete token.attrObj.src
