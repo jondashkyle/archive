@@ -67,19 +67,22 @@ fs.removeSync(API_DIR)
 fs.ensureDirSync(API_DIR)
 
 // Grab the files
-glob(path.join(CONTENT_DIR, '**/*.md'), { }, (er, files) => {
-  // For each file
-  const processed = files
-    .map(getEntryFileStructure)
-    .filter(removeEmpty)
+glob(
+  path.join(CONTENT_DIR, '**/*.md'),
+  {
+    ignore: ['api', 'src', 'node_modules/**/*', 'mailinglist/**/*'].map(dir => path.join(CONTENT_DIR, dir))
+  },
+  function (er, files)  {
+    // For each file
+    const processed = files
+      .map(getEntryFileStructure)
+      .filter(removeEmpty)
 
-  // Create files
-  processed.forEach(createStaticEntryFiles)
-  createEntriesIndex(processed)
-})
-
-// Create file
-// fs.writeJsonSync(path.join(API_DIR, 'index.json'), { name: 'what' })
+    // Create files
+    processed.forEach(createStaticEntryFiles)
+    createIndexes(processed.filter(entry => entry.index == true), processed)
+  }
+)
 
 /**
  * Entry File Structure
@@ -107,6 +110,11 @@ function getEntryFileStructure (file) {
 
   // Skip if hidden
   if (entry.slug.substring(0, 1) === '_') {
+    return undefined
+  }
+
+  // Skip if PCT
+  if (entry.src.indexOf('2019-04-19-pct') >= 0)  {
     return undefined
   }
 
@@ -157,10 +165,10 @@ function createStaticEntryFiles (entry) {
 }
 
 /**
- * Create Entries Index
+ * Create Indexes
  */
-function createEntriesIndex (entries) {
-  const structure = entries.reduce((res, cur) => {
+function createIndexes (indexes, pages) {
+  const structure = pages.reduce((res, cur) => {
     const output = Object.assign({ }, cur)
     output.excerpt = output.content.substring(0, 200)
     res[output.path] = output
@@ -169,6 +177,10 @@ function createEntriesIndex (entries) {
 
   // Write the index file
   fs.writeJsonSync(path.join(API_DIR, 'index.json'), structure)
+  // indexes.forEach(index => {
+  //   console.log(index)
+
+  // })
 }
 
 /**
