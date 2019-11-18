@@ -171,7 +171,7 @@ function createStaticEntryFiles (entry) {
 function createIndexes (indexes, pages) {
   const structure = pages.reduce((res, cur) => {
     const output = Object.assign({ }, cur)
-    output.excerpt = stripTags(output.content).split(' ').splice(0, 15).join(' ') + '…'
+    output.excerpt = stripTags(output.content).split(' ').splice(0, 15).join(' ').trim() + '…'
     res[output.path] = output
     return res
   }, { })
