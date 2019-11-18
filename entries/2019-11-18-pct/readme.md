@@ -1,10 +1,14 @@
+---
+image: 2019-04-19.jpeg
+---
+
 # The Pacific Crest Trail
 
 ![c:1/7 r:75](2019-04-19.jpeg)
 
 ![c:7/13 r:75](2019-09-20.jpeg)
 
-Over four months during the summer of 2019 I hiked from the border of Mexico and California to the border of Washington and Canada, a total of 2650 miles along the Pacific Crest Trail. The PCT follows the backbone of three mountain ranges; the Transverse, the Sierra, and the Cascades.
+Over four months during the summer of 2019 I hiked from the border of Mexico and California to the border of Washington and Canada, a total of 2650 miles along the [Pacific Crest Trail](https://en.wikipedia.org/wiki/Pacific_Crest_Trail). The PCT follows the backbone of three mountain ranges; the Transverse, the Sierra, and the Cascades.
 
 <!-- more -->
 
