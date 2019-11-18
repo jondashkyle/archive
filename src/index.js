@@ -2,6 +2,7 @@ const implicitFigures = require('markdown-it-implicit-figures')
 const namedHeadings = require('markdown-it-named-headings')
 const modifyToken = require('markdown-it-modify-token')
 const html5Embed = require('markdown-it-html5-embed')
+const footnote = require('markdown-it-footnote')
 const frontMatter = require('front-matter')
 const markdownIt = require('markdown-it')
 const stripTags = require('striptags')
@@ -32,6 +33,7 @@ const md = markdownIt({
     }
   },
 })
+  .use(footnote)
   .use(modifyToken)
   .use(namedHeadings)
   .use(implicitFigures)
