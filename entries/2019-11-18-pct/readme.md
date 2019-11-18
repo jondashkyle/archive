@@ -2,7 +2,7 @@
 
 ![c:3/7 r:75](2019-04-19.jpeg)
 
-![c:7/11 r:75](2019-09-20.jpeg)
+![c:7/13 r:75](2019-09-20.jpeg)
 
 Over four months during the summer of 2019 I hiked from the border of Mexico and California to the border of Washington and Canada, a total of 2650 miles along the Pacific Crest Trail. The PCT follows the backbone of three mountain ranges; the Transverse, the Sierra, and the Cascades.
 
@@ -10,7 +10,7 @@ It wasn’t so much a decision to give it a go, but more a mild obsession. Livin
 
 After returning to Los Angeles the timing fell into place. There is a narrow window to begin the hike. Too early and you run into too much snow in the Sierra. Too late and you’re getting snow up in Washington. The sweet spot is April, and I was lucky enough to secure a permit for April 19th. So you drive to the desert, stand next to the border of Mexico, and start walking.
 
-![c:7/11 r:75](sierra.jpeg)
+![c:1/13 r:75](sierra.jpeg)
 
 I completed the trail on September 20th, walking continuously northbound and connecting (minus maybe one or two) all of my steps. I’m still processing, and will likely continue to for some time. It was life changing.
 
