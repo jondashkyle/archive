@@ -4,6 +4,7 @@ const modifyToken = require('markdown-it-modify-token')
 const html5Embed = require('markdown-it-html5-embed')
 const frontMatter = require('front-matter')
 const markdownIt = require('markdown-it')
+const stripTags = require('striptags')
 const fs = require('fs-extra')
 const path = require('path')
 const glob = require('glob')
@@ -170,7 +171,7 @@ function createStaticEntryFiles (entry) {
 function createIndexes (indexes, pages) {
   const structure = pages.reduce((res, cur) => {
     const output = Object.assign({ }, cur)
-    output.excerpt = output.content.substring(0, 200)
+    output.excerpt = stripTags(output.content).substring(0, 200)
     res[output.path] = output
     return res
   }, { })
