@@ -130,7 +130,7 @@ function getEntryFileStructure (file) {
 
   // grab title
   if (content.body.substring(0, 2) === '# ') {
-    content.attributes.title = content.body.substring(content.body.indexOf('#') + 1, content.body.indexOf('\n'))
+    content.attributes.title = content.body.substring(content.body.indexOf('#') + 1, content.body.indexOf('\n')).trim()
   }
 
   // remove title
