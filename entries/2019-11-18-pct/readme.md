@@ -1,6 +1,6 @@
 # The Pacific Crest Trail
 
-![c:3/7 r:75](2019-04-19.jpeg)
+![c:1/7 r:75](2019-04-19.jpeg)
 
 ![c:7/13 r:75](2019-09-20.jpeg)
 
