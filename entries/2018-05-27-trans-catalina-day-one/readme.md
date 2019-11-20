@@ -1,4 +1,5 @@
 ---
+collapse: true
 tags:
   - #walking
 index: 
@@ -23,7 +24,7 @@ It quickly became clear that most of this first day is simply escaping the infra
 
 Before too long we were crossing our first bison gate. Oh yeah, there is a generously sized bison population on Catalina, introduced to the island during the [20s for a silent Western film shoot](https://en.wikipedia.org/wiki/Catalina_Island_bison_herd).
 
-![c:/7 r:133](02-jk-weather_133.jpg)
+![c:1/7 r:133](02-jk-weather_133.jpg)
 
 ![c:7/13 r:133](03-jk-fence_133.jpg)
 

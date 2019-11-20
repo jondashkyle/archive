@@ -11,6 +11,8 @@ index:
 
 # Trans-Catalina Trail
 
+![r:75](34-peak_75.jpg)
+
 Since moving back to Los Angeles from an extended stay in New York I’ve been out in the forest often. I was there frequently before leaving, too, but it’s different now.
 
 While away I began reading about through-hiking, making your own gear (MYOG), literally watching people just walk around mountains, all to supplement the extreme lack of open undeveloped space. Researching hikes to do once returning home led to rediscovering a multi-day hike across Catalina Island, located just off the coast.

@@ -1,4 +1,5 @@
 ---
+collapse: true
 tags:
   - #walking
 index:

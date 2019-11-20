@@ -58,9 +58,9 @@ The 110, spanning the distance between Downtown and Pasadena, was originally con
 
 > Transportation efficiency and aesthetic delight were considered inseparable goals of parkway design, which in the early 20th century was described as “bioengineering”—a marriage of architecture, landscaping and civil engineering in a three dimensional design. These dual values which resulted in the design of a road as both a route and a place were carefully incorporated in the design of the Arroyo Seco Parkway.
 
-![c:2/7 r:69](dayton-1_69.jpg)
+![c:1/7 r:69](dayton-1_69.jpg)
 
-![c:7/12 r:69](dayton-2_69.jpg)
+![c:7/13 r:69](dayton-2_69.jpg)
 
 The image above depicts the confluence of the rivers and the intersections of the freeways separated in time. An overpass in 1938 at what was Dayton Ave, only two years prior to the opening of the Arroyo Seco Parkway to the left, the Riverside-Figueroa bridge just prior to demolition[^3] to the right. Anecdotally, there was an effort to save the bridge from demolition for its historic value and the possibility of becoming [open green space](https://www.youtube.com/watch?v=ei1K9kz_2ns) [spanning the river](http://www.theeastsiderla.com/2013/09/is-it-too-late-to-save-the-riverside-figueroa-bridge/)—Los Angeles’ “[answer to New York’s High Line](http://laist.com/2014/06/03/sorry_la_wont_get_its_own_awesome_h.php),” an inaccurate and unfair comparison.
 

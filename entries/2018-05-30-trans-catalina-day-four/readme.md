@@ -1,4 +1,5 @@
 ---
+collapse: true
 tags:
   - #walking
 index:
@@ -13,19 +14,19 @@ index:
 
 Technically, the terminus of the TCT is at Parsons, but this is a recent revision. The original end is at Starlight Beach, another 4 miles out towards the western tip of Catalina. After packing up camp we decided to drop our packs in one of the metal food boxes, bring some water and snacks, and head for a quick 8 mile jaunt to West End, which is, yeah, the end of the island out near Starlight.
 
-![c:2/7 r:133](40-lands-end_133.jpg)
+![c:1/7 r:133](40-lands-end_133.jpg)
 
-![c:7/12 r:133](39-parsons_75.jpg)
+![c:7/13 r:133](39-parsons_75.jpg)
 
 The hike out was super pleasant and a bit overcast, making things cool off. A very mellow last day. Approaching Starlight the trail makes a rapid descent. We decided against that and continued along to an unmarked side-trail heading towards the very tip of the island.
 
 <!-- more -->
 
-![c:2/7 r:133](41-lands-end_133.jpg)
+![c:1/7 r:133](41-lands-end_133.jpg)
 
-![c:7/12 r:133](43-moss_133.jpg)
+![c:7/13 r:133](43-moss_133.jpg)
 
-![c:2/12 r:75](42-lands-end_75.jpg)
+![c:1/13 r:75](42-lands-end_75.jpg)
 
 It was impossible to comprehend the scale of the landscape there, all collapsing into the water. After hanging for a while we hiked the 4 miles back to camp, picked up our packs, and continued on the additional 8 miles of dirt road to Two Harbors, where we’d catch the 9:30 ferry back to San Pedro. It’s a deceivingly long 8 miles, as two harbors always appears quite close, however the coves send you in and out a few times, making it seem to take forever. The drizzle turned into rain. It was a nice way to end the trip.
 
