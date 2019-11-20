@@ -1,5 +1,5 @@
 ---
-image: 2019-04-19.jpeg
+image: overview.jpg
 ---
 
 # The Pacific Crest Trail
