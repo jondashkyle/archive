@@ -1,5 +1,5 @@
 ---
-image: overview.jpg
+image: overview-social.jpg
 ---
 
 # The Pacific Crest Trail
