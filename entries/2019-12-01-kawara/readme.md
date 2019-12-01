@@ -6,7 +6,7 @@ image: kawara.jpeg
 
 [![c:1/12 r:56.25](kawara.jpeg)](https://kawara.app)
 
-Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next few sort of loose-idly. The back button might be the way to go here.
+Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next. The back button might be the way to go here.
 
 When describing my time on the Pacific Crest Trail, I often say the defining motif was just how much time there was to think about time. After reaching the halfway point the trail flattened out. The most physically challenging sections were behind me. The difficulty ahead involved staying motivated in such homogeneous terrain.
 

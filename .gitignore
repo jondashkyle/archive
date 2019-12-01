@@ -2,3 +2,5 @@
 
 node_modules
 api
+# Local Netlify folder
+.netlify
