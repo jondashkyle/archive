@@ -4,7 +4,7 @@ image: kawara.png
 
 # Kawara
 
-[![c:1/12 r:56.25](kawara.jpeg)](https://kawara.app)
+[![c:1/12 r:56.25](kawara.png)](https://kawara.app)
 
 Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next few. The back button might be an enticing option.
 
