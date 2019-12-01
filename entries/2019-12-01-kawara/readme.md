@@ -18,7 +18,7 @@ One project I found myself returning to while considering all this was [Hardly E
 
 The project addresses two primary problems I experience:
 
-1. I’m constantly saving and organizing an exponentially growing collection of media. Images. Texts. Videos. Sound. There is always the intention of using this for reference, or to revisit it later, but the great majority sit stagnant, displaced by the constant consumption of something new. No structural organization, like tagging, or folders, has ever improved the issue. *I want a way of being infrequently reminded of things.*
+1. I’m constantly saving and organizing an exponentially growing collection of media. Images. Texts. Videos. Sound. There is always the intention of using this for reference, or to revisit it later, but the great majority sit stagnant, displaced by the constant consumption of something new. No structural organization, like tagging, or folders, has ever improved the issue. *I want a way of being infrequently reminded of things.*<br><br>
 
 2. Today, many things I come across are by way of social media. Usually a feed. In order not to forget someone, or something, I’ll give it a follow. Unfortunately this opens up many simultaneous direct connections to all sorts of things I likely do not need a constant connection to. This creates the habit of always checking to see if there is something new. Not only that, what I see is often determined by the platform in control of the feed. The non-linearity of feeds these days, an attempt at solving the issue of volume, means some things go unseen which may be of importance, but perhaps don’t generate the type of engagement these platforms prefer to see. *I want a way of controlling the rate of flow for the media I consume.*
 
