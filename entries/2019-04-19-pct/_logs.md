@@ -230,7 +230,7 @@ At one of the streams channeling snow melt from the summit I stopped to fill a b
 
 Looking at the horizon across the sea of clouds I could make out the San Gabriels, my home range in Los Angeles. The snow cap of San Gorgornio was just to the right.
 
-When looking through the gap between two peaks in the ridge the clouds were moving so rapidly as to create the illusion that I and the all of San Jacinto was in motion. Like when you’re at a stoplight and the car next to you begins moving, creating the illusion of you moving backwards.
+When looking through the gap between two peaks in the ridge the clouds were moving so rapidly as to create the illusion that I and the all of San Jacinto were in motion. Like when you’re at a stoplight and the car next to you begins moving, creating the illusion of you moving backwards.
 
 Amazing day.
 
@@ -337,7 +337,6 @@ N 34.242978°  W 116.909552°
 - Thai
 - So good to see z
 
-Miles 0
 Mile 266.1
 
 6

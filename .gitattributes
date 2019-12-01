@@ -1,2 +1,4 @@
 entries/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+entries/**/*.png filter=lfs diff=lfs merge=lfs -text
 mailinglist/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+mailinglist/**/*.png filter=lfs diff=lfs merge=lfs -text

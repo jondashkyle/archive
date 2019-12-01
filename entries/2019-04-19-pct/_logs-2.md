@@ -119,8 +119,6 @@ Sept 17
 - Ate dinner and had another bottle of wine.
 - Got to sleep early. Very mellow zero day.
 
-Miles 0
-
 Sept 16
 
 - Woke to actually see some sky peeking thru the clouds! Figures, each time I go into town for most of the day it clears up.
@@ -299,8 +297,6 @@ Sept 8
 - We headed to drubru and had a few rounds of drinks. I grabbed some amazing curry from ardvark, the food cart in front of the gas station. So much food, so good!
 - Headed back to the wac and we organized a ping pong tournament. I was eliminated in the semi finals. Super fun.
 - Got to bed around 9. Good day.
-
-Miles 0
 
 Sept 7
 
@@ -590,8 +586,6 @@ Aug 29
 - Stopped by the Mikkeller popup and had a good sour, then took a Lyft over to a restersunt where pumper and friends were eating.
 - Has some pizza and a beer, then we headed back to their place where I would crash for the evening.
 - Great zero day. A little productive even! Looking forward to getting back on trail tomorrow.
-
-Miles 0
 
 Aug 28
 
@@ -1775,7 +1769,7 @@ July 14
 - Hang our and write a bit
 - Eat dinner, salmon. Lots of food today.
 - Go to the saloon afterwards for a drink. Begin talking to an older hiker who had glissaded in front of me. He came to America from sweeden as an exchange student when he was 18 and stayed with a family who was part of the Sierra club. They would go bag a peak in the Sierra every weekend. 40 years after doing Whitney he’s back out here doing the PCT.
-- 7pm shuttle, driver showing us where the original road for Sonora pass ran
+- 7pm shuttle, driver showing us where the original road for Sonora pass ran. A group of mormons singing chants. Sounds amazing.
 - Get to the trailhead and camp, hang for a few minutes then bed as I’m extremely tired
 
 Mile 1017.1
@@ -1925,8 +1919,6 @@ July 10
 - Talked to a ranger who said it’s fine for backpackers to stay at the backpacker camp in Tuolmne csmpground. Go figure, after all that! Still happy with how it ended up.
 - Ran into CalEarth, someone i last saw perhaps in the first 100 miles. Wild!
 - Going to bed early and plan to get started very early to make up for what is effectively a zero day.
-
-Miles 0
 
 July 9
 
