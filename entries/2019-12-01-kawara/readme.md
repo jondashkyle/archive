@@ -1,5 +1,5 @@
 ---
-image: kawara.jpeg
+image: kawara.png
 ---
 
 # Kawara
