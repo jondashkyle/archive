@@ -1,10 +1,10 @@
 ---
-image: kawara.png
+image: kawara.jpeg
 ---
 
 # Kawara
 
-[![c:1/12 r:56.25](kawara.png)](https://kawara.app)
+[![c:1/12 r:56.25](kawara.jpeg)](https://kawara.app)
 
 Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next few sort of loose-idly. The back button might be the way to go here.
 
@@ -32,7 +32,7 @@ I’m always glad to hear people find Hardly Everything useful, despite the idio
 
 Firstly, it has to feel good. Unfortunately, no matter how much time you spend in browsers, apps never feels as good as those native. It’s called the *Document* Object Model for a reason, and almost anything pushing too hard against simply being a document will run into difficulty. Sometimes projects can transcend this, like in the case of Google Maps or Google Earth… which is to say it also helps have limitless engineering talent and huge stakes in defining the specs in a substative way.
 
-![c:1/12 r:56.25](kawara-app.png)
+![c:1/12 r:56.25](kawara-app.jpeg)
 
 On the other hand, companies like Apple have invested heavily in making native a first-class experience for the user. The developer tools have come an *extremely* long way recently, too. [SwiftUI](https://developer.apple.com/xcode/swiftui/) will feel familiar anyone from React or Vue with it’s ELM-ish architecture. The big difference? You don’t get any of the messiness of the JS ecosystem (NPM, CLI build tools, etc…) or the browser (DOM strangeness, cross-browser BS…)
 
