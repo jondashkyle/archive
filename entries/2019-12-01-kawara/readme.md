@@ -46,4 +46,4 @@ Kawara will be there to help you remember what’s important, and relieve you of
 
 Kawara will be a native iOS app with a high level of integration, enabling both importing media from any source, and easily viewing that media in situ. That means looking at Instagram profiles *in* Instagram, for example, not some crippled web version. Like Hardly Everything, Kawara updates once a day. It does not demand your attention, so sometimes you can forget to check in. A daily personalized reminder via push notification helps ease you into a more natural circadian rhythm.
 
-A private beta will begin in January, followed by a release sometime in the first quarter of 2020. If you’d like to gain early access and receive a discount upon release [subscribe to updates](https://www.kawara.app).
+A private beta will begin in January, followed by a release sometime in the first quarter of 2020. If you’d like to gain early access [subscribe to updates](https://www.kawara.app).
