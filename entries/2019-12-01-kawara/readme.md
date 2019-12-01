@@ -2,6 +2,8 @@
 image: kawara.jpeg
 ---
 
+# Kawara
+
 [![c:1/12 r:56.25](kawara.jpeg)](https://kawara.app)
 
 Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next few. The back button might be an enticing option.
