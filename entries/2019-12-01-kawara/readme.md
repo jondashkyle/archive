@@ -4,7 +4,7 @@ image: kawara.jpeg
 
 # Kawara
 
-[![c:1/12 r:56.25](kawara.jpeg)](https://kawara.app)
+[![c:1/-1 r:56.25](kawara.jpeg)](https://kawara.app)
 
 Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next. The back button might be the way to go here.
 
@@ -40,7 +40,7 @@ I feel similarly with data ownership. The problems we encounter today will not b
 
 The current version of Hardly Everything will continue to function in perpetuity, and will the last update. The fundamental concept will continue on in my next project: [*Kawara*](http://kawara.app).
 
-![c:1/12 r:56.25](kawara-app.jpeg)
+![c:1/-1 r:56.25](kawara-app.jpeg)
 
 Kawara will be there to help you remember what’s important, and relieve you of what’s not. It will help you cultivate healthier habits in your use of social media. Don’t delete your account; just use it more wisely. It will be there when you want, and fade away when you don’t.
 
