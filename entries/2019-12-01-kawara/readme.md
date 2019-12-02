@@ -32,8 +32,6 @@ I’m always glad to hear people find Hardly Everything useful, despite the idio
 
 Firstly, it has to feel good. Unfortunately, no matter how much time you spend in browsers, apps never feels as good as those native. It’s called the *Document* Object Model for a reason, and almost anything pushing too hard against simply being a document will run into difficulty. Sometimes projects can transcend this, like in the case of Google Maps or Google Earth… which is to say it also helps have limitless engineering talent and huge stakes in defining the specs in a substative way.
 
-![c:1/12 r:56.25](kawara-app.jpeg)
-
 On the other hand, companies like Apple have invested heavily in making native a first-class experience for the user. The developer tools have come an *extremely* long way recently, too. [SwiftUI](https://developer.apple.com/xcode/swiftui/) will feel familiar anyone from React or Vue with it’s ELM-ish architecture. The big difference? You don’t get any of the messiness of the JS ecosystem (NPM, CLI build tools, etc…) or the browser (DOM strangeness, cross-browser BS…)
 
 There are a few critical tradeoffs, like publishing through the App Store, but to anyone observing the recent trajectory of big platforms should not be surprised to see an increase in future regulation. Gatekeepers of some form will be necessary at scale. Hopefully this is the role of government and democratic process, not private corporations. It’s somewhat ridiculous to consider the requirement to licenses barbers, let alone architects, but not developers and designers of platforms with such societal influence.
@@ -41,6 +39,8 @@ There are a few critical tradeoffs, like publishing through the App Store, but t
 I feel similarly with data ownership. The problems we encounter today will not be resolved through technical implementation, but slowly improved through regulation. I’m very optimistic about what this could look like—taking the power to make massive decisions away from private interest, and instead handing that to the users—the people. Of course at the scale of nation states it is a very slow moving process.
 
 The current version of Hardly Everything will continue to function in perpetuity, and will the last update. The fundamental concept will continue on in my next project: [*Kawara*](http://kawara.app).
+
+![c:1/12 r:56.25](kawara-app.jpeg)
 
 Kawara will be there to help you remember what’s important, and relieve you of what’s not. It will help you cultivate healthier habits in your use of social media. Don’t delete your account; just use it more wisely. It will be there when you want, and fade away when you don’t.
 
