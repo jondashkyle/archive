@@ -1,10 +1,10 @@
 ---
-image: kawara.jpeg
+image: kawara.png
 ---
 
 # Kawara
 
-[![c:1/-1 r:56.25](kawara.jpeg)](https://kawara.app)
+[![c:1/-1 r:56.25](kawara.png)](https://kawara.app)
 
 Within the range of rambles, this is of moderate length, expanding on my last few years and speculating on the next. The back button might be the way to go here.
 
