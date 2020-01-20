@@ -50,7 +50,6 @@ const md = markdownIt({
               <video
                 src="${properties.url}"
                 poster="${properties.url.replace('.mp4', '.jpg')}"
-                lazy="tru"
                 preload="none"
                 controls
               ></video>
@@ -199,15 +198,15 @@ function formatMarkdown (parent, body) {
     .replace(/<p>\s*(<figure class="video">([\s\S]*|$)<\/figure>)\s*<\/p>/g, '$1')
     .replace(
       /<figure>(.*?)<img alt="c:([\S]*) r:([\S]*)" data-src="([\S|.]*)"/g,
-      '<figure class="ratio" style="grid-column: $2"><div style="padding-bottom: $3%;"></div>$1<img loading="lazy" src="$4?nf_resize=fit&w=1800&h=1800" ',
+      '<figure class="ratio" style="grid-column: $2"><div style="padding-bottom: $3%;"></div>$1<img data-src="$4?nf_resize=fit&w=1800&h=1800" ',
     )
     .replace(
       /<figure>(.*?)<img data-src="([\S|.]*)" alt="c:([\S]*)"/g,
-      '<figure style="grid-column: $3;">$1<img loading="lazy" src="$2?nf_resize=fit&w=1800&h=1800" ',
+      '<figure style="grid-column: $3;">$1<img data-src="$2?nf_resize=fit&w=1800&h=1800" ',
     )
     .replace(
       /<figure>(.*?)<img alt="r:([\S]*)" data-src="([\S|.]*)"./g,
-      '<figure class="ratio"><div style="padding-bottom: $2%;"></div>$1<img loading="lazy" src="$3?nf_resize=fit&w=1800&h=1800">',
+      '<figure class="ratio"><div style="padding-bottom: $2%;"></div>$1<img data-src="$3?nf_resize=fit&w=1800&h=1800">',
     )
     .replace(/(?=.*?<figure class=")(?=.*?png).*?(class=")/gm, '<figure class="transparent ')
 }
