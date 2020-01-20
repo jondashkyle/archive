@@ -1,6 +1,6 @@
 # Mount Langley
 
-Looking back on the PCT after completing it last summer, the Sierra stood out as my favorite part. Without a doubt. Prior to leaving it felt like a decent trip—around four hours from home in Los Angeles. After walking to Canada over four months it felt practically in my backyard.
+Looking back on the PCT after completing it last summer, the Sierra stood out as my favorite part. Without a doubt. Prior to leaving it felt like a decent trip to get out there—around four hours from home in Los Angeles to Lone Pine. After walking to Canada over four months it felt practically in my backyard.
 
 ![c:1/-1 r:75](IMG_8142.jpeg)
 
