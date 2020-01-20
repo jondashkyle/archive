@@ -56,7 +56,7 @@ After a few miles of off trail scrambling, to make it a little more exciting, I 
 
 ![c:1/7 r:75](IMG_8220.jpeg)
 
-![c:1/13 r:75](IMG_8224.jpeg)
+![c:7/13 r:75](IMG_8224.jpeg)
 
 I made it down to Old Army Pass where Monk was posted. We decided to forgo the off trail route because of the hip troubles, and opted to head down New Army Pass to create a little loop. Definitely wanting to spend more time out in this area during the upcoming summer.
 
