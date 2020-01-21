@@ -1,6 +1,8 @@
 ---
 visible: true
 image: https://tesla.s3.amazonaws.com/2019/kawara-intro.jpg
+link: https://kawara.app
+linktext: Visit Kawara
 ---
 
 # Kawara Released
