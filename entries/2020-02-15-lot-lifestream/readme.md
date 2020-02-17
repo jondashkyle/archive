@@ -4,7 +4,7 @@ link: https://www.youtube.com/watch?v=MRHxdxQS2jA
 linktext: Watch on Youtube
 ---
 
-# Lot Lifestream
+# LOT Lifestream
 
 [![c:1/-1 r:56.25](lot.png)](https://www.youtube.com/watch?v=MRHxdxQS2jA)
 
