@@ -1,11 +1,7 @@
 ---
+parent: whitney
 tags:
   - #walking
-index: 
-  - Introduction
-  - "[Day One](/entries/2018-07-02-mt-whitney-day-one)"
-  - "[Day Two](/entries/2018-07-03-mt-whitney-day-two)"
-  - "[Day Three](/entries/2018-07-04-mt-whitney-day-three)"
 ---
 
 # Mount Whitney: Introduction

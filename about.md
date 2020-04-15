@@ -7,12 +7,14 @@ social: '[Are.na](https://are.na/jon-kyle-mohr), [Instagram](https://www.instagr
 
 ### Ongoing
 
+- [Kawara](https://kawara.app), 2020–
 - [Cargo Collective](https://cargocollective.com), 2009–16
 - [Peer-to-Peer Web](https://peer-to-peer-web.com), 2017–18
 - [Hardly Everything](https://hardlyeverything.com), 2015–
 
 ### Select Work
 
+- [LOT2046](https://lot2046.com), 2020
 - [Dublab](https://dublab.com), 2019*
 - [Machine Project](https://machineproject.org), 2018*
 - [East of Borneo](https://eastofborneo.org), 2018*

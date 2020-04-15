@@ -1,13 +1,8 @@
 ---
 collapse: true
+parent: trans-cat
 tags:
   - #walking
-index:
-  - "[Introduction](/entries/2018-05-26-trans-catalina-intro)"
-  - "[Day One](/entries/2018-05-27-trans-catalina-day-one)"
-  - Day Two
-  - "[Day Three](/entries/2018-05-29-trans-catalina-day-three)"
-  - "[Day Four](/entries/2018-05-30-trans-catalina-day-three)"
 ---
 
 # Trans-Catlina Day Two, Black Jack → Two Harbors, 12.5 miles

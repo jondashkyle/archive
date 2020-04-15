@@ -1,12 +1,7 @@
 ---
+parent: trans-cat
 tags:
   - #walking
-index: 
-  - Introduction
-  - "[Day One](/entries/2018-05-27-trans-catalina-day-one)"
-  - "[Day Two](/entries/2018-05-28-trans-catalina-day-two)"
-  - "[Day Three](/entries/2018-05-29-trans-catalina-day-three)"
-  - "[Day Four](/entries/2018-05-30-trans-catalina-day-four)"
 ---
 
 # Trans-Catalina Trail

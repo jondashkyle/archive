@@ -1,13 +1,8 @@
 ---
 collapse: true
+parent: trans-cat
 tags:
   - #walking
-index: 
-  - "[Introduction](/entries/2018-05-26-trans-catalina-intro)"
-  - Day One
-  - "[Day Two](/entries/2018-05-28-trans-catalina-day-two)"
-  - "[Day Three](/entries/2018-05-29-trans-catalina-day-three)"
-  - "[Day Four](/entries/2018-05-30-trans-catalina-day-four)"
 ---
 
 # Trans-Catlina Day One, Avalon → Black Jack, 15 miles
