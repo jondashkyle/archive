@@ -19,8 +19,11 @@ On April 21st (Tuesday) at 10am PST I’ll be doing a livestream (appropriately)
 There is a chance you will find this useful if:
 
 - You have a built-in audience and want to control the context and environment of the stream beyond what is possible with big streaming platforms.
+
 - You represent a museum, or other cultural venue, looking to transition some upcoming programming online.
+
 - You want to include appropriately licensed material in your stream which may receive an automated copyright strike through a streaming platform.
+
 - You do not want third party ads displayed within or in proximity to your stream.
 
 If anyone has more technical questions, I’ll be glad to touch on them after the stream has been completed. An overview article will be published a few days after the stream, along with an archive of the video.
