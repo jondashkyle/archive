@@ -12,6 +12,10 @@
 
 ### Platforms
 
+- Instagram does not let you use streaming software, however there are [private APIs](https://github.com/dilame/instagram-private-api) which make this possible, however I have had issues with interim disconnects.
+
+- Use existing video embed w/ custom chat. Disable on the platform.
+
 #### Expenses
 
 ### Service APIs
