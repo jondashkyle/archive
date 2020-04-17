@@ -14,7 +14,7 @@ Measures to mitigate the spread of Coronavirus, while clearly necessary, have cr
 
 In reaction to this, I’ve received a series of questions related to live streams across a range of applications, and generally centered around culture. This has led to accumulating a decent amount of experience, and I’d like to share this with everyone who may be having a difficult time navigating the possibilities.
 
-On April 21st (Tuesday) at 10am PST I’ll be doing a livestream (appropriately) here on my personal site. The goal is accessibility, and to help those without deep technical knowledge to make informed decisions. It will also be a good primer for those with fair technical knowledge as to the state of custom live streaming solutions. A few solutions of ranging scale complexity, cost, and time will be covered.
+On April 21st (Tuesday) at 10am PST I’ll be doing a livestream (appropriately) here on my personal site. The goal is accessibility, and to help those without deep technical knowledge to make informed decisions. It will also be a good primer for those with fair technical knowledge as to the state of custom live streaming solutions, and cover concerns of scaling, complexity, cost, and time.
 
 There is a chance you will find this useful if:
 
