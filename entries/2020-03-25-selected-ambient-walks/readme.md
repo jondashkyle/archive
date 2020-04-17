@@ -1,7 +1,7 @@
 ---
 image: walks.png
 link: https://selectedambientwalks.com
-linktext: Visit
+linktext: Take a Walk
 ---
 
 # Selected Ambient Walks
