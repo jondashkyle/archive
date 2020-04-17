@@ -16,9 +16,9 @@ In reaction to this, I’ve received a series of questions related to live strea
 
 On April 21st (Tuesday) at 10am PST I’ll be doing a livestream (appropriately) here on my personal site. We’ll start with the basics, and work up towards technical solutions, along with covering concerns of scaling, complexity, cost, and time.
 
-This will be useful for those who do not program, and are looking for guidance on decision making and topics of discussion within a team. Some of this can be esoteric—the goal is to focus on what is understandable and create a working knowledge of how things fit together.
+This will be useful for those who do not program, and are looking for guidance to inform decision making and discussion within a team. Some of this can be esoteric—the goal is to focus on what is understandable and create a working knowledge of how things fit together.
 
-The second half of the stream will be a good primer on the state of live streaming for those who know some programming, but have yet to get in the weeds with RTMP, HLS, etc… Note that this will not focus on experimental solutions, but solid infrastructure with minimal resources.
+The second half of the stream will be a good primer on the state of live streaming for those who know some programming, but have yet to get in the weeds with RTMP, HLS, etc… Note that this will not focus on experimental solutions, but proven infrastructure with minimal resources.
 
 Consider tuning in if:
 
