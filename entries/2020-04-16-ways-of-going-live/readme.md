@@ -16,10 +16,6 @@ In reaction to this, I’ve received a series of questions related to live strea
 
 On April 21st (Tuesday) at 10am PST I’ll be doing a livestream (appropriately) here on my personal site. We’ll start with the basics, and work up towards technical solutions, along with covering concerns of scaling, complexity, cost, and time.
 
-This will be useful for those who do not program, and are looking for guidance to inform decision making and discussion within a team. Some of this can be esoteric—the goal is to focus on what is understandable and create a working knowledge of how things fit together.
-
-The second half of the stream will be a good primer on the state of live streaming for those who know some programming, but have yet to get in the weeds with RTMP, HLS, etc… Note that this will not focus on experimental solutions, but proven infrastructure with minimal resources.
-
 Consider tuning in if:
 
 - You have a built-in audience and want to control the context and environment of the stream beyond what is possible with big streaming platforms.<br><br>
@@ -29,6 +25,10 @@ Consider tuning in if:
 - You want to include appropriately licensed material in your stream which may receive an automated copyright strike through a streaming platform.<br><br>
 
 - You want to eliminate third party ads displayed within or in proximity to your stream.
+
+This will be useful for those who do not program, and are looking for guidance to inform decision making and discussion within a team. Some of this can be esoteric—the goal is to focus on what is understandable and create a working knowledge of how things fit together.
+
+The second half of the stream will be a good primer on the state of live streaming for those who know some programming, but have yet to get in the weeds with RTMP, HLS, etc… Note that this will not focus on experimental solutions, but proven infrastructure with minimal resources.
 
 If anyone has more technical questions, I’ll be glad to touch on them at the end of the stream. An overview article will be published a few days after the stream, along with an archive of the video.
 
