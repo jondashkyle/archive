@@ -18,7 +18,7 @@ On April 21st (Tuesday) at 10am PST I’ll be doing a livestream (appropriately)
 
 This will be useful for those who do not program, and are looking for guidance on decision making and topics of discussion within a team. Some of this can be esoteric—the goal is to focus on what is understandable and create a working knowledge of how things fit together.
 
-The second half of the stream will be a good primer on the state of live streaming for those who know some programming, but have yet to get in the weeds with RTMP, HLS, etc…
+The second half of the stream will be a good primer on the state of live streaming for those who know some programming, but have yet to get in the weeds with RTMP, HLS, etc… Note that this will not focus on experimental solutions, but solid infrastructure with minimal resources.
 
 Consider tuning in if:
 
@@ -30,8 +30,6 @@ Consider tuning in if:
 
 - You want to eliminate third party ads displayed within or in proximity to your stream.
 
-If anyone has more technical questions, I’ll be glad to touch on them after the at the end of the stream. An overview article will be published a few days after the stream, along with an archive of the video.
-
-Note that this will not focus on experimental solutions, but solid infrastructure with minimal resources.
+If anyone has more technical questions, I’ll be glad to touch on them at the end of the stream. An overview article will be published a few days after the stream, along with an archive of the video.
 
 Hope to see you there ✌️
