@@ -1,6 +1,7 @@
 ---
 collapse: true
 parent: trans-cat
+image: 34-peak_75.jpg
 tags:
   - #walking
 ---
