@@ -1,5 +1,6 @@
 ---
 parent: trans-cat
+image: 01-climbing-out_75.jpg
 tags:
   - #walking
 ---

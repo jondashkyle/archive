@@ -18,11 +18,18 @@
 
 #### Expenses
 
-### Service APIs
+### Service API
 
-- Storage
-- Bandwidth
-- Time
+- Mux
+	- The self professed “Stripe of live streaming”.
+	- Really solid API. Offloads all the hard stuff.
+	- A demo using Glitch.
+	- It’s what this is using
+	- Built in archiving
+	- Solid transcoding pipeline
+	- Reasonable rates
+	- Offering to wave fees for events impacted by COVID.
+
 
 #### Expenses
 

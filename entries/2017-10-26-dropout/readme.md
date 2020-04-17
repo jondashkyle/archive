@@ -1,3 +1,7 @@
+---
+image: dropout-beaker.png
+---
+
 # Dropout
  
 I’ve been on the internet since I was seven or eight. Got my own machine when I was around ten, a hand-me-down. That’s also around when I stopped going to school. We lived in a small town of around 2500. With a connection the browser was truly my window to the world.

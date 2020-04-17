@@ -1,5 +1,6 @@
 ---
 parent: whitney
+image: ZONE.jpg
 tags:
   - #walking
 ---

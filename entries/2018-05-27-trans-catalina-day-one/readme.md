@@ -1,6 +1,7 @@
 ---
 collapse: true
 parent: trans-cat
+image: 09-fog_75.jpg
 tags:
   - #walking
 ---

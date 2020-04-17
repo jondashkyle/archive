@@ -1,3 +1,7 @@
+---
+image: example.jpg
+---
+
 # Simple Sites
 
 I want my sites to be focused and simple. Just a bunch of plain text files, some images. I want to turn those files into a site and update them without having to deal with a server, or apis, or build processes. I want it to be a calm thing. I want to share my site peer-to-peer and not depend on a centralized hosting platform. I want it to be easily archivable.

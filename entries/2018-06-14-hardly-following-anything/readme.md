@@ -1,3 +1,7 @@
+---
+image: hardly-a-screenshot_56.24.png
+---
+
 # Hardly Following Anything
 
 Often I’ll sit down to write something to publish here, but find my attention drifting elsewhere. Social media platforms and their feeds are a huge personal distraction day to day. So, after fully deleting my Facebook and Instagram accounts about a year ago, I just unfollowed everyone on everything else. I’ll still be checking in on everyone, but at my own speed, and I’ve updated a tool for making that easy.

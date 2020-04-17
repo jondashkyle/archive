@@ -1,5 +1,6 @@
 ---
 collapse: true
+image: 42-lands-end_75.jpg
 parent: trans-cat
 tags:
   - #walking

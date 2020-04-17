@@ -1,3 +1,7 @@
+---
+image: image4_66.jpg
+---
+
 # Decentralized Web Summit 2018
 
 For those of us who grew up connected to the Internet, to say the neighborhood looks a little different now is an understatement. There has been unabated progress. Explosive development. Things are a little broken. The possibility of a future techno-pastoralism continues along the cliché of an epic edenic narrative... but perhaps not?

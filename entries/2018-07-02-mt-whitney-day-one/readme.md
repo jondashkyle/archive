@@ -1,6 +1,7 @@
 ---
 collapse: true
 parent: whitney
+image: 24-jg_133.jpg
 tags:
   - #walking
 ---

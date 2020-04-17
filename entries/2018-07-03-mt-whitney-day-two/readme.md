@@ -1,5 +1,6 @@
 ---
 collapse: true
+image: 35-jg_75.jpg
 parent: whitney
 tags:
   - #walking

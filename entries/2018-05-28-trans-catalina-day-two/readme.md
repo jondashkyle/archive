@@ -1,6 +1,7 @@
 ---
 collapse: true
 parent: trans-cat
+image: 19-forward_133.jpg
 tags:
   - #walking
 ---

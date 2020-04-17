@@ -1,3 +1,7 @@
+---
+image: posters-collage.jpg
+---
+
 My friends from [Code for Science and Society](https://codeforscience.org), who are behind the [Dat protocol](http://datproject.org), invited me to lead a workshop at MozFest 2018 in London. I’m an outsider[^1] at conferences, but learned MozFest isn’t very much like other technology conferences, the theme of this year being “your data and you.” There was noticeably less hype and self congratulation compared to similar things.
 
 In the week leading up to the workshop I was excited to have [Andy Pressman of Rumors](https://rumo.rs) working with me to develop the concept. While putting ideas together a source of inspiration was the [Internet as a City workshop](https://internetas.city)[^2] I attended while at the [Decentralized Web Summit](/entries/2018-08-05-decentralized-web-summit) earlier this year. What interests me is the the possibility of gaining insight into something as complex as the internet by looking to the city and urbanism as an analog. Particularly when explaining what it means to *inhabit* networks of both the built and unbuilt environments. I’ve also been reading [Slow Manifesto](https://www.papress.com/html/product.details.dna?isbn=9781616893347), a selection of entries from the Lebbeus Woods blog. While catching a flight from San Fransisco to London I read the [entry about the Buffalo Analog](https://lebbeuswoods.wordpress.com/2009/05/15/as401-buffalo-analog/), fortuitously. This paragraph stood out:
