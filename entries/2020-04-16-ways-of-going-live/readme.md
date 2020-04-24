@@ -1,7 +1,5 @@
 ---
 image: going-live.jpg
-link: http://jondashkyle.s3.amazonaws.com/2020-04/ways-of-going-live.ics
-linktext: Add to Calendar
 ---
 
 # Ways of Going Live
