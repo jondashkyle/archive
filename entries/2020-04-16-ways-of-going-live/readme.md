@@ -4,7 +4,7 @@ image: going-live.jpg
 
 # Ways of Going Live
 
-[Ways of Going Live](http://jondashkyle.s3.amazonaws.com/2020-04/ways-of-going-live.mp4)
+[Ways of Going Live](https://jondashkyle.s3.amazonaws.com/2020-04/ways-of-going-live.mp4)
 
 Measures to mitigate the spread of Coronavirus have created a number of headaches for public gatherings. Simple things like small group hangs, to entire seasons of programming at cultural institutions now on hold.
 
