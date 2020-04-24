@@ -12,7 +12,7 @@ Measures to mitigate the spread of Coronavirus have created a number of headache
 
 I’ve received a series of questions about creating custom live streams, leading to a collection of research and a fair amount of experience. I want to share this with anyone who may have similar questions. Instead of being a comprehensive overview, this is related to the needs of those inquiring projects, and my own idiosyncrasies. It’s concise, but if you have questions, [send a quick note](mailto:contact@jon-kyle.com).
 
-<!-- more -→
+<!-- more -->
 
 A custom livestream may be useful if:
 
