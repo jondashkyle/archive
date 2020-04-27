@@ -64,14 +64,16 @@ Getting running is one thing. Ensuring continuous uptime and scaling introduces 
 
 My process is likely similar to you, if you happen to be reading this. I want to fully control the design and functionality. This means platforms are not a viable option. Likewise, I’m not interested in maintaining servers or intense system architecture.
 
-Out of the possible solutions, this leaves API services remaining. I passed a couple afternoon really digging through the options. Vimeo is too expensive and limited. Livestream is now Vimeo. There really isn’t much else out there, as it’s such a low margin market. But…
+Out of the possible solutions, this leaves API services remaining. I passed a few afternoons really digging through the options. Vimeo is too expensive and limited. Livestream is now Vimeo. There really isn’t much else out there, as it’s such a low margin market. But…
 
-Fortunately there is [Mux](https://mux.com). Mux is the self described “Stripe of live streaming”, and I’d say this is accurate. As someone who is not interested in creating a payment solution, Stripe is my primary choice in payment processing. Likewise with Mux and streaming servers. It all comes down to a good API and documentation. Mux realizes this, and has provided just that.
+Fortunately there is [Mux](https://mux.com). Mux is the self described “Stripe of livestreaming”, and I’d say this is accurate. As someone who is not interested in creating a payment solution, Stripe is my primary choice in payment processing. Likewise with Mux and streaming servers. It all comes down to a good API and documentation. Mux realizes this, and has provided just that.
 
-Mux has a good guide on how to get started, including a [demo using Glitch](https://mux.com/articles/how-to-build-your-own-live-streaming-app-with-mux-video/). Because the server doesn’t store any media, it can be very modest in a pinch.
+Mux has a good guide on how to get started, including a [demo using Glitch](https://mux.com/articles/how-to-build-your-own-live-streaming-app-with-mux-video/). Because your server doesn’t store any media, and only handles authenticating requests to their API, it can be very modest.
 
-## Wrapping it Up
+## In a Nutshell
 
-![r:56.25](recap.jpg)
+1. For the majority of the time, an existing platform will likely suffice.
+2. If there are limitations which are uncompromisable, Mux is a relatively economic solution providing the flexibility likely required.
+3. If issues with an API service arrive, then transitioning to a fully custom solution may be appropriate.
 
-I hope this has been of some help! 
+If you’re looking for someone to assist with a project involving livestreaming, feel free to [send a note](mailto:contact@jon-kyle.com).
