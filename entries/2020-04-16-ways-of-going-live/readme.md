@@ -1,5 +1,5 @@
 ---
-image: going-live.jpg
+image: https://jondashkyle.s3.amazonaws.com/2020-04/ways-of-going-live.jpg
 ---
 
 # Ways of Going Live
